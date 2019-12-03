@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2019 Port of Portland GIS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Data Disclaimer:
+
+Port of Portland geospatial data is gathered, maintained and primarily used for 
+internal reference and analysis, and is only updated as resources permit. Geospatial 
+data refers to data and information referenced to a location on the Earth's surface 
+such as maps, charts, air photos, satellite images, cadastre and land and water 
+surveys, in digital or hard copy form.
+
+Geospatial data may be gathered and maintained by more than one person or department 
+within the Port, and data distributed by one person or department may not reflect the 
+most recent data available from the Port or from other sources. Port geospatial data 
+is not intended for survey or engineering purposes or to describe the authoritative 
+or precise location of boundaries, fixed human works, or the shape and contour of 
+the earth.
+
+The Port makes no warranty of any kind, expressed or implied, including any warranty 
+of merchantability, fitness for a particular purpose, or any other matter with 
+respect to its geospatial data.
+
+The Port is not responsible for possible errors, omissions, misuse, or 
+misrepresentation of its geospatial data.
+
+Port geospatial data is not intended as a final determination of such features as 
+existing or proposed infrastructure, conservation areas, or the boundaries of 
+regulated areas such as wetlands, all of which are subject to surveying or 
+delineation and may change over time. No representation is made concerning the 
+legal status of any apparent route of access identified in geospatial data.
