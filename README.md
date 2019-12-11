@@ -2,6 +2,8 @@
 
 Port of Portland GIS data is updated on a weekly basis (every Monday at 11:59pm). Metadata for each dataset is provided below.
 
+If you're restricted to ArcGIS and need a Shapefile you can use the __JSON to Features__ tool in the Conversion Toolbox. If you don't know what a Shapefile is... probably best to turn the other way and run. 
+
 ## Data Disclaimer
 
 Port of Portland geospatial data is gathered, maintained and primarily used for 
@@ -156,13 +158,13 @@ Properties:
 
 Properties:
 
-* Item 1
+* __"regClass_cd"__ 
 
-* Item 1
+* __"localClass_cd"__ 
 
-* Item 1
+* __"permeability_cd"__ 
 
-* Item 1
+* __"acres"__ 
 
 <hr>
 
@@ -184,12 +186,29 @@ Properties:
 
 Properties:
 
-* Item 1
-
-* Item 1
-
-* Item 1
-
-* Item 1
+facility_cd	
+__"FMEArea"__	
+__"DSL_JD_NUM"__
+__"Acreage"__	
+__"POLY_S_ID"__	
+__"DATA_S_YR"__	
+__"CREAT_YR"__	
+__"data_s_typ_cd"__	
+__"data_meth_cd"__	
+__"data_accu_cd"__	
+__"COWAR_S_YR"__	
+__"hgm_cd"__	
+__"HGM_S_YR"__	
+__"coe_submit_cd"__	
+__"coe_jurisd_cd"__	
+__"COE_JD_NUM"__
+__"dsl_submit_cd"__	
+__"dsl_jurisd_cd"__	
+__"lifecycle_status_cd"__	
+__"FIELD_OBS"__	
+__"SITENAME"__	
+__"DSL_JD_DAT"__	
+__"COE_JD_DAT"__	
+__"SITE_ID"__
 
 <hr>
