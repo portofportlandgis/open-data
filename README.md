@@ -82,12 +82,7 @@ This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 N
 
 Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
 
-
 Properties:
-
-This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
-
-Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
 
 * __"DNLcontour"__ = Day-Night Average Sound Level noise metric in dB
 
