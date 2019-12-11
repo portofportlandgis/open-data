@@ -36,11 +36,9 @@ legal status of any apparent route of access identified in geospatial data.
 
 ## PDX Floor Plan 1st
 
-1st floor of the PDX Airport Terminal. 
+The 1st floor floorplans are a generalized model of the layout of PDX terminal. They are styled as Apple's Indoor Mapping Data Format (IMDF) and show public access rooms and walkways along with transportation modes such as elevators, escalators and moving walkways.
 
 Properties:
-
-* __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
 
@@ -52,11 +50,9 @@ Properties:
 
 ## PDX Floor Plan 2nd
 
-2nd floor of the PDX Airport Terminal.
+The 2nd floor floorplans are a generalized model of the layout of PDX terminal. They are styled as Apple's Indoor Mapping Data Format (IMDF) and show public access rooms and walkways along with transportation modes such as elevators, escalators and moving walkways.
 
 Properties:
-
-* __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
 
@@ -68,11 +64,9 @@ Properties:
 
 ## PDX Floor Plan 3rd
 
-3rd floor of the PDX Airport Terminal.
+The 3rd floor floorplans are a generalized model of the layout of PDX terminal. They are styled as Apple's Indoor Mapping Data Format (IMDF) and show public access rooms and walkways along with transportation modes such as elevators, escalators and moving walkways.
 
 Properties:
-
-* __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
 
