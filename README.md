@@ -36,7 +36,8 @@ legal status of any apparent route of access identified in geospatial data.
 
 1st floor of the PDX Airport Terminal. 
 
-#### Properties:
+Properties:
+
 * __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
@@ -51,7 +52,8 @@ legal status of any apparent route of access identified in geospatial data.
 
 2nd floor of the PDX Airport Terminal.
 
-#### Properties:
+Properties:
+
 * __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
@@ -66,7 +68,8 @@ legal status of any apparent route of access identified in geospatial data.
 
 3rd floor of the PDX Airport Terminal.
 
-#### Properties:
+Properties:
+
 * __"uuid"__ = unique ID 
 
 * __"LEVEL_ID"__ = floor level
@@ -79,72 +82,80 @@ legal status of any apparent route of access identified in geospatial data.
 
 ## PDX Noise Contours 1982
 
-#### Properties
-* Item 1
+Properties:
 
-* Item 1
+* __"DNLcontour"__  
 
-* Item 1
+* __"AREASQMI"__ = area in square miles
 
-* Item 1
+* __"FMEArea"__ = area in square feet
 
 <hr>
 
 ## PDX Noise Contours 1990
 
-#### Properties
-* Item 1
+Properties:
 
-* Item 1
+* __"DNLcontour"__  
 
-* Item 1
+* __"AREASQMI"__ = area in square miles
 
-* Item 1
+* __"FMEArea"__ = area in square feet
 
 <hr>
 
 ## PDX Noise Contours 1994
 
-#### Properties
-* Item 1
+Properties:
 
-* Item 1
+* __"DNLcontour"__  
 
-* Item 1
+* __"AREASQMI"__ = area in square miles
 
-* Item 1
+* __"FMEArea"__ = area in square feet
 
 <hr>
 
 ## PDX Noise Contours 2008
 
-#### Properties
-* Item 1
+Properties:
 
-* Item 1
+* __"DNLcontour"__  
 
-* Item 1
+* __"AREASQMI"__ = area in square miles
 
-* Item 1
+* __"FMEArea"__ = area in square feet
 
 <hr>
 
 ## Mitigation Sites
 
-#### Properties
-* Item 1
+Properties:
 
-* Item 1
+* __"port_facility"__ 
 
-* Item 1
+* __"mitigation_type_cd"__ 
 
-* Item 1
+* __"impact_project"__ 
+
+* __"coe_permit"__ 
+
+* __"dsl_permit"__ 
+
+* __"other_permits"__ 
+
+* __"FMEArea"__ 
+
+* __"coe_date"__ 
+
+* __"dsl_date"__ 
 
 <hr>
 
 ## Natural Resource Inventory 
 
-#### Properties
+Properties:
+
 * Item 1
 
 * Item 1
@@ -157,7 +168,8 @@ legal status of any apparent route of access identified in geospatial data.
 
 ## Stormwater Pipes
 
-#### Properties
+Properties:
+
 * Item 1
 
 * Item 1
@@ -170,7 +182,8 @@ legal status of any apparent route of access identified in geospatial data.
 
 ## Wetlands
 
-#### Properties
+Properties:
+
 * Item 1
 
 * Item 1
