@@ -1,4 +1,4 @@
-# Open Data from Port of Portland GIS
+# Port of Portland GIS Open Data
 
 ## Data Disclaimer
 
@@ -33,13 +33,13 @@ legal status of any apparent route of access identified in geospatial data.
 1st floor of the PDX Airport Terminal. 
 
 #### Properties
-* _uuid
+* _uuid_ - unique ID 
 
-* LEVEL_ID
+* _LEVEL_ID_ - floor level
 
-* CATEGORY
+* _CATEGORY_ - floor use/type
 
-* RESTRICTED
+* _RESTRICTED_ - restricted access area 
 
 
 
