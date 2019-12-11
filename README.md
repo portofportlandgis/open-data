@@ -128,19 +128,17 @@ Properties:
 
 Properties:
 
-* __"port_facility"__ 
+* __"port_facility"__ = Port of Portland property name 
 
-* __"mitigation_type_cd"__ 
+* __"mitigation_type_cd"__ = the type of mitigation site
 
-* __"impact_project"__ 
+* __"coe_permit"__ = Corp of Engineers permit number 
 
-* __"coe_permit"__ 
+* __"dsl_permit"__  = Department of State Lands permit number
 
-* __"dsl_permit"__ 
+* __"other_permits"__ = Permits not related to COE or DSL
 
-* __"other_permits"__ 
-
-* __"FMEArea"__ 
+* __"FMEArea"__ = area in square feet
 
 * __"coe_date"__ 
 
@@ -152,13 +150,13 @@ Properties:
 
 Properties:
 
-* __"regClass_cd"__ 
+* __"regClass_cd"__ = Regional Classification 
 
-* __"localClass_cd"__ 
+* __"localClass_cd"__  = Local Classification 
 
-* __"permeability_cd"__ 
+* __"permeability_cd"__ = the permeability of surface (pervious or impervious)
 
-* __"acres"__ 
+* __"acres"__ = area in acres
 
 <hr>
 
@@ -198,7 +196,7 @@ Properties:
 
 * __"DSL_JD_NUM"__
 
-* __"Acreage"__	
+* __"Acreage"__	 
 
 * __"POLY_S_ID"__	
 
@@ -232,12 +230,12 @@ Properties:
 
 * __"FIELD_OBS"__	
 
-* __"SITENAME"__	
+* __"SITENAME"__	= name of wetland
 
 * __"DSL_JD_DAT"__	
 
 * __"COE_JD_DAT"__	
 
-* __"SITE_ID"__
+* __"SITE_ID"__ = ID of wetland
 
 <hr>
