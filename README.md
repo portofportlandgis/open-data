@@ -1,5 +1,7 @@
 # Port of Portland GIS Open Data
 
+Port of Portland GIS data is updated on weekly basis (every Monday at 11:59pm). Metadata for each dataset is provided below.
+
 ## Data Disclaimer
 
 Port of Portland geospatial data is gathered, maintained and primarily used for 
@@ -32,39 +34,43 @@ legal status of any apparent route of access identified in geospatial data.
 
 1st floor of the PDX Airport Terminal. 
 
-#### Properties
-* _uuid_ - unique ID 
+#### Properties:
+* __"uuid"__ = unique ID 
 
-* _LEVEL_ID_ - floor level
+* __"LEVEL_ID"__ - floor level
 
-* _CATEGORY_ - floor use/type
+* __"CATEGORY"__ - floor use/type
 
-* _RESTRICTED_ - restricted access area 
+* __"RESTRICTED"__ - restricted access area 
 
 
 
 ## PDX Floor Plan 2nd
 
-#### Properties
-* Item 1
+2nd floor of the PDX Airport Terminal.
 
-* Item 1
+#### Properties:
+* __"uuid"__ = unique ID 
 
-* Item 1
+* __"LEVEL_ID"__ - floor level
 
-* Item 1
+* __"CATEGORY"__ - floor use/type
+
+* __"RESTRICTED"__ - restricted access area 
 
 
 ## PDX Floor Plan 3rd
 
-#### Properties
-* Item 1
+3rd floor of the PDX Airport Terminal.
 
-* Item 1
+#### Properties:
+* __"uuid"__ = unique ID 
 
-* Item 1
+* __"LEVEL_ID"__ - floor level
 
-* Item 1
+* __"CATEGORY"__ - floor use/type
+
+* __"RESTRICTED"__ - restricted access area 
 
 
 
