@@ -193,7 +193,7 @@ Properties:
 
 * __"DSL_JD_NUM"__
 
-* __"Acreage"__	 area in acres
+* __"Acreage"__	= area in acres
 
 * __"POLY_S_ID"__	
 
