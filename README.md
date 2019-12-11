@@ -1,6 +1,6 @@
 # Port of Portland GIS Open Data
 
-Port of Portland GIS data is updated on a weekly basis (every Monday at 11:59pm). Metadata for each dataset is provided below.
+Port of Portland GIS data is updated on a weekly basis (every Monday at 5:00am PST). Metadata for each dataset is provided below.
 
 If you're restricted to ArcGIS and need a Shapefile you can use the __JSON to Features__ tool in the Conversion Toolbox. If you don't know what a Shapefile is... probably best to turn the other way and run. 
 
