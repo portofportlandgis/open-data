@@ -199,28 +199,51 @@ Properties:
 Properties:
 
 * __"facility_cd"__	
+
 * __"FMEArea"__	
+
 * __"DSL_JD_NUM"__
+
 * __"Acreage"__	
+
 * __"POLY_S_ID"__	
+
 * __"DATA_S_YR"__	
+
 * __"CREAT_YR"__	
+
 * __"data_s_typ_cd"__	
+
 * __"data_meth_cd"__	
+
 * __"data_accu_cd"__	
+
 * __"COWAR_S_YR"__	
+
 * __"hgm_cd"__	
+
 * __"HGM_S_YR"__	
+
 * __"coe_submit_cd"__	
+
 * __"coe_jurisd_cd"__	
+
 * __"COE_JD_NUM"__
+
 * __"dsl_submit_cd"__	
+
 * __"dsl_jurisd_cd"__	
+
 * __"lifecycle_status_cd"__	
+
 * __"FIELD_OBS"__	
+
 * __"SITENAME"__	
+
 * __"DSL_JD_DAT"__	
+
 * __"COE_JD_DAT"__	
+
 * __"SITE_ID"__
 
 <hr>
