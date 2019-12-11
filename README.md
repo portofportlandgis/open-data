@@ -1,6 +1,6 @@
 # Port of Portland GIS Open Data
 
-Port of Portland GIS data is updated on weekly basis (every Monday at 11:59pm). Metadata for each dataset is provided below.
+Port of Portland GIS data is updated on a weekly basis (every Monday at 11:59pm). Metadata for each dataset is provided below.
 
 ## Data Disclaimer
 
@@ -37,12 +37,11 @@ legal status of any apparent route of access identified in geospatial data.
 #### Properties:
 * __"uuid"__ = unique ID 
 
-* __"LEVEL_ID"__ - floor level
+* __"LEVEL_ID"__ = floor level
 
-* __"CATEGORY"__ - floor use/type
+* __"CATEGORY"__ = floor use/type
 
-* __"RESTRICTED"__ - restricted access area 
-
+* __"RESTRICTED"__ = restricted access area 
 
 
 ## PDX Floor Plan 2nd
@@ -52,11 +51,11 @@ legal status of any apparent route of access identified in geospatial data.
 #### Properties:
 * __"uuid"__ = unique ID 
 
-* __"LEVEL_ID"__ - floor level
+* __"LEVEL_ID"__ = floor level
 
-* __"CATEGORY"__ - floor use/type
+* __"CATEGORY"__ = floor use/type
 
-* __"RESTRICTED"__ - restricted access area 
+* __"RESTRICTED"__ = restricted access area 
 
 
 ## PDX Floor Plan 3rd
@@ -66,18 +65,15 @@ legal status of any apparent route of access identified in geospatial data.
 #### Properties:
 * __"uuid"__ = unique ID 
 
-* __"LEVEL_ID"__ - floor level
+* __"LEVEL_ID"__ = floor level
 
-* __"CATEGORY"__ - floor use/type
+* __"CATEGORY"__ = floor use/type
 
-* __"RESTRICTED"__ - restricted access area 
+* __"RESTRICTED"__ = restricted access area 
 
 
 
 ## PDX Noise Contours 1982
-
-#### Description:
-coming soon
 
 #### Properties
 * Item 1
