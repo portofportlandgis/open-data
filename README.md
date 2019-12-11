@@ -140,9 +140,9 @@ Properties:
 
 * __"FMEArea"__ = area in square feet
 
-* __"coe_date"__ 
+* __"coe_date"__ = date of the jurisdictional determination for the COE
 
-* __"dsl_date"__ 
+* __"dsl_date"__ = date of concurrence for DSL
 
 <hr>
 
