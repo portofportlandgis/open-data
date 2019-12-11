@@ -172,13 +172,25 @@ Properties:
 
 Properties:
 
-* Item 1
+* __"subtype_resolved"__	
 
-* Item 1
+* __"owner_cd_resolved"__	
 
-* Item 1
+* __"loc_survey_quality_cd_resolved"__	
 
-* Item 1
+* __"facility_cd_resolved"__	
+
+* __"lifecycle_status_cd_resolved"__	
+
+* __"sewer_type_cd_resolved"__	
+
+* __"loc_survey_quality_date"__	
+
+* __"IE_out_survey_quality_cd_resolved"__	
+
+* __"material_cd_resolved"__	
+
+* __"IE_in_survey_quality_cd_resolved"__	
 
 <hr>
 
