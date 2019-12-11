@@ -164,25 +164,22 @@ Properties:
 
 Properties:
 
-* __"subtype_resolved"__	
+* __"subtype_resolved"__	= type/function of feature
 
-* __"owner_cd_resolved"__	
+* __"owner_cd_resolved"__	= owner of feature i.e. Port of Portland, or City of Portland
 
-* __"loc_survey_quality_cd_resolved"__	
+* __"loc_survey_quality_cd_resolved"__	= location survey quality of feature
 
-* __"facility_cd_resolved"__	
+* __"facility_cd_resolved"__	= Port of Portland property name 
 
-* __"lifecycle_status_cd_resolved"__	
+* __"lifecycle_status_cd_resolved"__	= lifecycle status of feature i.e. removed, or active
 
-* __"sewer_type_cd_resolved"__	
+* __"sewer_type_cd_resolved"__	= sewer feature's type/function
 
-* __"loc_survey_quality_date"__	
+* __"loc_survey_quality_date"__	 = date of location survey quality of feature
 
-* __"IE_out_survey_quality_cd_resolved"__	
+* __"material_cd_resolved"__	= material of feature
 
-* __"material_cd_resolved"__	
-
-* __"IE_in_survey_quality_cd_resolved"__	
 
 <hr>
 
@@ -190,13 +187,13 @@ Properties:
 
 Properties:
 
-* __"facility_cd"__	
+* __"facility_cd"__	 = Port of Portland property name 
 
-* __"FMEArea"__	
+* __"FMEArea"__	 = area in square feet
 
 * __"DSL_JD_NUM"__
 
-* __"Acreage"__	 
+* __"Acreage"__	 area in acres
 
 * __"POLY_S_ID"__	
 
@@ -206,7 +203,7 @@ Properties:
 
 * __"data_s_typ_cd"__	
 
-* __"data_meth_cd"__	
+* __"data_meth_cd"__	= how the data was collected/created
 
 * __"data_accu_cd"__	
 
