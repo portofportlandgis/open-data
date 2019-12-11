@@ -76,11 +76,20 @@ Properties:
 
 <hr>
 
-## PDX Noise Contours 1982
+## PDX Noise Contours 1982 (FAR Part 150)
+
+This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
+
+Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
+
 
 Properties:
 
-* __"DNLcontour"__  
+This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
+
+Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
+
+* __"DNLcontour"__ = Day-Night Average Sound Level noise metric in dB
 
 * __"AREASQMI"__ = area in square miles
 
@@ -88,11 +97,15 @@ Properties:
 
 <hr>
 
-## PDX Noise Contours 1990
+## PDX Noise Contours 1990 (FAR Part 150)
+
+This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
+
+Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
 
 Properties:
 
-* __"DNLcontour"__  
+* __"DNLcontour"__ = Day-Night Average Sound Level noise metric in dB
 
 * __"AREASQMI"__ = area in square miles
 
@@ -100,11 +113,15 @@ Properties:
 
 <hr>
 
-## PDX Noise Contours 1994
+## PDX Noise Contours 1994 (FAR Part 150)
+
+This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
+
+Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
 
 Properties:
 
-* __"DNLcontour"__  
+* __"DNLcontour"__ = Day-Night Average Sound Level noise metric in dB
 
 * __"AREASQMI"__ = area in square miles
 
@@ -112,11 +129,15 @@ Properties:
 
 <hr>
 
-## PDX Noise Contours 2008
+## PDX Noise Contours 2008 (FAR Part 150)
+
+This data comes from Noise Exposure Maps developed as part of FAA FAR Part 150 Noise Compatibility Studies for PDX. The FAA required that they weere developed with the use of the Integrated Noise Model (INM).
+
+Day-Night Average Sound Level (DNL) is the noise metric the FAA and EPA suggest airport proprietors use in judging land use compatibility with aircraft noise. By federal guidelines residential, scholastic, religious and some other uses are incompatible with levels at or above 65 dB DNL.
 
 Properties:
 
-* __"DNLcontour"__  
+* __"DNLcontour"__ = Day-Night Average Sound Level noise metric in dB 
 
 * __"AREASQMI"__ = area in square miles
 
