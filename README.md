@@ -142,6 +142,8 @@ Properties:
 
 ## Mitigation Sites
 
+Mitigation and enhancement sites that are either owned or managed by the Port of Portland. These sites are managed as natural areas to maintain site ecology and improve wildlife habitat.  
+
 Properties:
 
 * __"port_facility"__ = Port of Portland property name 
@@ -162,7 +164,9 @@ Properties:
 
 <hr>
 
-## Natural Resource Inventory 
+## Natural Resource Inventory
+
+A natural resources mapping and inventory dataset that characterizes and maps Port properties in terms of existing land cover, wildlife habitat, and vegetation. It was completed using geographic information systems (GIS) and on-the-ground observations of Port property to define existing resource habitat type.
 
 Properties:
 
@@ -200,6 +204,8 @@ Properties:
 <hr>
 
 ## Wetlands
+
+Boundary of known jurisdictional wetlands on Port of Portland property either field delineated or identified using remote sensing (i.e., aerial photo or LiDAR interpretation). Updated as new wetland data on Port property becomes available.
 
 Properties:
 
