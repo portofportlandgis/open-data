@@ -213,47 +213,45 @@ Properties:
 
 * __"FMEArea"__	 = area in square feet
 
-* __"DSL_JD_NUM"__
+* __"DSL_JD_NUM"__ = File number assigned to the delineation report by the Oregon Department of State Lands.
 
 * __"Acreage"__	= area in acres
 
-* __"POLY_S_ID"__	
+* __"POLY_S_ID"__	 = Wetland polygon ID in original data
 
-* __"DATA_S_YR"__	
+* __"DATA_S_YR"__	 = Source and year of original data
 
-* __"CREAT_YR"__	
+* __"CREAT_YR"__	= Creator and year of polygon if different than DATA_S_YR
 
-* __"data_s_typ_cd"__	
+* __"data_s_typ_cd"__	 = Data source type
 
 * __"data_meth_cd"__	= how the data was collected/created
 
-* __"data_accu_cd"__	
+* __"data_accu_cd"__	= accuracy of data
 
-* __"COWAR_S_YR"__	
+* __"COWAR_S_YR"__	= Source and year of Cowardin data if different than DATA_S_YR
 
 * __"hgm_cd"__	
 
-* __"HGM_S_YR"__	
+* __"HGM_S_YR"__	= Source and year of HGM if different than DATA_S_YR
 
-* __"coe_submit_cd"__	
+* __"coe_submit_cd"__	 = Was the delineation submitted to a federal regulatory agency--US Army Corps of Engineers? Yes/No
 
-* __"coe_jurisd_cd"__	
+* __"coe_jurisd_cd"__	 = Federal jurisdiction under US Army Corps of Engineers
 
-* __"COE_JD_NUM"__
+* __"COE_JD_NUM"__ = File number assigned to the delineation by the COE (may be the same as the permit number)
 
-* __"dsl_submit_cd"__	
+* __"dsl_submit_cd"__	= Was the delineation submitted to a state regulatory agency--Oregon Department of State Lands? Yes/No
 
-* __"dsl_jurisd_cd"__	
+* __"dsl_jurisd_cd"__	 = State jurisdiction under Oregon Department of State Lands.
 
-* __"lifecycle_status_cd"__	
-
-* __"FIELD_OBS"__	
+* __"FIELD_OBS"__	= was the wetland boundary field verified?
 
 * __"SITENAME"__	= name of wetland
 
-* __"DSL_JD_DAT"__	
+* __"DSL_JD_DAT"__	= Date of concurrence that initiates the 5 year period on which the DSL permit is valid.
 
-* __"COE_JD_DAT"__	
+* __"COE_JD_DAT"__	= Date that the jurisdictional determination was issued by the COE
 
 * __"SITE_ID"__ = ID of wetland
 
