@@ -2,7 +2,7 @@
 
 Port of Portland GIS data is updated every Monday at 5:00am PST (if the file has changed from the previous upload). Metadata for each dataset is provided below.
 
-If you're restricted to ArcGIS and need a Shapefile you can use the __JSON to Features__ tool in the Conversion Toolbox. If you don't know what a Shapefile is... probably best to turn the other way and run. 
+If you're restricted to ArcGIS and need a Shapefile you can use the __JSON to Features__ tool in the Conversion Toolbox in ArcMap (or better, just convert it in QGIS). If you don't know what a Shapefile is... probably best to turn the other way and run. 
 
 ## Data Disclaimer
 
