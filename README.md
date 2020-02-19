@@ -34,6 +34,27 @@ legal status of any apparent route of access identified in geospatial data.
 
 <hr>
 
+## PoP Tax Lot
+
+Port of Portland owned tax lots layer. Port tax lots were derived from Multnomah county tax lot data. You can find more information at https://www.portlandmaps.com/metadata/index.cfm?action=DisplayLayer&LayerID=52065 
+
+
+<hr>
+
+## PoP Property Boundary 
+
+The Port of Portland's boundary of ownership and operations. 
+
+Properties:
+
+* __"FMEArea"__ = area in square ft. 
+
+* __"FACILITY"__ = Port facilty short-hand name
+
+* __"NAME"__ = full name of Port facility 
+
+<hr>
+
 ## PDX Floor Plan 1st
 
 The 1st floor floorplans are a generalized model of the layout of PDX terminal. They are styled as Apple's Indoor Mapping Data Format (IMDF) and show public access rooms and walkways along with transportation modes such as elevators, escalators and moving walkways.
