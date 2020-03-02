@@ -660,7 +660,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "GI",
-				"FMEArea" : "13014270.52",
+				"FMEArea" : "13014270.5195313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 298.767,
 				"POLY_S_ID" : "",
@@ -761,7 +761,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "2259268.8",
+				"FMEArea" : "2259268.80175781",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 51.866,
 				"POLY_S_ID" : "",
@@ -1503,7 +1503,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1115987.01",
+				"FMEArea" : "1115987.01367188",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -1893,7 +1893,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1088452.79",
+				"FMEArea" : "1088452.78710938",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -2509,7 +2509,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "570603.21",
+				"FMEArea" : "570603.210449219",
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "as-built drawings/DEA 2/23/2007",
 				"CREAT_YR" : "2012",
@@ -2760,7 +2760,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "346160.33",
+				"FMEArea" : "346160.332519531",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -2833,7 +2833,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "337230.41",
+				"FMEArea" : "337230.405761719",
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
@@ -3246,7 +3246,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "310502.14",
+				"FMEArea" : "310502.137695313",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -3296,7 +3296,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "288480.36",
+				"FMEArea" : "288480.361816406",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 7.004,
 				"POLY_S_ID" : "Wetland 7B",
@@ -3367,7 +3367,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "T5",
-				"FMEArea" : "260575.05",
+				"FMEArea" : "260575.047851563",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.982,
 				"POLY_S_ID" : "",
@@ -3482,7 +3482,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "238718.24",
+				"FMEArea" : "238718.242675781",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.48,
 				"POLY_S_ID" : "",
@@ -3908,7 +3908,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "237445.28",
+				"FMEArea" : "237445.283691406",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -4364,7 +4364,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "236867.03",
+				"FMEArea" : "236867.025390625",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -4561,7 +4561,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "234564.32",
+				"FMEArea" : "234564.318847656",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 5.38483424,
 				"POLY_S_ID" : "Wetland C",
@@ -4733,7 +4733,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "231774.71",
+				"FMEArea" : "231774.705078125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.321,
 				"POLY_S_ID" : "SW QUAD STUDY AREA",
@@ -4832,7 +4832,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "226794.51",
+				"FMEArea" : "226794.506835938",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.206,
 				"POLY_S_ID" : "",
@@ -4912,7 +4912,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "219573.99",
+				"FMEArea" : "219573.994140625",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 5.04072588,
 				"POLY_S_ID" : "Wetland J",
@@ -5371,7 +5371,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "202799.09",
+				"FMEArea" : "202799.094238281",
 				"POLY_S_ID" : "Wetland H",
 				"DATA_S_YR" : "as-built drawings/DEA 2/23/2007",
 				"CREAT_YR" : "2012",
@@ -5516,7 +5516,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "189090.98",
+				"FMEArea" : "189090.979980469",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.341,
 				"POLY_S_ID" : "",
@@ -5689,7 +5689,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "183985.54",
+				"FMEArea" : "183985.537109375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.224,
 				"POLY_S_ID" : "SW QUAD STUDY AREA",
@@ -5873,7 +5873,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "183535.63",
+				"FMEArea" : "183535.634277344",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.213,
 				"POLY_S_ID" : "",
@@ -6002,7 +6002,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "176158.03",
+				"FMEArea" : "176158.028808594",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 4.044,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -6180,7 +6180,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "163589.64",
+				"FMEArea" : "163589.638671875",
 				"DSL_JD_NUM" : "WD11-0288/WD17-0336",
 				"Acreage" : 3.79,
 				"POLY_S_ID" : "Wetland 6A & 3A",
@@ -6248,7 +6248,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "153973.45",
+				"FMEArea" : "153973.446289063",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.535,
 				"POLY_S_ID" : "",
@@ -6294,7 +6294,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "149463.52",
+				"FMEArea" : "149463.520507813",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.431,
 				"POLY_S_ID" : "",
@@ -6427,7 +6427,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "148700.91",
+				"FMEArea" : "148700.910644531",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 3.41370258,
 				"POLY_S_ID" : "Wetland C",
@@ -6538,7 +6538,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "147832.32",
+				"FMEArea" : "147832.319824219",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.394,
 				"POLY_S_ID" : "",
@@ -6596,7 +6596,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "141440.54",
+				"FMEArea" : "141440.543457031",
 				"DSL_JD_NUM" : "98-0094",
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "DEA 1/10/1997",
@@ -6704,7 +6704,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "139197.97",
+				"FMEArea" : "139197.96875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.196,
 				"POLY_S_ID" : "",
@@ -6749,7 +6749,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "137225.76",
+				"FMEArea" : "137225.755859375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.15,
 				"POLY_S_ID" : "",
@@ -6951,7 +6951,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "127949.48",
+				"FMEArea" : "127949.483886719",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -7021,7 +7021,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "RG",
-				"FMEArea" : "127263.9",
+				"FMEArea" : "127263.901855469",
 				"DATA_S_YR" : "Port staff delineation",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
@@ -7089,7 +7089,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "125564.02",
+				"FMEArea" : "125564.024902344",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.883,
 				"POLY_S_ID" : "",
@@ -7147,7 +7147,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "117777.72",
+				"FMEArea" : "117777.722167969",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 2.7039999999999997,
 				"POLY_S_ID" : "AREA D",
@@ -7526,7 +7526,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "104474.42",
+				"FMEArea" : "104474.424316406",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.398,
 				"POLY_S_ID" : "",
@@ -7656,7 +7656,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "103679.16",
+				"FMEArea" : "103679.155761719",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.38,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -7742,7 +7742,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "102621.01",
+				"FMEArea" : "102621.008300781",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.38,
 				"POLY_S_ID" : "wetland 5",
@@ -7804,7 +7804,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "101336.73",
+				"FMEArea" : "101336.731445313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.326,
 				"POLY_S_ID" : "SITE 123",
@@ -7923,7 +7923,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "100886.85",
+				"FMEArea" : "100886.852539063",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.316,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -8300,7 +8300,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "100245.94",
+				"FMEArea" : "100245.944824219",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -8327,7 +8327,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "97542.42",
+				"FMEArea" : "97542.4169921875",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 2.239,
 				"POLY_S_ID" : "AREA A",
@@ -8410,7 +8410,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "97055.68",
+				"FMEArea" : "97055.6826171875",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 2.22809223,
 				"POLY_S_ID" : "Wetland E",
@@ -8533,7 +8533,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "95578.48",
+				"FMEArea" : "95578.482421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland",
@@ -8589,7 +8589,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "93934.88",
+				"FMEArea" : "93934.8759765625",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 1.904,
 				"POLY_S_ID" : "Wetland R3",
@@ -8767,7 +8767,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "92836.41",
+				"FMEArea" : "92836.4130859375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -9313,7 +9313,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "91234.17",
+				"FMEArea" : "91234.1694335938",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -9404,7 +9404,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "91075",
+				"FMEArea" : "91075.001953125",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 2.09078594,
 				"POLY_S_ID" : "Wetland Z",
@@ -9475,7 +9475,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "RG",
-				"FMEArea" : "88764.87",
+				"FMEArea" : "88764.8745117188",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.038,
 				"POLY_S_ID" : "",
@@ -9656,7 +9656,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "88255.36",
+				"FMEArea" : "88255.357421875",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -9742,7 +9742,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "84140.07",
+				"FMEArea" : "84140.0688476563",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 1.9315902500000002,
 				"POLY_S_ID" : "Wetland B",
@@ -9791,7 +9791,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "83858.63",
+				"FMEArea" : "83858.630859375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.925,
 				"POLY_S_ID" : "",
@@ -9845,7 +9845,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "82922.46",
+				"FMEArea" : "82922.458984375",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 1.90363722,
 				"POLY_S_ID" : "Wetland D",
@@ -9999,7 +9999,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "78752.91",
+				"FMEArea" : "78752.9125976563",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -10033,7 +10033,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "77998.42",
+				"FMEArea" : "77998.419921875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.345,
 				"POLY_S_ID" : "Wetland 6",
@@ -10113,7 +10113,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "70189.6",
+				"FMEArea" : "70189.6040039063",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.611,
 				"POLY_S_ID" : "",
@@ -10203,7 +10203,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "68985.37",
+				"FMEArea" : "68985.3735351563",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.584,
 				"POLY_S_ID" : "",
@@ -10264,7 +10264,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "64867.65",
+				"FMEArea" : "64867.6518554688",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland A1",
@@ -10313,7 +10313,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "64635.57",
+				"FMEArea" : "64635.5732421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.484,
 				"POLY_S_ID" : "",
@@ -10393,7 +10393,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "GVBP",
-				"FMEArea" : "64291.9",
+				"FMEArea" : "64291.9013671875",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 1.48,
 				"POLY_S_ID" : "Wetland G",
@@ -10451,7 +10451,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "T5",
-				"FMEArea" : "64162.47",
+				"FMEArea" : "64162.470703125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.473,
 				"POLY_S_ID" : "",
@@ -10515,7 +10515,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "60463.24",
+				"FMEArea" : "60463.2421875",
 				"DSL_JD_NUM" : "02-0479",
 				"Acreage" : 1.388,
 				"POLY_S_ID" : "",
@@ -10599,7 +10599,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "59403.59",
+				"FMEArea" : "59403.5864257813",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland",
@@ -10664,7 +10664,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "59354.14",
+				"FMEArea" : "59354.142578125",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 1.3599999999999999,
 				"POLY_S_ID" : "Wetland E ",
@@ -10923,7 +10923,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "56345.86",
+				"FMEArea" : "56345.85546875",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 1.29,
 				"POLY_S_ID" : "G",
@@ -11190,7 +11190,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "56204.43",
+				"FMEArea" : "56204.427734375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -11241,7 +11241,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "RG",
-				"FMEArea" : "55168.47",
+				"FMEArea" : "55168.4702148438",
 				"DATA_S_YR" : "Port staff delineation ",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
@@ -11280,7 +11280,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "54965.8",
+				"FMEArea" : "54965.80078125",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 1.262,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -11491,7 +11491,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "53097.39",
+				"FMEArea" : "53097.39453125",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -11517,7 +11517,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "51971.93",
+				"FMEArea" : "51971.927734375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.193,
 				"POLY_S_ID" : "Wetland 4",
@@ -11565,7 +11565,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "RG",
-				"FMEArea" : "51881.88",
+				"FMEArea" : "51881.8828125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.191,
 				"POLY_S_ID" : "",
@@ -11663,7 +11663,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "51314.66",
+				"FMEArea" : "51314.6557617188",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.18,
 				"POLY_S_ID" : "unnamed slough",
@@ -11774,7 +11774,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO",
 				"facility_cd" : "HIO",
-				"FMEArea" : "46663.14",
+				"FMEArea" : "46663.1440429688",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 1.07,
 				"POLY_S_ID" : "C",
@@ -12117,7 +12117,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "45007.26",
+				"FMEArea" : "45007.2583007813",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -12148,7 +12148,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "44995.33",
+				"FMEArea" : "44995.3315429688",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 1.03295015,
 				"POLY_S_ID" : "Wetland K",
@@ -12199,7 +12199,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "41920.85",
+				"FMEArea" : "41920.8471679688",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.96,
 				"POLY_S_ID" : "bb",
@@ -12283,7 +12283,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "41618.21",
+				"FMEArea" : "41618.2109375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.9550000000000001,
 				"POLY_S_ID" : "",
@@ -12338,7 +12338,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "41592.78",
+				"FMEArea" : "41592.7822265625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.9550000000000001,
 				"POLY_S_ID" : "SW QUAD-SOUTH STUDY AREA",
@@ -12511,7 +12511,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "41363.65",
+				"FMEArea" : "41363.65234375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -12585,7 +12585,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "40364.1",
+				"FMEArea" : "40364.0961914063",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.927,
 				"POLY_S_ID" : "",
@@ -12651,7 +12651,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "RG",
-				"FMEArea" : "38935.14",
+				"FMEArea" : "38935.1376953125",
 				"DATA_S_YR" : "Port Staff Delineation",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
@@ -12697,7 +12697,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "38689.55",
+				"FMEArea" : "38689.5502929688",
 				"Acreage" : 0.93008499,
 				"POLY_S_ID" : "D",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -12810,7 +12810,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "37308.59",
+				"FMEArea" : "37308.59375",
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Lcl",
@@ -12852,7 +12852,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "36541.88",
+				"FMEArea" : "36541.87890625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.84,
 				"POLY_S_ID" : "Wetland D ",
@@ -12924,7 +12924,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "34616.86",
+				"FMEArea" : "34616.86328125",
 				"Acreage" : 0.79,
 				"POLY_S_ID" : "E",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -12966,7 +12966,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "34284.77",
+				"FMEArea" : "34284.7709960938",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.787,
 				"POLY_S_ID" : "",
@@ -13039,7 +13039,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "34221.54",
+				"FMEArea" : "34221.5444335938",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.78561848,
 				"POLY_S_ID" : "",
@@ -13093,7 +13093,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "33618.84",
+				"FMEArea" : "33618.84375",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.77178236,
 				"POLY_S_ID" : "Wetland F",
@@ -13154,7 +13154,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "30802.39",
+				"FMEArea" : "30802.3896484375",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.707,
 				"POLY_S_ID" : "SITE 121",
@@ -13274,7 +13274,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "30738.06",
+				"FMEArea" : "30738.0649414063",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.71,
 				"POLY_S_ID" : "C",
@@ -13352,7 +13352,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "30150.39",
+				"FMEArea" : "30150.3857421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.6920000000000001,
 				"POLY_S_ID" : "",
@@ -13414,7 +13414,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "30003.71",
+				"FMEArea" : "30003.7119140625",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.6890000000000001,
 				"POLY_S_ID" : "Water 4A",
@@ -13492,7 +13492,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "29372.44",
+				"FMEArea" : "29372.4350585938",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -13521,7 +13521,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "28630.27",
+				"FMEArea" : "28630.2666015625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.657,
 				"POLY_S_ID" : "SITE 122",
@@ -13585,7 +13585,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "28419.77",
+				"FMEArea" : "28419.7709960938",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.652,
 				"POLY_S_ID" : "AREA 1 COE 6/92",
@@ -13655,7 +13655,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "28244.17",
+				"FMEArea" : "28244.1684570313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.648,
 				"POLY_S_ID" : "",
@@ -13711,7 +13711,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "27951.51",
+				"FMEArea" : "27951.5122070313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.642,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -13779,7 +13779,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "27397.66",
+				"FMEArea" : "27397.662109375",
 				"POLY_S_ID" : "Salmon Creek",
 				"DATA_S_YR" : "DEA 2/23/2007",
 				"data_s_typ_cd" : "Pvt",
@@ -13820,7 +13820,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "26484.67",
+				"FMEArea" : "26484.6684570313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.608,
 				"POLY_S_ID" : "",
@@ -13897,7 +13897,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "25929.82",
+				"FMEArea" : "25929.8217773438",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.7911514,
 				"POLY_S_ID" : "Arata Creek",
@@ -14345,7 +14345,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "25775.84",
+				"FMEArea" : "25775.8359375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -14383,7 +14383,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "25606.51",
+				"FMEArea" : "25606.5122070313",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.588,
 				"POLY_S_ID" : "3A",
@@ -14481,7 +14481,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "24627.24",
+				"FMEArea" : "24627.2416992188",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.5650000000000001,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -14528,7 +14528,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "24566.58",
+				"FMEArea" : "24566.5756835938",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.5640000000000001,
 				"POLY_S_ID" : "AREA B",
@@ -14584,7 +14584,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "24489.88",
+				"FMEArea" : "24489.87890625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.62,
 				"POLY_S_ID" : "wetland 3",
@@ -14636,7 +14636,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "23761.17",
+				"FMEArea" : "23761.16796875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.545,
 				"POLY_S_ID" : "",
@@ -14780,7 +14780,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "22824.17",
+				"FMEArea" : "22824.166015625",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.52,
 				"POLY_S_ID" : "wetland A",
@@ -14835,7 +14835,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "22643.1",
+				"FMEArea" : "22643.0986328125",
 				"DSL_JD_NUM" : "N/A",
 				"Acreage" : 0.51981191,
 				"POLY_S_ID" : "Water Control Structure",
@@ -14916,7 +14916,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "22378.28",
+				"FMEArea" : "22378.27734375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.5,
 				"POLY_S_ID" : "Wetland W1",
@@ -15002,7 +15002,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "21394.87",
+				"FMEArea" : "21394.865234375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -15073,7 +15073,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO/PSS/PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "20699.49",
+				"FMEArea" : "20699.4877929688",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.48,
 				"POLY_S_ID" : "10A",
@@ -15142,7 +15142,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "20611.36",
+				"FMEArea" : "20611.3647460938",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.47000000000000003,
 				"POLY_S_ID" : "stormwater swale",
@@ -16067,7 +16067,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "20328.15",
+				"FMEArea" : "20328.1484375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.467,
 				"POLY_S_ID" : "SITE 114",
@@ -16145,7 +16145,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "19818.87",
+				"FMEArea" : "19818.87109375",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland J",
@@ -16302,7 +16302,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "19001.56",
+				"FMEArea" : "19001.5629882813",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -16340,7 +16340,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "18903.19",
+				"FMEArea" : "18903.1909179688",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.434,
 				"POLY_S_ID" : "4A",
@@ -16400,7 +16400,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "18854.63",
+				"FMEArea" : "18854.6328125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.433,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -16464,7 +16464,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "17546.18",
+				"FMEArea" : "17546.1821289063",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.4,
 				"POLY_S_ID" : "Wetland B",
@@ -16561,7 +16561,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "17414.36",
+				"FMEArea" : "17414.357421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.4,
 				"POLY_S_ID" : "",
@@ -16628,7 +16628,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "GVBP",
-				"FMEArea" : "17309.12",
+				"FMEArea" : "17309.1240234375",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.4,
 				"POLY_S_ID" : "Wetland H",
@@ -16675,7 +16675,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "16711.36",
+				"FMEArea" : "16711.359375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.384,
 				"POLY_S_ID" : "Wetland A4",
@@ -16731,7 +16731,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "16087.65",
+				"FMEArea" : "16087.6499023438",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.369,
 				"POLY_S_ID" : "SITE 135",
@@ -16829,7 +16829,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "15982.25",
+				"FMEArea" : "15982.2490234375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.367,
 				"POLY_S_ID" : "Wetland 1",
@@ -16877,7 +16877,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "15785.77",
+				"FMEArea" : "15785.765625",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.36239166,
 				"POLY_S_ID" : "Wetland G",
@@ -16929,7 +16929,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "15731.53",
+				"FMEArea" : "15731.529296875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.36,
 				"POLY_S_ID" : "Wetland W2",
@@ -16983,7 +16983,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "15431.03",
+				"FMEArea" : "15431.02734375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.35000000000000003,
 				"POLY_S_ID" : "aa",
@@ -17032,7 +17032,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "14862.28",
+				"FMEArea" : "14862.2827148438",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.341,
 				"POLY_S_ID" : "",
@@ -17084,7 +17084,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "14163.32",
+				"FMEArea" : "14163.3193359375",
 				"Acreage" : 0.32,
 				"POLY_S_ID" : "D",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -17137,7 +17137,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "13400.09",
+				"FMEArea" : "13400.0864257813",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.308,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -17196,7 +17196,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "12969.56",
+				"FMEArea" : "12969.556640625",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.30000000000000004,
 				"POLY_S_ID" : "8A",
@@ -17341,7 +17341,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "12794.35",
+				"FMEArea" : "12794.3549804688",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.294,
 				"POLY_S_ID" : "",
@@ -17399,7 +17399,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "12744.68",
+				"FMEArea" : "12744.6840820313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07,
 				"POLY_S_ID" : "28A",
@@ -17450,7 +17450,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12624.07",
+				"FMEArea" : "12624.0747070313",
 				"Acreage" : 0.29,
 				"POLY_S_ID" : "B",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -17496,7 +17496,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "12465.94",
+				"FMEArea" : "12465.9370117188",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.29,
 				"POLY_S_ID" : "A",
@@ -17545,7 +17545,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12394.81",
+				"FMEArea" : "12394.8125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.28500000000000003,
 				"POLY_S_ID" : "Wetland A2",
@@ -17606,7 +17606,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12339.91",
+				"FMEArea" : "12339.9106445313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.28300000000000003,
 				"POLY_S_ID" : "",
@@ -17671,7 +17671,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12339.91",
+				"FMEArea" : "12339.9106445313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.28300000000000003,
 				"POLY_S_ID" : "",
@@ -17753,7 +17753,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "11950.15",
+				"FMEArea" : "11950.1518554688",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -17832,7 +17832,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "11889.31",
+				"FMEArea" : "11889.3149414063",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -17907,7 +17907,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "11780.48",
+				"FMEArea" : "11780.4833984375",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland I",
@@ -17996,7 +17996,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "CAS",
-				"FMEArea" : "10811.52",
+				"FMEArea" : "10811.5151367188",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.09,
 				"POLY_S_ID" : "Wetland 6A",
@@ -18047,7 +18047,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "10517.86",
+				"FMEArea" : "10517.8559570313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.241,
 				"POLY_S_ID" : "",
@@ -18111,7 +18111,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "10193.88",
+				"FMEArea" : "10193.8793945313",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.234,
 				"POLY_S_ID" : "SITE 137",
@@ -18284,7 +18284,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "GVBP",
-				"FMEArea" : "10188.76",
+				"FMEArea" : "10188.7607421875",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.23,
 				"POLY_S_ID" : "Creek system",
@@ -18366,7 +18366,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "9918.29",
+				"FMEArea" : "9918.29296875",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -18412,7 +18412,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "9797.6",
+				"FMEArea" : "9797.59521484375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.22,
 				"POLY_S_ID" : "Wetland C",
@@ -18472,7 +18472,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "9479.77",
+				"FMEArea" : "9479.77294921875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.21762667,
 				"POLY_S_ID" : "",
@@ -18516,7 +18516,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "9300.58",
+				"FMEArea" : "9300.57958984375",
 				"Acreage" : 0.21,
 				"POLY_S_ID" : "A",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -18546,7 +18546,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "8929.89",
+				"FMEArea" : "8929.89111328125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.21,
 				"POLY_S_ID" : "wetland 1",
@@ -18600,7 +18600,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "8860.16",
+				"FMEArea" : "8860.15966796875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.2,
 				"POLY_S_ID" : "ditch",
@@ -18648,7 +18648,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "8812.94",
+				"FMEArea" : "8812.94091796875",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.2,
 				"POLY_S_ID" : "Ditch 6 ",
@@ -18690,7 +18690,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "8665.27",
+				"FMEArea" : "8665.2744140625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.26,
 				"POLY_S_ID" : "wetland 12",
@@ -18753,7 +18753,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "8618.87",
+				"FMEArea" : "8618.86865234375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.198,
 				"POLY_S_ID" : "Wetland B1",
@@ -18797,7 +18797,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "8524.6",
+				"FMEArea" : "8524.60009765625",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.2,
 				"POLY_S_ID" : "3B",
@@ -18846,7 +18846,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "8475.16",
+				"FMEArea" : "8475.15625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.19,
 				"POLY_S_ID" : "U",
@@ -18897,7 +18897,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "7828.71",
+				"FMEArea" : "7828.70849609375",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.17972187,
 				"POLY_S_ID" : "Ditch 1",
@@ -18971,7 +18971,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "GVBP",
-				"FMEArea" : "7562.66",
+				"FMEArea" : "7562.66259765625",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.17,
 				"POLY_S_ID" : "Wetland E",
@@ -19028,7 +19028,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "7311.87",
+				"FMEArea" : "7311.87451171875",
 				"Acreage" : 0.17,
 				"POLY_S_ID" : "G",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -19058,7 +19058,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "7296.17",
+				"FMEArea" : "7296.17236328125",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.17,
 				"POLY_S_ID" : "K",
@@ -19099,7 +19099,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "7269.81",
+				"FMEArea" : "7269.814453125",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.167,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -19142,7 +19142,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "T5",
-				"FMEArea" : "7033.47",
+				"FMEArea" : "7033.47021484375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.161,
 				"POLY_S_ID" : "",
@@ -19197,7 +19197,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "6578.87",
+				"FMEArea" : "6578.869140625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.27,
 				"POLY_S_ID" : "Salmon Creek ",
@@ -19237,7 +19237,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PIC",
-				"FMEArea" : "6574.11",
+				"FMEArea" : "6574.111328125",
 				"Acreage" : 0.15,
 				"POLY_S_ID" : "partial wetland delineation",
 				"DATA_S_YR" : "SWCA 2017",
@@ -19289,7 +19289,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "6524.76",
+				"FMEArea" : "6524.75732421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.15,
 				"POLY_S_ID" : "SITE 137",
@@ -19434,7 +19434,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "6483.36",
+				"FMEArea" : "6483.35986328125",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.15,
 				"POLY_S_ID" : "L",
@@ -19551,7 +19551,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "6330.19",
+				"FMEArea" : "6330.18994140625",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.15,
 				"POLY_S_ID" : "H",
@@ -19599,7 +19599,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PDX",
-				"FMEArea" : "6267.55",
+				"FMEArea" : "6267.5546875",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.14,
 				"POLY_S_ID" : "9C",
@@ -19653,7 +19653,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "6012.49",
+				"FMEArea" : "6012.4921875",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -19686,7 +19686,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "5739.88",
+				"FMEArea" : "5739.87548828125",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.13176956,
 				"POLY_S_ID" : "Wetland I",
@@ -19785,7 +19785,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "5720.48",
+				"FMEArea" : "5720.48291015625",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.13132361,
 				"POLY_S_ID" : "Wetland AB",
@@ -19833,7 +19833,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "5317.08",
+				"FMEArea" : "5317.08447265625",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.122,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -19887,7 +19887,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "5228.96",
+				"FMEArea" : "5228.96142578125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.107,
 				"POLY_S_ID" : "Wetland A5",
@@ -19930,7 +19930,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "5059.2",
+				"FMEArea" : "5059.20166015625",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -19983,7 +19983,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "5032.97",
+				"FMEArea" : "5032.96826171875",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.12,
 				"POLY_S_ID" : "Ditch 2",
@@ -20029,7 +20029,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "5020.19",
+				"FMEArea" : "5020.19091796875",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.11524774,
 				"POLY_S_ID" : "Wetland H",
@@ -20074,7 +20074,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "4965.6",
+				"FMEArea" : "4965.6015625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.11,
 				"POLY_S_ID" : "Ditch 5 ",
@@ -20120,7 +20120,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "4942.51",
+				"FMEArea" : "4942.50537109375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.113,
 				"POLY_S_ID" : "Wetland A10",
@@ -20169,7 +20169,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "4748.06",
+				"FMEArea" : "4748.0625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.38,
 				"POLY_S_ID" : "wetland 5",
@@ -20284,7 +20284,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "4737.63",
+				"FMEArea" : "4737.625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.109,
 				"POLY_S_ID" : "",
@@ -20460,7 +20460,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "4668.82",
+				"FMEArea" : "4668.8193359375",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.11,
 				"POLY_S_ID" : "M",
@@ -20512,7 +20512,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "4560.91",
+				"FMEArea" : "4560.90576171875",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -20549,7 +20549,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "4560.91",
+				"FMEArea" : "4560.90576171875",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -20592,7 +20592,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "4209.08",
+				"FMEArea" : "4209.0849609375",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.09662689000000001,
 				"POLY_S_ID" : "Wetland Y",
@@ -20661,7 +20661,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3904.98",
+				"FMEArea" : "3904.982421875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08964687,
 				"POLY_S_ID" : "",
@@ -20710,7 +20710,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "GVBP",
-				"FMEArea" : "3836.27",
+				"FMEArea" : "3836.27392578125",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.09,
 				"POLY_S_ID" : "Wetland F",
@@ -20750,7 +20750,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3743.71",
+				"FMEArea" : "3743.70947265625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.7069999999999999,
 				"POLY_S_ID" : "Wetland 7A",
@@ -20789,7 +20789,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "3697.83",
+				"FMEArea" : "3697.8349609375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.085,
 				"POLY_S_ID" : "",
@@ -20871,7 +20871,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "3688.46",
+				"FMEArea" : "3688.4619140625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "Ditch 3 ",
@@ -20928,7 +20928,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "3665.02",
+				"FMEArea" : "3665.017578125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.084,
 				"POLY_S_ID" : "",
@@ -20970,7 +20970,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "3606.59",
+				"FMEArea" : "3606.58642578125",
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
@@ -21036,7 +21036,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "3579.22",
+				"FMEArea" : "3579.2197265625",
 				"DSL_JD_NUM" : "WD08-0336",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "Ditch 2",
@@ -21073,7 +21073,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3505.73",
+				"FMEArea" : "3505.72509765625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "V",
@@ -21116,7 +21116,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "3503.58",
+				"FMEArea" : "3503.58251953125",
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
@@ -21150,7 +21150,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "ATC",
-				"FMEArea" : "3496.33",
+				"FMEArea" : "3496.3291015625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "",
@@ -21201,7 +21201,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "3418",
+				"FMEArea" : "3418.00146484375",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "Ditch 7 ",
@@ -21239,7 +21239,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3322.91",
+				"FMEArea" : "3322.91162109375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.076,
 				"POLY_S_ID" : "Wetland A3",
@@ -21292,7 +21292,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3256.25",
+				"FMEArea" : "3256.24658203125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07,
 				"POLY_S_ID" : "Wetland A",
@@ -21340,7 +21340,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3254.16",
+				"FMEArea" : "3254.1552734375",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.075,
 				"POLY_S_ID" : "12A",
@@ -21473,7 +21473,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3201.76",
+				"FMEArea" : "3201.7578125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07350194,
 				"POLY_S_ID" : "",
@@ -21553,7 +21553,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "3162.55",
+				"FMEArea" : "3162.5546875",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.07260198,
 				"POLY_S_ID" : "Wetland AA",
@@ -21599,7 +21599,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3120.23",
+				"FMEArea" : "3120.22802734375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.07200000000000001,
 				"POLY_S_ID" : "Wetland FH2",
@@ -21820,7 +21820,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "3056.7",
+				"FMEArea" : "3056.697265625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07,
 				"POLY_S_ID" : "SITE 113",
@@ -21870,7 +21870,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "2990.78",
+				"FMEArea" : "2990.7802734375",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.1,
 				"POLY_S_ID" : "Wetland A ",
@@ -21905,7 +21905,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2959.67",
+				"FMEArea" : "2959.6728515625",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.0679449,
 				"POLY_S_ID" : "Ditch 1",
@@ -21972,7 +21972,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2942.97",
+				"FMEArea" : "2942.97412109375",
 				"POLY_S_ID" : "Salmon Creek",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
 				"CREAT_YR" : "2012",
@@ -22007,7 +22007,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2873.21",
+				"FMEArea" : "2873.20556640625",
 				"Acreage" : 0.07,
 				"POLY_S_ID" : "C",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -22050,7 +22050,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2823.1",
+				"FMEArea" : "2823.09521484375",
 				"Acreage" : 0.07,
 				"POLY_S_ID" : "F",
 				"DATA_S_YR" : "ES&A 6/2014",
@@ -22086,7 +22086,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2790.46",
+				"FMEArea" : "2790.458984375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.057,
 				"POLY_S_ID" : "Wetland A6",
@@ -22121,7 +22121,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "2694.24",
+				"FMEArea" : "2694.23681640625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.26,
 				"POLY_S_ID" : "wetland 12",
@@ -22164,7 +22164,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2683.07",
+				"FMEArea" : "2683.07080078125",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.06,
 				"POLY_S_ID" : "A",
@@ -22209,7 +22209,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "2675.27",
+				"FMEArea" : "2675.265625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.27,
 				"POLY_S_ID" : "Salmon Creek ",
@@ -22271,7 +22271,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "2539.4",
+				"FMEArea" : "2539.40380859375",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.27,
 				"POLY_S_ID" : "Salmon Creek ",
@@ -22319,7 +22319,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2481.95",
+				"FMEArea" : "2481.9462890625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.06,
 				"POLY_S_ID" : "Wetland D",
@@ -22369,7 +22369,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2478.19",
+				"FMEArea" : "2478.1943359375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -22402,7 +22402,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "2476.91",
+				"FMEArea" : "2476.91259765625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.057,
 				"POLY_S_ID" : "",
@@ -22445,7 +22445,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "2455.33",
+				"FMEArea" : "2455.33154296875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.056,
 				"POLY_S_ID" : "",
@@ -22493,7 +22493,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PDX",
-				"FMEArea" : "2444.19",
+				"FMEArea" : "2444.1884765625",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.06,
 				"POLY_S_ID" : "9A",
@@ -22543,7 +22543,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "2389.82",
+				"FMEArea" : "2389.8212890625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.62,
 				"POLY_S_ID" : "wetland 3",
@@ -22584,7 +22584,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "2356.02",
+				"FMEArea" : "2356.01953125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.05,
 				"POLY_S_ID" : "B",
@@ -22630,7 +22630,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "2345.39",
+				"FMEArea" : "2345.3916015625",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.05384255,
 				"POLY_S_ID" : "Wetland A",
@@ -22674,7 +22674,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "2308.26",
+				"FMEArea" : "2308.2587890625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.053,
 				"POLY_S_ID" : "",
@@ -22745,7 +22745,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "2234.95",
+				"FMEArea" : "2234.94873046875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.051000000000000004,
 				"POLY_S_ID" : "",
@@ -22809,7 +22809,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2232.49",
+				"FMEArea" : "2232.49267578125",
 				"POLY_S_ID" : "Ditch 4",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
 				"CREAT_YR" : "2012",
@@ -22843,7 +22843,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "2231.07",
+				"FMEArea" : "2231.072265625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.051000000000000004,
 				"POLY_S_ID" : "",
@@ -22910,7 +22910,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2168.46"
+				"FMEArea" : "2168.46240234375"
 			}
 		},
 		{
@@ -22941,7 +22941,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2134.3",
+				"FMEArea" : "2134.29736328125",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -22970,7 +22970,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2132.78",
+				"FMEArea" : "2132.775390625",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.04896159,
 				"POLY_S_ID" : "Wetland D",
@@ -23014,7 +23014,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2113.3",
+				"FMEArea" : "2113.3046875",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.052000000000000005,
 				"POLY_S_ID" : "Wetland B3",
@@ -23052,7 +23052,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "2072.54",
+				"FMEArea" : "2072.5400390625",
 				"DSL_JD_NUM" : "WD-2008-0332",
 				"Acreage" : 0.05,
 				"POLY_S_ID" : "cc",
@@ -23098,7 +23098,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PIC",
-				"FMEArea" : "2039.99",
+				"FMEArea" : "2039.9853515625",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.05,
 				"POLY_S_ID" : "Wetland 3B",
@@ -23162,7 +23162,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1929.25",
+				"FMEArea" : "1929.24951171875",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.04428929,
 				"POLY_S_ID" : "Salmon Creek",
@@ -23199,7 +23199,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "1913.67",
+				"FMEArea" : "1913.666015625",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "3A",
@@ -23244,7 +23244,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1901.08",
+				"FMEArea" : "1901.0791015625",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "wetland B",
@@ -23294,7 +23294,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1893.86"
+				"FMEArea" : "1893.85693359375"
 			}
 		},
 		{
@@ -23321,7 +23321,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "1850.64",
+				"FMEArea" : "1850.63720703125",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "Wetland C",
@@ -23366,7 +23366,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1799.34",
+				"FMEArea" : "1799.34033203125",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.041,
 				"POLY_S_ID" : "10A",
@@ -23405,7 +23405,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "PIC",
-				"FMEArea" : "1759.37",
+				"FMEArea" : "1759.37451171875",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"POLY_S_ID" : "Ditch 4A",
 				"DATA_S_YR" : "SWCA 2017",
@@ -23441,7 +23441,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1714.97",
+				"FMEArea" : "1714.97265625",
 				"DSL_JD_NUM" : "WD-2008-0332",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "dd",
@@ -23482,7 +23482,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "1697.33",
+				"FMEArea" : "1697.3310546875",
 				"Acreage" : 0.03896535,
 				"POLY_S_ID" : "M",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -23599,7 +23599,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "1687.63",
+				"FMEArea" : "1687.626953125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.039,
 				"POLY_S_ID" : "",
@@ -23667,7 +23667,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "1668.65",
+				"FMEArea" : "1668.64794921875",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "Ditch 1",
@@ -23710,7 +23710,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1652.26",
+				"FMEArea" : "1652.2646484375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -23742,7 +23742,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1651.84",
+				"FMEArea" : "1651.8408203125",
 				"DSL_JD_NUM" : "2016-0152",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "wetland 2",
@@ -23808,7 +23808,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "1645.75",
+				"FMEArea" : "1645.74560546875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.038,
 				"POLY_S_ID" : "",
@@ -23872,7 +23872,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "1634.05",
+				"FMEArea" : "1634.04541015625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.08,
 				"POLY_S_ID" : "Ditch 1 ",
@@ -23924,7 +23924,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "1629.71",
+				"FMEArea" : "1629.70947265625",
 				"DSL_JD_NUM" : "WD08-0336",
 				"Acreage" : 0.037,
 				"POLY_S_ID" : "ditch 1",
@@ -23962,7 +23962,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1605.57",
+				"FMEArea" : "1605.57275390625",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.037,
 				"POLY_S_ID" : "Wetland A11",
@@ -24009,7 +24009,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "1602.29",
+				"FMEArea" : "1602.2861328125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.037,
 				"POLY_S_ID" : "",
@@ -24067,7 +24067,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1595.25",
+				"FMEArea" : "1595.2509765625",
 				"DSL_JD_NUM" : "WD-2004-0361",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "wetland 5",
@@ -24114,7 +24114,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1521.18",
+				"FMEArea" : "1521.1806640625",
 				"Acreage" : 0.034,
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
@@ -24143,7 +24143,7 @@
 			"properties" : {
 				"COWARDIN" : "ditch",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1428.37",
+				"FMEArea" : "1428.37158203125",
 				"DSL_JD_NUM" : "2015-0329",
 				"POLY_S_ID" : "Ditch 1",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
@@ -24181,7 +24181,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1426.44",
+				"FMEArea" : "1426.4375",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.033,
 				"POLY_S_ID" : "12D",
@@ -24224,7 +24224,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1420.49",
+				"FMEArea" : "1420.48779296875",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.033,
 				"POLY_S_ID" : "4B",
@@ -24289,7 +24289,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1418.62",
+				"FMEArea" : "1418.619140625",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.03256685,
 				"POLY_S_ID" : "Wetland AD",
@@ -24332,7 +24332,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1413.54",
+				"FMEArea" : "1413.5390625",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.032,
 				"POLY_S_ID" : "Wetland R4",
@@ -24371,7 +24371,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1388.43",
+				"FMEArea" : "1388.4326171875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.032,
 				"POLY_S_ID" : "SITE 135",
@@ -24419,7 +24419,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1382.33",
+				"FMEArea" : "1382.32861328125",
 				"DSL_JD_NUM" : "WD#12-0374",
 				"Acreage" : 0.03,
 				"POLY_S_ID" : "Wetland A ",
@@ -24458,7 +24458,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1359.61",
+				"FMEArea" : "1359.60986328125",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.031,
 				"POLY_S_ID" : "12C",
@@ -24526,7 +24526,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1214.97",
+				"FMEArea" : "1214.97265625",
 				"DSL_JD_NUM" : "WD08-0336",
 				"Acreage" : 0.03,
 				"POLY_S_ID" : "wetland",
@@ -24574,7 +24574,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO/PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1192.64",
+				"FMEArea" : "1192.6396484375",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.03,
 				"POLY_S_ID" : "B",
@@ -24628,7 +24628,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1181.72",
+				"FMEArea" : "1181.71728515625",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -24653,7 +24653,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "1166.31",
+				"FMEArea" : "1166.31103515625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.027,
 				"POLY_S_ID" : "",
@@ -24694,7 +24694,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1164.41",
+				"FMEArea" : "1164.4111328125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.027,
 				"POLY_S_ID" : "Wetland FH3",
@@ -24751,7 +24751,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "1110.48",
+				"FMEArea" : "1110.48486328125",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.03,
 				"POLY_S_ID" : "Wetland F",
@@ -24788,7 +24788,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1085.14",
+				"FMEArea" : "1085.142578125",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.025,
 				"POLY_S_ID" : "12B",
@@ -24830,7 +24830,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "1024.44",
+				"FMEArea" : "1024.4443359375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.024,
 				"POLY_S_ID" : "",
@@ -24871,7 +24871,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1002.99",
+				"FMEArea" : "1002.99169921875",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.023,
 				"POLY_S_ID" : "Wetland R5",
@@ -24909,7 +24909,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "998.65",
+				"FMEArea" : "998.6455078125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.023,
 				"POLY_S_ID" : "Wetland A7",
@@ -24950,7 +24950,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "980.76",
+				"FMEArea" : "980.75634765625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.02,
 				"POLY_S_ID" : "Wetland B",
@@ -24992,7 +24992,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "944.8",
+				"FMEArea" : "944.80419921875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.03,
 				"POLY_S_ID" : "Wetland E",
@@ -25031,7 +25031,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "861.48",
+				"FMEArea" : "861.47509765625",
 				"DSL_JD_NUM" : "WD-2008-0332",
 				"Acreage" : 0.02,
 				"POLY_S_ID" : "ee",
@@ -25078,7 +25078,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "782.01",
+				"FMEArea" : "782.01123046875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0,
 				"POLY_S_ID" : "Wetland",
@@ -25118,7 +25118,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "773.68",
+				"FMEArea" : "773.67529296875",
 				"Acreage" : 0.01776117,
 				"POLY_S_ID" : "N",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -25181,7 +25181,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "758.68",
+				"FMEArea" : "758.6787109375",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.01741684,
 				"POLY_S_ID" : "Wetland AC",
@@ -25266,7 +25266,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "753.27",
+				"FMEArea" : "753.265625",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.02,
 				"POLY_S_ID" : "N",
@@ -25317,7 +25317,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "739.16",
+				"FMEArea" : "739.1640625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.04,
 				"POLY_S_ID" : "wetland 2",
@@ -25360,7 +25360,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "722.87",
+				"FMEArea" : "722.87255859375",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.02,
 				"POLY_S_ID" : "wetland C",
@@ -25401,7 +25401,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "640.99",
+				"FMEArea" : "640.990234375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.015,
 				"POLY_S_ID" : "Wetland FH1",
@@ -25441,7 +25441,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "625.85",
+				"FMEArea" : "625.8544921875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.014,
 				"POLY_S_ID" : "D",
@@ -25480,7 +25480,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "HIO",
-				"FMEArea" : "607.65",
+				"FMEArea" : "607.64892578125",
 				"Acreage" : 0.013949699999999999,
 				"POLY_S_ID" : "L",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -25515,7 +25515,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "560.94",
+				"FMEArea" : "560.943359375",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.01287755,
 				"POLY_S_ID" : "Wetland A",
@@ -25565,7 +25565,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "516.06",
+				"FMEArea" : "516.06103515625",
 				"DSL_JD_NUM" : "WD-2004-0361",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "wetland 6",
@@ -25614,7 +25614,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "509.97",
+				"FMEArea" : "509.9736328125",
 				"DSL_JD_NUM" : "WD-2004-0361",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "wetland 7",
@@ -25656,7 +25656,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PDX",
-				"FMEArea" : "499.2",
+				"FMEArea" : "499.203125",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "9B",
@@ -25697,7 +25697,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "476",
+				"FMEArea" : "475.99560546875",
 				"Acreage" : 0.01,
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
@@ -25727,7 +25727,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "474.51",
+				"FMEArea" : "474.51220703125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "Wetland 1",
@@ -25782,7 +25782,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "435.28",
+				"FMEArea" : "435.2802734375",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.00999261,
 				"POLY_S_ID" : "Ditch 4",
@@ -25816,7 +25816,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "416.89",
+				"FMEArea" : "416.88818359375",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "Wetland A12",
@@ -25877,7 +25877,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "416.14",
+				"FMEArea" : "416.140625",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.00955322,
 				"POLY_S_ID" : "Wetland AE",
@@ -25950,7 +25950,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "372.44",
+				"FMEArea" : "372.4404296875",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "P",
@@ -25987,7 +25987,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "330.96"
+				"FMEArea" : "330.96435546875"
 			}
 		},
 		{
@@ -26011,7 +26011,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "316.3",
+				"FMEArea" : "316.3046875",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.007,
 				"POLY_S_ID" : "Wetland A8-2",
@@ -26049,7 +26049,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "316.13",
+				"FMEArea" : "316.13427734375",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.0072574200000000005,
 				"POLY_S_ID" : "Wetland G",
@@ -26091,7 +26091,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "303.29",
+				"FMEArea" : "303.2939453125",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.007,
 				"POLY_S_ID" : "",
@@ -26149,7 +26149,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "292.04",
+				"FMEArea" : "292.0390625",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.007,
 				"POLY_S_ID" : "",
@@ -26191,7 +26191,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "275.69",
+				"FMEArea" : "275.68603515625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.2,
 				"POLY_S_ID" : "Ditch 6",
@@ -26230,7 +26230,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "258.8",
+				"FMEArea" : "258.79638671875",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.38,
 				"POLY_S_ID" : "wetland 5",
@@ -26279,7 +26279,7 @@
 			"properties" : {
 				"COWARDIN" : "ditch",
 				"facility_cd" : "HIO",
-				"FMEArea" : "255.84",
+				"FMEArea" : "255.83642578125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "Ditch 2",
@@ -26321,7 +26321,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "253.62",
+				"FMEArea" : "253.61865234375",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.01,
 				"POLY_S_ID" : "wetland A east",
@@ -26364,7 +26364,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "242.16",
+				"FMEArea" : "242.15625",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.006,
 				"POLY_S_ID" : "Wetland B2",
@@ -26400,7 +26400,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO",
 				"facility_cd" : "HIO",
-				"FMEArea" : "191.59",
+				"FMEArea" : "191.5869140625",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.004,
 				"POLY_S_ID" : "D",
@@ -26438,7 +26438,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "181.75",
+				"FMEArea" : "181.75146484375",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -26485,7 +26485,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "155.18",
+				"FMEArea" : "155.177734375",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.004,
 				"POLY_S_ID" : "O",
@@ -26524,7 +26524,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "152.52",
+				"FMEArea" : "152.51806640625",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -26546,7 +26546,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TTD",
-				"FMEArea" : "119.33",
+				"FMEArea" : "119.33447265625",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.0001,
 				"POLY_S_ID" : "Ditch 4 ",
@@ -26582,7 +26582,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "116.07",
+				"FMEArea" : "116.07177734375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.003,
 				"POLY_S_ID" : "",
@@ -26669,7 +26669,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "80.39",
+				"FMEArea" : "80.3935546875",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.002,
 				"POLY_S_ID" : "Wetland A9",
@@ -26704,7 +26704,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "76.33",
+				"FMEArea" : "76.32861328125",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
@@ -26728,7 +26728,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "66.07",
+				"FMEArea" : "66.06689453125",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.002,
 				"POLY_S_ID" : "Wetland A8-1",
@@ -26763,7 +26763,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "60.43",
+				"FMEArea" : "60.4287109375",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.001,
 				"POLY_S_ID" : "Wetland 2",
@@ -26801,7 +26801,7 @@
 			},
 			"properties" : {
 				"facility_cd" : "TRIP",
-				"FMEArea" : "27.15",
+				"FMEArea" : "27.15478515625",
 				"DATA_S_YR" : "2018 As-Built",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp"
