@@ -471,7 +471,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : "LUR-93-00538EN (COP)",
-				"FMEArea" : "19697283",
+				"FMEArea" : "19697283.0024414",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -1000,7 +1000,7 @@
 				"impact_project" : "TRIP",
 				"coe_permit" : "NWP-2007-889(1)",
 				"dsl_permit" : "54848-RF",
-				"FMEArea" : "5293427.26",
+				"FMEArea" : "5293427.25732422",
 				"coe_date" : "2015-01-09"
 			}
 		},
@@ -1131,7 +1131,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : " ",
-				"FMEArea" : "2288293.06"
+				"FMEArea" : "2288293.06396484"
 			}
 		},
 		{
@@ -1290,7 +1290,7 @@
 				"coe_permit" : " ",
 				"dsl_permit" : " ",
 				"other_permits" : "Rivergate Cooperative Agreement, 1988",
-				"FMEArea" : "1801689.91"
+				"FMEArea" : "1801689.91015625"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 				"coe_permit" : "NWP 32-2002-00133",
 				"dsl_permit" : "25119-RF",
 				"other_permits" : "LU 02-134231 EN (COP)",
-				"FMEArea" : "1726230.77",
+				"FMEArea" : "1726230.77246094",
 				"coe_date" : "2002-09-24",
 				"dsl_date" : "2002-11-08"
 			}
@@ -1989,7 +1989,7 @@
 				"coe_permit" : "2000-043",
 				"dsl_permit" : "FP-21878",
 				"other_permits" : "LU 00-00365 (COP)",
-				"FMEArea" : "1084331.43",
+				"FMEArea" : "1084331.43115234",
 				"coe_date" : "2000-07-21",
 				"dsl_date" : "2000-05-09"
 			}
@@ -2314,7 +2314,7 @@
 				"coe_permit" : "95-534",
 				"dsl_permit" : "FP-9836-Renewal",
 				"other_permits" : " ",
-				"FMEArea" : "811120.34",
+				"FMEArea" : "811120.342285156",
 				"coe_date" : "1995-09-01",
 				"dsl_date" : "1996-10-01"
 			}
@@ -2421,7 +2421,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : "LUR-93-00539EN (COP)",
-				"FMEArea" : "789275.19",
+				"FMEArea" : "789275.192871094",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -2644,7 +2644,7 @@
 				"coe_permit" : "NWP 32-2001-00247",
 				"dsl_permit" : " ",
 				"other_permits" : "LU 02-125102 EN (COP)",
-				"FMEArea" : "778726.52",
+				"FMEArea" : "778726.518066406",
 				"dsl_date" : "2001-07-30"
 			}
 		},
@@ -2706,7 +2706,7 @@
 				"coe_permit" : "99-632",
 				"dsl_permit" : "FP-17198",
 				"other_permits" : "LU 00-00365 (COP)",
-				"FMEArea" : "775773.9",
+				"FMEArea" : "775773.897460938",
 				"coe_date" : "1999-08-13",
 				"dsl_date" : "1999-07-09"
 			}
@@ -2792,7 +2792,7 @@
 				"coe_permit" : "NWP-2008-658",
 				"dsl_permit" : "4/26/2010",
 				"other_permits" : " ",
-				"FMEArea" : "728324.57",
+				"FMEArea" : "728324.565429688",
 				"coe_date" : "2010-05-04"
 			}
 		},
@@ -3009,7 +3009,7 @@
 				"coe_permit" : "NWP 32-2001-00247",
 				"dsl_permit" : "23801-RF",
 				"other_permits" : "LUR 01-00658 EN (COP)",
-				"FMEArea" : "705556.56",
+				"FMEArea" : "705556.564941406",
 				"coe_date" : "2001-08-17",
 				"dsl_date" : "2001-07-30"
 			}
@@ -3055,7 +3055,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : " ",
-				"FMEArea" : "414516.86",
+				"FMEArea" : "414516.86328125",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -3098,7 +3098,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "COP 13-192302-000-00-ZP",
-				"FMEArea" : "373598.02"
+				"FMEArea" : "373598.022949219"
 			}
 		},
 		{
@@ -3150,7 +3150,7 @@
 				"coe_permit" : "99-632-1",
 				"dsl_permit" : "30286-RF",
 				"other_permits" : "N/A",
-				"FMEArea" : "372870",
+				"FMEArea" : "372869.996582031",
 				"coe_date" : "2003-12-02",
 				"dsl_date" : "2003-10-07"
 			}
@@ -3420,7 +3420,7 @@
 				"coe_permit" : "Consent Decree",
 				"dsl_permit" : "23801-RF",
 				"other_permits" : "LUR 01-00658 EN (COP)",
-				"FMEArea" : "346273.72",
+				"FMEArea" : "346273.71875",
 				"coe_date" : "2001-08-17",
 				"dsl_date" : "2001-07-30"
 			}
@@ -3728,7 +3728,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "332884.92",
+				"FMEArea" : "332884.919921875",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -3810,7 +3810,7 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "314104.41"
+				"FMEArea" : "314104.409667969"
 			}
 		},
 		{
@@ -4435,7 +4435,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "SPL 18-000286",
-				"FMEArea" : "282686.13"
+				"FMEArea" : "282686.133300781"
 			}
 		},
 		{
@@ -4470,7 +4470,7 @@
 				"coe_permit" : "2001-00553",
 				"dsl_permit" : "24231-RF",
 				"other_permits" : "LU 02-116099 GW (COP)",
-				"FMEArea" : "250683.83"
+				"FMEArea" : "250683.833984375"
 			}
 		},
 		{
@@ -4524,7 +4524,7 @@
 				"coe_permit" : "NWP 32-2001-00247",
 				"dsl_permit" : "23801-RF",
 				"other_permits" : "LUR 01-00658 EN (COP)",
-				"FMEArea" : "226593.94",
+				"FMEArea" : "226593.941894531",
 				"coe_date" : "2001-08-17",
 				"dsl_date" : "2001-07-30"
 			}
@@ -4593,7 +4593,7 @@
 				"coe_permit" : "NWP 32-2002-00133",
 				"dsl_permit" : "25119-RF",
 				"other_permits" : "LU 02-134231 EN (COP)",
-				"FMEArea" : "217791.66",
+				"FMEArea" : "217791.655273438",
 				"coe_date" : "2002-09-24",
 				"dsl_date" : "2002-11-08"
 			}
@@ -4626,7 +4626,7 @@
 				"port_facility" : "TRIP",
 				"sitename" : "1290 trees",
 				"mitigation_type_cd" : "UPLAND PLANTING",
-				"FMEArea" : "183304.42"
+				"FMEArea" : "183304.422851563"
 			}
 		},
 		{
@@ -4652,7 +4652,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "NA",
-				"FMEArea" : "174899.66"
+				"FMEArea" : "174899.662109375"
 			}
 		},
 		{
@@ -4694,7 +4694,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "159852.08",
+				"FMEArea" : "159852.082519531",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -4831,7 +4831,7 @@
 				"coe_permit" : "2001-00062",
 				"dsl_permit" : "23597-FP",
 				"other_permits" : " ",
-				"FMEArea" : "158077.97"
+				"FMEArea" : "158077.965332031"
 			}
 		},
 		{
@@ -4998,7 +4998,7 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "LUR-99-00120 EN ZC and LUR-99-00071 en (COP)",
-				"FMEArea" : "140842.11"
+				"FMEArea" : "140842.106933594"
 			}
 		},
 		{
@@ -5060,7 +5060,7 @@
 				"coe_permit" : "071-OYA-007950",
 				"dsl_permit" : "4925",
 				"other_permits" : " ",
-				"FMEArea" : "140387.94",
+				"FMEArea" : "140387.942871094",
 				"coe_date" : "1988-11-03"
 			}
 		},
@@ -5103,7 +5103,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "137332.93",
+				"FMEArea" : "137332.92578125",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -5145,7 +5145,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "137252.27",
+				"FMEArea" : "137252.268066406",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -5171,7 +5171,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "NA",
-				"FMEArea" : "133027.98"
+				"FMEArea" : "133027.98046875"
 			}
 		},
 		{
@@ -5246,7 +5246,7 @@
 				"sitename" : "McBride Slough ",
 				"mitigation_type_cd" : "ENVIRONMENTAL ZONE",
 				"impact_project" : "McBride Slough Clean up and Colwood Pipe",
-				"FMEArea" : "131446.59"
+				"FMEArea" : "131446.588867188"
 			}
 		},
 		{
@@ -5388,7 +5388,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "126181.78",
+				"FMEArea" : "126181.780273438",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -5928,7 +5928,7 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "RIPARIAN BUFFER",
 				"impact_project" : "NA",
-				"FMEArea" : "125430.85"
+				"FMEArea" : "125430.847167969"
 			}
 		},
 		{
@@ -6006,7 +6006,7 @@
 				"coe_permit" : "95-986",
 				"dsl_permit" : "FP-10282",
 				"other_permits" : "LUR 95-00964 EN (COP)",
-				"FMEArea" : "122009.57"
+				"FMEArea" : "122009.568847656"
 			}
 		},
 		{
@@ -6199,7 +6199,7 @@
 				"coe_permit" : "2005-00131",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "120175.75",
+				"FMEArea" : "120175.753417969",
 				"coe_date" : "2005-04-11"
 			}
 		},
@@ -6237,7 +6237,7 @@
 				"coe_permit" : "95-986",
 				"dsl_permit" : "FP-10282",
 				"other_permits" : "LUR 95-00964 EN (COP)",
-				"FMEArea" : "118489.19"
+				"FMEArea" : "118489.192871094"
 			}
 		},
 		{
@@ -6328,7 +6328,7 @@
 				"coe_permit" : "95-534",
 				"dsl_permit" : "9836",
 				"other_permits" : " ",
-				"FMEArea" : "116995.94"
+				"FMEArea" : "116995.938476563"
 			}
 		},
 		{
@@ -6837,7 +6837,7 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "RIPARIAN BUFFER",
 				"impact_project" : "NA",
-				"FMEArea" : "115991.25"
+				"FMEArea" : "115991.248535156"
 			}
 		},
 		{
@@ -7397,7 +7397,7 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "Unassigned",
-				"FMEArea" : "111115.67"
+				"FMEArea" : "111115.665039063"
 			}
 		},
 		{
@@ -7433,7 +7433,7 @@
 				"coe_permit" : "2001-00553",
 				"dsl_permit" : "24231-RF",
 				"other_permits" : "LU 02-116099 GW (COP)",
-				"FMEArea" : "84107.27"
+				"FMEArea" : "84107.2680664063"
 			}
 		},
 		{
@@ -7460,7 +7460,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "NA",
-				"FMEArea" : "76737.64"
+				"FMEArea" : "76737.642578125"
 			}
 		},
 		{
@@ -7684,7 +7684,7 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "Unassigned",
-				"FMEArea" : "73507.28"
+				"FMEArea" : "73507.2827148438"
 			}
 		},
 		{
@@ -7720,7 +7720,7 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "73315.91"
+				"FMEArea" : "73315.9140625"
 			}
 		},
 		{
@@ -7780,7 +7780,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : " ",
-				"FMEArea" : "69458.34",
+				"FMEArea" : "69458.3442382813",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -7817,7 +7817,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : " ",
-				"FMEArea" : "64331.24",
+				"FMEArea" : "64331.236328125",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -7945,7 +7945,7 @@
 				"impact_project" : "Capstone",
 				"coe_permit" : "not issued yet",
 				"dsl_permit" : "NA",
-				"FMEArea" : "64070.28"
+				"FMEArea" : "64070.2846679688"
 			}
 		},
 		{
@@ -7977,7 +7977,7 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "63569.32"
+				"FMEArea" : "63569.3203125"
 			}
 		},
 		{
@@ -8085,7 +8085,7 @@
 				"coe_permit" : "95-534",
 				"dsl_permit" : "9836",
 				"other_permits" : " ",
-				"FMEArea" : "48391.59"
+				"FMEArea" : "48391.5947265625"
 			}
 		},
 		{
@@ -8189,7 +8189,7 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "NA",
-				"FMEArea" : "47084.52"
+				"FMEArea" : "47084.5151367188"
 			}
 		},
 		{
@@ -8212,7 +8212,7 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "42635.89"
+				"FMEArea" : "42635.8930664063"
 			}
 		},
 		{
@@ -8258,7 +8258,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "42523.89",
+				"FMEArea" : "42523.8911132813",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -8286,7 +8286,7 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "36357.46"
+				"FMEArea" : "36357.4604492188"
 			}
 		},
 		{
@@ -8368,7 +8368,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "35962.55",
+				"FMEArea" : "35962.5463867188",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -8396,7 +8396,7 @@
 				"coe_permit" : "2010-66",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "35899.6",
+				"FMEArea" : "35899.6015625",
 				"coe_date" : "2005-05-25"
 			}
 		},
@@ -8425,7 +8425,7 @@
 				"port_facility" : "TRIP",
 				"sitename" : "300 trees",
 				"mitigation_type_cd" : "UPLAND PLANTING",
-				"FMEArea" : "32534.06"
+				"FMEArea" : "32534.0576171875"
 			}
 		},
 		{
@@ -8715,7 +8715,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "32247.92",
+				"FMEArea" : "32247.9150390625",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -9007,7 +9007,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "32247.44",
+				"FMEArea" : "32247.4384765625",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -9119,7 +9119,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "30400.42",
+				"FMEArea" : "30400.4189453125",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -9158,7 +9158,7 @@
 				"coe_permit" : "96-711",
 				"dsl_permit" : "RF-11224",
 				"other_permits" : " ",
-				"FMEArea" : "29985.74"
+				"FMEArea" : "29985.73828125"
 			}
 		},
 		{
@@ -9195,7 +9195,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "27118.57",
+				"FMEArea" : "27118.5659179688",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -9243,7 +9243,7 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "LUR-99-00120 EN ZC and LUR-99-00071 en (COP)",
-				"FMEArea" : "27021.33"
+				"FMEArea" : "27021.3334960938"
 			}
 		},
 		{
@@ -9500,7 +9500,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "25170.39",
+				"FMEArea" : "25170.3896484375",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -9612,7 +9612,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : " LU 05-176115 GW",
-				"FMEArea" : "23006.29",
+				"FMEArea" : "23006.2924804688",
 				"coe_date" : "1999-11-30",
 				"dsl_date" : "1999-11-30"
 			}
@@ -9661,7 +9661,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "20735.13",
+				"FMEArea" : "20735.1318359375",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -9699,7 +9699,7 @@
 				"coe_permit" : "2001-00553",
 				"dsl_permit" : "24231-RF",
 				"other_permits" : "LU 02-116099 GW (COP)",
-				"FMEArea" : "20423.11"
+				"FMEArea" : "20423.1137695313"
 			}
 		},
 		{
@@ -9759,7 +9759,7 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "20020.98"
+				"FMEArea" : "20020.9848632813"
 			}
 		},
 		{
@@ -9796,7 +9796,7 @@
 				"coe_permit" : "009753",
 				"dsl_permit" : "6273",
 				"other_permits" : " ",
-				"FMEArea" : "18662.35",
+				"FMEArea" : "18662.345703125",
 				"coe_date" : "1992-12-18",
 				"dsl_date" : "1991-12-09"
 			}
@@ -10114,7 +10114,7 @@
 				"impact_project" : "TRIP Phase 1",
 				"coe_permit" : "NWP-2007-889",
 				"dsl_permit" : "40094-RF",
-				"FMEArea" : "18140.35",
+				"FMEArea" : "18140.3461914063",
 				"coe_date" : "2009-05-28",
 				"dsl_date" : "2008-07-17"
 			}
@@ -10149,7 +10149,7 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "LUR-99-00120 EN ZC and LUR-99-00071 en (COP)",
-				"FMEArea" : "16706.29"
+				"FMEArea" : "16706.294921875"
 			}
 		},
 		{
@@ -10190,7 +10190,7 @@
 				"coe_permit" : "2005-00131",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "12786.82",
+				"FMEArea" : "12786.8168945313",
 				"coe_date" : "2005-04-11"
 			}
 		},
@@ -10249,7 +10249,7 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : " LU 05-176115 GW",
-				"FMEArea" : "12026.91",
+				"FMEArea" : "12026.912109375",
 				"coe_date" : "1999-11-30",
 				"dsl_date" : "1999-11-30"
 			}
@@ -10287,7 +10287,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "10322.71",
+				"FMEArea" : "10322.705078125",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -10329,7 +10329,7 @@
 				"coe_permit" : "2001-00564",
 				"dsl_permit" : "24248-FP",
 				"other_permits" : " ",
-				"FMEArea" : "9500.56"
+				"FMEArea" : "9500.55810546875"
 			}
 		},
 		{
@@ -10365,7 +10365,7 @@
 				"coe_permit" : "NWP-2007-1033",
 				"dsl_permit" : "40015-FP",
 				"other_permits" : "SPL #08-000002 (CWS)",
-				"FMEArea" : "7805.72",
+				"FMEArea" : "7805.72119140625",
 				"coe_date" : "2008-05-16",
 				"dsl_date" : "2008-06-05"
 			}
@@ -10429,7 +10429,7 @@
 				"coe_permit" : "2005-00257",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "7685.59",
+				"FMEArea" : "7685.591796875",
 				"coe_date" : "2006-06-15"
 			}
 		},
@@ -10462,7 +10462,7 @@
 				"coe_permit" : "NWP-2008-498",
 				"dsl_permit" : "N/A",
 				"other_permits" : "SPL #08-000645 (CWS)",
-				"FMEArea" : "7427.89",
+				"FMEArea" : "7427.890625",
 				"coe_date" : "2008-10-09"
 			}
 		},
@@ -10499,7 +10499,7 @@
 				"coe_permit" : "2005-00638",
 				"dsl_permit" : "22389-FP",
 				"other_permits" : "LU 05-174695 EN (COP)",
-				"FMEArea" : "6377.7",
+				"FMEArea" : "6377.697265625",
 				"coe_date" : "2006-06-30",
 				"dsl_date" : "2006-02-06"
 			}
@@ -10535,7 +10535,7 @@
 				"coe_permit" : "2005-00638",
 				"dsl_permit" : "22389-FP",
 				"other_permits" : "LU 05-174695 EN (COP)",
-				"FMEArea" : "5840.21",
+				"FMEArea" : "5840.20703125",
 				"coe_date" : "2006-06-30",
 				"dsl_date" : "2006-02-06"
 			}
@@ -10574,7 +10574,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "5552.26",
+				"FMEArea" : "5552.25927734375",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -10613,7 +10613,7 @@
 				"coe_permit" : "2005-00638",
 				"dsl_permit" : "22389-FP",
 				"other_permits" : "LU 05-174695 EN (COP)",
-				"FMEArea" : "5541.93",
+				"FMEArea" : "5541.93408203125",
 				"coe_date" : "2006-06-30",
 				"dsl_date" : "2006-02-06"
 			}
@@ -10667,7 +10667,7 @@
 				"coe_permit" : "2004-00091",
 				"dsl_permit" : "31722-RF",
 				"other_permits" : "LU 04-028327 (COP)",
-				"FMEArea" : "5241.82",
+				"FMEArea" : "5241.82421875",
 				"coe_date" : "2004-07-31",
 				"dsl_date" : "2004-07-06"
 			}
@@ -10697,7 +10697,7 @@
 				"coe_permit" : "2005-00131",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "4338.26",
+				"FMEArea" : "4338.25634765625",
 				"coe_date" : "2005-04-11"
 			}
 		},
@@ -10725,7 +10725,7 @@
 				"coe_permit" : "99-632",
 				"dsl_permit" : "FP-17198",
 				"other_permits" : "LU 00-00365 (COP)",
-				"FMEArea" : "4295.16",
+				"FMEArea" : "4295.1552734375",
 				"coe_date" : "1999-08-13",
 				"dsl_date" : "1999-07-09"
 			}
@@ -10756,7 +10756,7 @@
 				"coe_permit" : "2000-479",
 				"dsl_permit" : "GA-22613",
 				"other_permits" : "LUR 00-00369 GW (COP)",
-				"FMEArea" : "4102.27",
+				"FMEArea" : "4102.26904296875",
 				"coe_date" : "2000-09-01",
 				"dsl_date" : "2000-08-01"
 			}
@@ -10788,7 +10788,7 @@
 				"coe_permit" : "NWP-2007-1033",
 				"dsl_permit" : "40015-FP",
 				"other_permits" : "SPL #08-003416 (CWS)",
-				"FMEArea" : "4017.18",
+				"FMEArea" : "4017.17822265625",
 				"coe_date" : "2008-05-16",
 				"dsl_date" : "2008-06-05"
 			}
@@ -10828,7 +10828,7 @@
 				"coe_permit" : "20001-00059",
 				"dsl_permit" : "23613-RF",
 				"other_permits" : "File #782 (USA)",
-				"FMEArea" : "2900.77",
+				"FMEArea" : "2900.77294921875",
 				"coe_date" : "2001-06-13",
 				"dsl_date" : "2001-05-03"
 			}
@@ -10856,7 +10856,7 @@
 				"coe_permit" : "2000-479",
 				"dsl_permit" : "GA-22613",
 				"other_permits" : "LUR 00-00369 GW (COP)",
-				"FMEArea" : "2783.85",
+				"FMEArea" : "2783.845703125",
 				"coe_date" : "2000-09-01",
 				"dsl_date" : "2000-08-01"
 			}
@@ -10886,7 +10886,7 @@
 				"coe_permit" : "NWP-2008-498",
 				"dsl_permit" : "N/A",
 				"other_permits" : "SPL #08-000645 (CWS)",
-				"FMEArea" : "2508.77",
+				"FMEArea" : "2508.7705078125",
 				"coe_date" : "2008-10-09"
 			}
 		},
@@ -10913,7 +10913,7 @@
 				"coe_permit" : "NWP-2007-1033",
 				"dsl_permit" : "40015-FP",
 				"other_permits" : "SPL #08-003416 (CWS)",
-				"FMEArea" : "1206.36",
+				"FMEArea" : "1206.36328125",
 				"coe_date" : "2001-06-16",
 				"dsl_date" : "2008-06-05"
 			}
