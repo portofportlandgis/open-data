@@ -715,7 +715,7 @@
 			"properties" : {
 				"AREASQMI" : 31.18385333,
 				"DNLcontour" : "55",
-				"FMEArea" : "869355936.604492"
+				"FMEArea" : "869355936.6"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"properties" : {
 				"AREASQMI" : 13.36216123,
 				"DNLcontour" : "60",
-				"FMEArea" : "372515676.142578"
+				"FMEArea" : "372515676.14"
 			}
 		},
 		{
@@ -2081,7 +2081,7 @@
 			"properties" : {
 				"AREASQMI" : 5.78229867,
 				"DNLcontour" : "65",
-				"FMEArea" : "161201235.157227"
+				"FMEArea" : "161201235.16"
 			}
 		},
 		{
@@ -2779,7 +2779,7 @@
 			"properties" : {
 				"AREASQMI" : 2.16289409,
 				"DNLcontour" : "70",
-				"FMEArea" : "60298026.9648438"
+				"FMEArea" : "60298026.96"
 			}
 		},
 		{
@@ -3249,7 +3249,7 @@
 			"properties" : {
 				"AREASQMI" : 0.93382763,
 				"DNLcontour" : "75",
-				"FMEArea" : "26033620.5585938"
+				"FMEArea" : "26033620.56"
 			}
 		},
 		{
@@ -3712,7 +3712,7 @@
 			"properties" : {
 				"AREASQMI" : 0.48532901,
 				"DNLcontour" : "80",
-				"FMEArea" : "13530196.324707"
+				"FMEArea" : "13530196.32"
 			}
 		},
 		{
@@ -4147,7 +4147,7 @@
 			"properties" : {
 				"AREASQMI" : 0.23937883000000001,
 				"DNLcontour" : "85",
-				"FMEArea" : "6673498.78564453"
+				"FMEArea" : "6673498.79"
 			}
 		}
 	]
