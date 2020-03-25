@@ -1,1 +1,4667 @@
-{}
+{
+	"type" : "FeatureCollection",
+	"name" : "pop-stormwater-outfalls",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.73849948, 45.63264195 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Honda)",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-02-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74127086, 45.63443997 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "H",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Honda)",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "\r\n",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-02-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77431245, 45.59980583 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "D",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "\r\n",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2003-03-12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77415494, 45.59981309 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "D",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2003-03-12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77349147, 45.59979909 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "D",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2003-03-12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77256135, 45.60042746 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "J",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2006-07-20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61496801, 45.57788262 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2003-12-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60533118, 45.57614091 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "POP1",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2011-08-19",
+				"IE" : "10.51"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55687131, 45.56687179 ]
+			},
+			"properties" : {
+				"diameter" : 72,
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-07-17",
+				"IE" : "7.12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58356845, 45.57623764 ]
+			},
+			"properties" : {
+				"diameter" : 72,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2015-12-28",
+				"IE" : "8.01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77315754, 45.6042575 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2004-05-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.63063109, 45.59062545 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2004-09-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77965987, 45.60635521 ]
+			},
+			"properties" : {
+				"diameter" : 10,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Cereal Foods",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SJ13PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2012-05-02",
+				"IE" : "12.94"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77306393, 45.60410849 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2006-07-14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77290229, 45.60388008 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77323633, 45.60364004 ]
+			},
+			"properties" : {
+				"diameter" : 16,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77260746, 45.60104884 ]
+			},
+			"properties" : {
+				"diameter" : 11,
+				"basin_being_drained" : "K",
+				"permit_associated_with" : "",
+				"tenant" : "Kinder Morgan",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77121478, 45.59433313 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77112587, 45.59423802 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77102397, 45.59412038 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7709248, 45.59400789 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7708448, 45.59391724 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58322399, 45.57584228 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.62034296, 45.58062649 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "Outfall 2",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WEST DETENTION POND",
+				"loc_survey_quality_date" : "2016-07-08",
+				"IE" : "3.84"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55310148, 45.57578358 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55345569, 45.5752773 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57203683, 45.57667633 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57411319, 45.57290952 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59862382, 45.57463729 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59914388, 45.57482804 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60318711, 45.5756643 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61551894, 45.58529537 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2012-01-31",
+				"IE" : "5.41"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61506928, 45.58612653 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "9",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77124504, 45.59442631 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75211423, 45.64328537 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "O",
+				"permit_associated_with" : "",
+				"tenant" : "OSM",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74694971, 45.63948329 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "L",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-08"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70833122, 45.56144235 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70857741, 45.56154507 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70891703, 45.56175828 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70920431, 45.56190767 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70947024, 45.56205515 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70980856, 45.56223162 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71018392, 45.56243047 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71047815, 45.56258795 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71081265, 45.56277034 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71104858, 45.56288147 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "F",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71139988, 45.56307669 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71159842, 45.56318709 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71201595, 45.56340886 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71237395, 45.5635925 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71265008, 45.56375324 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71284383, 45.56385629 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71441938, 45.5648552 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7155762, 45.5653456 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-10-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71797527, 45.56679227 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71884432, 45.56726516 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71918768, 45.56739311 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71946404, 45.56754936 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7197866, 45.56771899 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72010732, 45.56791021 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72028575, 45.56801097 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72076038, 45.56816698 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7208778, 45.56821074 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71005676, 45.56499808 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7093238, 45.56463682 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70826937, 45.56403559 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71080419, 45.56533985 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71592287, 45.56781627 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SJ10M1",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71952682, 45.61676839 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72113922, 45.61741901 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72347793, 45.61843731 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72493989, 45.61887203 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7262263, 45.61952716 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72939496, 45.62115082 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.73045431, 45.62197072 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.73231482, 45.62250451 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77507262, 45.63964331 ]
+			},
+			"properties" : {
+				"diameter" : 21,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Alcatel",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG12PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Terminal 5",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2007-11-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76035679, 45.63420487 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76120984, 45.63374713 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76358194, 45.63215496 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75186103, 45.62859838 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76379504, 45.62579454 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70052005, 45.5486327 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "B",
+				"permit_associated_with" : "",
+				"tenant" : "SSA/Jones",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "STSOUT232",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77684992, 45.63899833 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "PDX Bulk Terminal",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG13PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2007-11-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75886039, 45.64667292 ]
+			},
+			"properties" : {
+				"diameter" : 16,
+				"basin_being_drained" : "S",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Hyundai)",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-03"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55717005, 45.57023032 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55674096, 45.57005154 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55673647, 45.57011471 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.62041652, 45.58305198 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71673173, 45.56591342 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76861027, 45.59175562 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76711826, 45.59004986 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77002285, 45.5927391 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76827594, 45.59075755 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "A",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76777953, 45.5908468 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76794001, 45.59103027 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7687362, 45.5919405 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76967582, 45.59301467 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77047564, 45.59392897 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76955144, 45.59283156 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-05-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70353889, 45.54988017 ]
+			},
+			"properties" : {
+				"diameter" : 27,
+				"basin_being_drained" : "A",
+				"permit_associated_with" : "",
+				"tenant" : "Army Corps",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "STSOUT231",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77276572, 45.59594325 ]
+			},
+			"properties" : {
+				"diameter" : 54,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2005-06-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55725672, 45.57012586 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-06-22"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56621782, 45.57194182 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-06-22"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57708536, 45.57262802 ]
+			},
+			"properties" : {
+				"diameter" : 21,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59000587, 45.22114001 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Mulino Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-09-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71074637, 45.56529125 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-09-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71756613, 45.56135615 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-09-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70777586, 45.56091469 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "STSOUT208",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-09-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70779784, 45.5568411 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Freightliner",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2013-01-03",
+				"IE" : "11.05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70879049, 45.55707239 ]
+			},
+			"properties" : {
+				"diameter" : 21,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Freightliner",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "STSOUT213",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2002-09-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70651274, 45.5626384 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-09-18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6955942, 45.55192958 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "1990-05-09",
+				"IE" : "7.2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74280191, 45.63562482 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "K",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-12-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77571329, 45.60172047 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "L",
+				"permit_associated_with" : "",
+				"tenant" : "HALL-BUCK",
+				"tenant_contact_name" : "BRAD CLINEFELTER",
+				"tenant_contact_phone" : "285-2990",
+				"outfall_id" : "SJ19PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2008-11-04",
+				"IE" : "10.69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77479853, 45.59855849 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "D",
+				"permit_associated_with" : "",
+				"tenant" : "Toyota",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SJ24PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77115627, 45.59408671 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "TOYOTA",
+				"tenant_contact_name" : "RON CORBIN",
+				"tenant_contact_phone" : "735-3530",
+				"outfall_id" : "SJ26PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78755786, 45.62368292 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG15PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77593683, 45.61804211 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG17PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2003-10-14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74016554, 45.62367306 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "COP-G",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "BYBEE LAKE",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7226042, 45.61803716 ]
+			},
+			"properties" : {
+				"diameter" : 21,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "PRIVATE-C",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "SMITH LAKE",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76323963, 45.63876066 ]
+			},
+			"properties" : {
+				"diameter" : 54,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "COP-A",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76288719, 45.63864249 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "COP-B",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75074383, 45.62912369 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "COP-E",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "POP DREDGE PIPE?",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76312805, 45.61593601 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG18PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93780636, 45.53297306 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-Z",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "PHA-2",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "DAWSON CREEK",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93734169, 45.53266292 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9401158, 45.53511246 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60688, 45.5763363 ]
+			},
+			"properties" : {
+				"diameter" : 54,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SS12500",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2017-08-02",
+				"IE" : "9.29"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6108457, 45.57698795 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SS03PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61304801, 45.57724496 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61378638, 45.57742401 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61457809, 45.5776646 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SS04PP",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2011-08-19",
+				"IE" : "12.38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70629206, 45.56306984 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-04-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70452249, 45.57017836 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2008-01-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70639116, 45.57146625 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-12-14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70795757, 45.57046684 ]
+			},
+			"properties" : {
+				"diameter" : 16,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-12-14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70860864, 45.57334792 ]
+			},
+			"properties" : {
+				"diameter" : 16,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-12-14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72087447, 45.56312186 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-10-25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78517876, 45.63048906 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78693466, 45.62589944 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78722383, 45.62452489 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78724293, 45.61901742 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Georgia Pacific",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78740042, 45.62105166 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7874866, 45.62155763 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "No",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78737456, 45.62037246 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78732557, 45.61994487 ]
+			},
+			"properties" : {
+				"diameter" : 8,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55354398, 45.57486859 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55280041, 45.57616127 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56792807, 45.56861325 ]
+			},
+			"properties" : {
+				"diameter" : 48,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SS12000",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2001-07-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.64463063, 45.58160169 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "MDD2",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2002-09-09"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58253311, 45.57137724 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "SS12200",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2013-11-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75995344, 45.63493782 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "M",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2002-07-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76329065, 45.64025852 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : "P",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Hyundai)\r\n",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "RG-2",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2002-06-28"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7322482, 45.62786231 ]
+			},
+			"properties" : {
+				"diameter" : 26,
+				"basin_being_drained" : "B",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Hyundai)",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2002-06-28"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7353406, 45.6303405 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "D",
+				"permit_associated_with" : "",
+				"tenant" : "AWC (Hyundai)",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "1998-11-20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57644164, 45.56980661 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57719394, 45.57252226 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5753588, 45.5725846 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56982837, 45.56863984 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57320566, 45.56930656 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-08-15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72253386, 45.56850396 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-11-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72329776, 45.56865238 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-11-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76535874, 45.58920131 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2007-07-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77245772, 45.60093064 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : "K",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2016-02-26"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76332986, 45.61567305 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "COLUMBIA SLOUGH",
+				"loc_survey_quality_date" : "2007-11-05"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78742399, 45.62194631 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "Georgia Pacific",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78732401, 45.61962948 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2001-12-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7128362, 45.566274 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71103737, 45.55802361 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7163627, 45.56075579 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71791579, 45.56157079 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71893785, 45.56216828 ]
+			},
+			"properties" : {
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77948962, 45.60530038 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "2010-12-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58170136, 45.57446557 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2015-10-02",
+				"IE" : "10.27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70377573, 45.55484755 ]
+			},
+			"properties" : {
+				"diameter" : 29,
+				"basin_being_drained" : " ",
+				"tenant" : "Freightliner",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
+				"loc_survey_quality_date" : "1900-01-01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.42413627, 45.5271532 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1997-02-28",
+				"IE" : "306.91"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.42421356, 45.52702776 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1997-02-28",
+				"IE" : "306.55"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56622157, 45.57189971 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2013-04-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56837975, 45.57150357 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2013-04-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56716607, 45.57024692 ]
+			},
+			"properties" : {
+				"diameter" : 36,
+				"basin_being_drained" : " ",
+				"tenant" : "CAPSTONE PARTNERS LLC",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2013-04-30",
+				"IE" : "12.75"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95724093, 45.5445846 ]
+			},
+			"properties" : {
+				"diameter" : 10,
+				"basin_being_drained" : " ",
+				"tenant" : "Global Aviation",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30",
+				"IE" : "191.2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9572536, 45.54458856 ]
+			},
+			"properties" : {
+				"diameter" : 4,
+				"basin_being_drained" : " ",
+				"tenant" : "Global Aviation",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30",
+				"IE" : "188.33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56682545, 45.57039449 ]
+			},
+			"properties" : {
+				"diameter" : 6,
+				"basin_being_drained" : " ",
+				"tenant" : "Capstone Partners LLC",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5664016, 45.5702969 ]
+			},
+			"properties" : {
+				"diameter" : 15,
+				"basin_being_drained" : " ",
+				"tenant" : "CAPSTONE PARTNERS LLC",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30",
+				"IE" : "15.5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7743598, 45.5998105 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7741917, 45.59981759 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7743522, 45.60127894 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7733326, 45.60120727 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77340961, 45.60444715 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61718654, 45.58636131 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2006-10-03",
+				"IE" : "7.85"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.62009937, 45.57869659 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"outfall_id" : "MDD3",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.64775266, 45.58346773 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"outfall_id" : "MDD1",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5853661, 45.57243538 ]
+			},
+			"properties" : {
+				"diameter" : 72,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2016-10-20",
+				"IE" : "6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.62033186, 45.58057635 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2017-11-30",
+				"IE" : "6.74"
+			}
+		}
+	]
+}
