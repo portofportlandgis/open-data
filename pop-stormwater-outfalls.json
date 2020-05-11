@@ -318,7 +318,7 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "SJ13PP",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
+				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -408,10 +408,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77260746, 45.60104884 ]
+				"coordinates" : [ -122.77260448, 45.60109654 ]
 			},
 			"properties" : {
-				"diameter" : 11,
+				"diameter" : 10,
 				"basin_being_drained" : "K",
 				"permit_associated_with" : "",
 				"tenant" : "Kinder Morgan",
@@ -420,13 +420,14 @@
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
 				"dry_season_inspection_resolved" : "Yes",
 				"sewer_type_cd_resolved" : "Storm",
 				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
-				"loc_survey_quality_date" : "2001-07-17"
+				"loc_survey_quality_date" : "2019-10-09",
+				"IE" : "10.05"
 			}
 		},
 		{
@@ -1875,7 +1876,7 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "RG12PP",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
+				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Field Observed",
 				"facility_cd_resolved" : "Terminal 5",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -1951,13 +1952,14 @@
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
 				"dry_season_inspection_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"water_discharged_to_cd_resolved" : "",
-				"loc_survey_quality_date" : "2005-04-11"
+				"loc_survey_quality_date" : "2009-11-09",
+				"IE" : "18.8"
 			}
 		},
 		{
@@ -2048,7 +2050,7 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "RG13PP",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
+				"owner_cd_resolved" : "Tenant",
 				"loc_survey_quality_cd_resolved" : "Unverified",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -2293,7 +2295,7 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
+				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -2805,7 +2807,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77571329, 45.60172047 ]
+				"coordinates" : [ -122.77571113, 45.60172414 ]
 			},
 			"properties" : {
 				"diameter" : 18,
@@ -2966,7 +2968,6 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "PRIVATE-C",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Tenant",
 				"loc_survey_quality_cd_resolved" : "Unverified",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -3433,7 +3434,6 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Field Observed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -3457,7 +3457,6 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Field Observed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -3481,7 +3480,6 @@
 				"tenant_contact_phone" : "",
 				"outfall_id" : "",
 				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Field Observed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -3719,7 +3717,7 @@
 			"properties" : {
 				"diameter" : 60,
 				"basin_being_drained" : "",
-				"permit_associated_with" : "1200-COLS",
+				"permit_associated_with" : "",
 				"tenant" : "",
 				"tenant_contact_name" : "",
 				"tenant_contact_phone" : "",
@@ -4038,7 +4036,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77245772, 45.60093064 ]
+				"coordinates" : [ -122.77245855, 45.6009307 ]
 			},
 			"properties" : {
 				"diameter" : 6,
@@ -4056,7 +4054,8 @@
 				"dry_season_inspection_resolved" : "Yes",
 				"sewer_type_cd_resolved" : "Storm",
 				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
-				"loc_survey_quality_date" : "2016-02-26"
+				"loc_survey_quality_date" : "2019-10-09",
+				"IE" : "30.88"
 			}
 		},
 		{
@@ -4527,6 +4526,7 @@
 				"coordinates" : [ -122.7743522, 45.60127894 ]
 			},
 			"properties" : {
+				"diameter" : 10,
 				"basin_being_drained" : " ",
 				"subtype_resolved" : "STS Outfall",
 				"owner_cd_resolved" : "Port of Portland",
@@ -4544,6 +4544,7 @@
 				"coordinates" : [ -122.7733326, 45.60120727 ]
 			},
 			"properties" : {
+				"diameter" : 10,
 				"basin_being_drained" : " ",
 				"subtype_resolved" : "STS Outfall",
 				"owner_cd_resolved" : "Port of Portland",
@@ -4634,6 +4635,7 @@
 			"properties" : {
 				"diameter" : 72,
 				"basin_being_drained" : " ",
+				"outfall_id" : "7",
 				"subtype_resolved" : "STS Outfall",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4661,6 +4663,63 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"loc_survey_quality_date" : "2017-11-30",
 				"IE" : "6.74"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.41217915, 45.55577637 ]
+			},
+			"properties" : {
+				"diameter" : 30,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Troutdale Reynolds Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2018-10-03",
+				"IE" : "12.17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.40836053, 45.55587785 ]
+			},
+			"properties" : {
+				"diameter" : 15,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Troutdale Reynolds Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2018-10-03",
+				"IE" : "12.83"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.43320785, 45.55811201 ]
+			},
+			"properties" : {
+				"diameter" : 60,
+				"basin_being_drained" : " ",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Troutdale Reynolds Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2018-10-03",
+				"IE" : "10.45"
 			}
 		}
 	]
