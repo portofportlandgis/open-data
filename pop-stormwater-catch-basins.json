@@ -117809,6 +117809,57 @@
 				"loc_survey_quality_date" : "2020-01-17",
 				"grate_survey_quality_rev_date" : "2020-01-17"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76941988, 45.62971953 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76942339, 45.6297834 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76503416, 45.62845641 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
 		}
 	]
 }
