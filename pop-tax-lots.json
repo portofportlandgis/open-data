@@ -49930,56 +49930,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.95061207, 45.53702729 ],
-						[ -122.95061797, 45.53687924 ],
-						[ -122.95040497, 45.53687505 ],
-						[ -122.95039907, 45.53702309 ],
-						[ -122.95061207, 45.53702729 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 42,
-				"OWNER3" : " ",
-				"OWNERZIP" : "97075",
-				"RNO" : "R1153762",
-				"ORTAXLOT" : "3401.00N02W28CC--000090039",
-				"BLDGVAL" : 68290,
-				"OWNERSORT" : "LANPH",
-				"OWNERSTATE" : "OR",
-				"SALEDATE" : " ",
-				"PROP_CODE" : "232",
-				"TAXCODE" : "007.01",
-				"SALEPRICE" : 0,
-				"OWNER2" : " ",
-				"SITEADDR" : "2955 NE CORNELL RD",
-				"JURIS_CITY" : "HILLSBORO",
-				"SITEZIP" : "97124",
-				"BLDGSQFT" : 2948,
-				"SITECITY" : "HILLSBORO",
-				"Y_COORD" : 691381,
-				"LANDUSE" : "MFR",
-				"STATECLASS" : "201",
-				"X_COORD" : 7574291,
-				"OWNERCITY" : "BEAVERTON",
-				"COUNTY" : "W",
-				"TLID" : "1N228CC90039",
-				"GIS_ACRES" : 0.06768601,
-				"YEARBUILT" : 0,
-				"SITESTRNO" : 2955,
-				"A_T_ACRES" : 0,
-				"LANDVAL" : 0,
-				"OWNER1" : "LANPHERE ENTERPRISES INC",
-				"TOTALVAL" : 68290,
-				"OWNERADDR" : "PO BOX 728"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.95061797, 45.53687924 ],
 						[ -122.95061207, 45.53702729 ],
 						[ -122.95082507, 45.53703148 ],
@@ -50022,6 +49972,56 @@
 				"OWNER1" : "RESOURCE FINANCIAL SERVICES LLC",
 				"TOTALVAL" : 68290,
 				"OWNERADDR" : "2255 NE CORNELL RD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -122.95061207, 45.53702729 ],
+						[ -122.95061797, 45.53687924 ],
+						[ -122.95040497, 45.53687505 ],
+						[ -122.95039907, 45.53702309 ],
+						[ -122.95061207, 45.53702729 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"OWNER3" : " ",
+				"OWNERZIP" : "97075",
+				"RNO" : "R1153762",
+				"ORTAXLOT" : "3401.00N02W28CC--000090039",
+				"BLDGVAL" : 68290,
+				"OWNERSORT" : "LANPH",
+				"OWNERSTATE" : "OR",
+				"SALEDATE" : " ",
+				"PROP_CODE" : "232",
+				"TAXCODE" : "007.01",
+				"SALEPRICE" : 0,
+				"OWNER2" : " ",
+				"SITEADDR" : "2955 NE CORNELL RD",
+				"JURIS_CITY" : "HILLSBORO",
+				"SITEZIP" : "97124",
+				"BLDGSQFT" : 2948,
+				"SITECITY" : "HILLSBORO",
+				"Y_COORD" : 691381,
+				"LANDUSE" : "MFR",
+				"STATECLASS" : "201",
+				"X_COORD" : 7574291,
+				"OWNERCITY" : "BEAVERTON",
+				"COUNTY" : "W",
+				"TLID" : "1N228CC90039",
+				"GIS_ACRES" : 0.06768601,
+				"YEARBUILT" : 0,
+				"SITESTRNO" : 2955,
+				"A_T_ACRES" : 0,
+				"LANDVAL" : 0,
+				"OWNER1" : "LANPHERE ENTERPRISES INC",
+				"TOTALVAL" : 68290,
+				"OWNERADDR" : "PO BOX 728"
 			}
 		},
 		{
@@ -54846,60 +54846,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.39293769, 45.54679136 ],
-						[ -122.39309378, 45.54678897 ],
-						[ -122.39309216, 45.5467403 ],
-						[ -122.39305314, 45.54674094 ],
-						[ -122.39305152, 45.54669227 ],
-						[ -122.39297347, 45.54669356 ],
-						[ -122.39297509, 45.54674205 ],
-						[ -122.39293607, 45.54674269 ],
-						[ -122.39293769, 45.54679136 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 498,
-				"OWNER3" : " ",
-				"OWNERZIP" : "97208-3529",
-				"RNO" : "R414800170",
-				"ORTAXLOT" : "2601.00N03.00E25B0--000090007",
-				"BLDGVAL" : 33860,
-				"OWNERSORT" : "PORT",
-				"OWNERSTATE" : "OR",
-				"SALEDATE" : " ",
-				"PROP_CODE" : "232",
-				"TAXCODE" : "242",
-				"SALEPRICE" : 0,
-				"OWNER2" : "BUBB TERESA #2010-026",
-				"SITEADDR" : "913 NW GRAHAM RD",
-				"JURIS_CITY" : "TROUTDALE",
-				"SITEZIP" : "97060",
-				"BLDGSQFT" : 1020,
-				"SITECITY" : "TROUTDALE",
-				"Y_COORD" : 691114,
-				"LANDUSE" : "MFR",
-				"STATECLASS" : "201",
-				"X_COORD" : 7717172,
-				"OWNERCITY" : "PORTLAND",
-				"COUNTY" : "M",
-				"TLID" : "1N3E25B   -90007",
-				"GIS_ACRES" : 0.02443414,
-				"YEARBUILT" : 1977,
-				"SITESTRNO" : 913,
-				"A_T_ACRES" : 0,
-				"LANDVAL" : 0,
-				"OWNER1" : "PORT OF PORTLAND(LEASED",
-				"TOTALVAL" : 33860,
-				"OWNERADDR" : "PO BOX 3529"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.39270355, 45.54679505 ],
 						[ -122.39285965, 45.54679265 ],
 						[ -122.39285802, 45.54674398 ],
@@ -54938,6 +54884,60 @@
 				"OWNERCITY" : "PORTLAND",
 				"COUNTY" : "M",
 				"TLID" : "1N3E25B   -90009",
+				"GIS_ACRES" : 0.02443414,
+				"YEARBUILT" : 1977,
+				"SITESTRNO" : 913,
+				"A_T_ACRES" : 0,
+				"LANDVAL" : 0,
+				"OWNER1" : "PORT OF PORTLAND(LEASED",
+				"TOTALVAL" : 33860,
+				"OWNERADDR" : "PO BOX 3529"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -122.39293769, 45.54679136 ],
+						[ -122.39309378, 45.54678897 ],
+						[ -122.39309216, 45.5467403 ],
+						[ -122.39305314, 45.54674094 ],
+						[ -122.39305152, 45.54669227 ],
+						[ -122.39297347, 45.54669356 ],
+						[ -122.39297509, 45.54674205 ],
+						[ -122.39293607, 45.54674269 ],
+						[ -122.39293769, 45.54679136 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 498,
+				"OWNER3" : " ",
+				"OWNERZIP" : "97208-3529",
+				"RNO" : "R414800170",
+				"ORTAXLOT" : "2601.00N03.00E25B0--000090007",
+				"BLDGVAL" : 33860,
+				"OWNERSORT" : "PORT",
+				"OWNERSTATE" : "OR",
+				"SALEDATE" : " ",
+				"PROP_CODE" : "232",
+				"TAXCODE" : "242",
+				"SALEPRICE" : 0,
+				"OWNER2" : "BUBB TERESA #2010-026",
+				"SITEADDR" : "913 NW GRAHAM RD",
+				"JURIS_CITY" : "TROUTDALE",
+				"SITEZIP" : "97060",
+				"BLDGSQFT" : 1020,
+				"SITECITY" : "TROUTDALE",
+				"Y_COORD" : 691114,
+				"LANDUSE" : "MFR",
+				"STATECLASS" : "201",
+				"X_COORD" : 7717172,
+				"OWNERCITY" : "PORTLAND",
+				"COUNTY" : "M",
+				"TLID" : "1N3E25B   -90007",
 				"GIS_ACRES" : 0.02443414,
 				"YEARBUILT" : 1977,
 				"SITESTRNO" : 913,
