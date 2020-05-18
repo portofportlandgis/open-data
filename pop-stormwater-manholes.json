@@ -13114,21 +13114,21 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77094588, 45.62978592 ]
+				"coordinates" : [ -122.77108113, 45.62978718 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "31.42",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-12-11"
+				"lid_survey_quality_date" : "2020-04-07",
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -33459,10 +33459,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77170509, 45.62889381 ]
+				"coordinates" : [ -122.77170516, 45.62889307 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "35.6",
+				"lid_elevation_rg" : "35.58",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -33472,19 +33472,19 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2008-04-08",
-				"loc_survey_quality_date" : "2008-04-08"
+				"lid_survey_quality_date" : "2020-04-07",
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77173209, 45.62978113 ]
+				"coordinates" : [ -122.77172977, 45.62978339 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "23.01",
-				"lid_elevation_rg" : "33.71",
+				"lid_elevation_rg" : "33.76",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -33494,9 +33494,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2010-10-15",
+				"lid_survey_quality_date" : "2020-04-07",
 				"flow_survey_quality_rev_date" : "2010-10-15",
-				"loc_survey_quality_date" : "2010-10-15"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -34267,84 +34267,21 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.76765505, 45.6273386 ]
+				"coordinates" : [ -122.77119885, 45.62759544 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Rivergate Industrial District",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-12-11"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77125474, 45.62759378 ]
-			},
-			"properties" : {
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "38.93",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-12-11"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.76630969, 45.62988425 ]
-			},
-			"properties" : {
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Rivergate Industrial District",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-12-11"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.76780401, 45.62984671 ]
-			},
-			"properties" : {
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Rivergate Industrial District",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-12-11"
+				"lid_survey_quality_date" : "2020-04-07",
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -35706,11 +35643,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58177826, 45.58744953 ]
+				"coordinates" : [ -122.58177279, 45.58744526 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "13.78",
-				"lid_elevation_rg" : "21.96",
+				"flow_elevation_rg" : "12.39",
+				"lid_elevation_rg" : "22.43",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -35720,9 +35657,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2017-12-20",
-				"flow_survey_quality_rev_date" : "2004-11-22",
-				"loc_survey_quality_date" : "2017-12-20"
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -52588,11 +52525,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7715304, 45.62729087 ]
+				"coordinates" : [ -122.77152666, 45.6272926 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "34.39",
-				"lid_elevation_rg" : "44.19",
+				"lid_elevation_rg" : "44.16",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -52602,20 +52539,20 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2010-10-15",
+				"lid_survey_quality_date" : "2020-04-07",
 				"flow_survey_quality_rev_date" : "2010-10-15",
-				"loc_survey_quality_date" : "2010-10-15"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77152072, 45.62696013 ]
+				"coordinates" : [ -122.77151682, 45.62696062 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "40.48",
-				"lid_elevation_rg" : "51.61",
+				"lid_elevation_rg" : "51.27",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -52625,20 +52562,20 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2010-10-15",
+				"lid_survey_quality_date" : "2020-04-07",
 				"flow_survey_quality_rev_date" : "2010-10-15",
-				"loc_survey_quality_date" : "2010-10-15"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77149254, 45.62620956 ]
+				"coordinates" : [ -122.77148846, 45.62620995 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "49.57",
-				"lid_elevation_rg" : "58.27",
+				"lid_elevation_rg" : "58.3",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -52649,9 +52586,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2010-10-15",
+				"lid_survey_quality_date" : "2020-04-07",
 				"flow_survey_quality_rev_date" : "2010-10-15",
-				"loc_survey_quality_date" : "2010-10-15"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -52729,11 +52666,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77152263, 45.6274958 ]
+				"coordinates" : [ -122.7715231, 45.62749875 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "24.37",
-				"lid_elevation_rg" : "41.97",
+				"lid_elevation_rg" : "41.96",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -52744,28 +52681,9 @@
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2010-10-15",
+				"lid_survey_quality_date" : "2020-04-07",
 				"flow_survey_quality_rev_date" : "2010-10-15",
-				"loc_survey_quality_date" : "2010-10-15"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77125455, 45.62759289 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Rivergate Industrial District",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"lid_survey_quality_date" : "1900-01-01",
-				"loc_survey_quality_date" : "1900-01-01"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -57958,11 +57876,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.57848155, 45.5861765 ]
+				"coordinates" : [ -122.57846346, 45.58616623 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "11.27",
-				"lid_elevation_rg" : "22.7",
+				"lid_elevation_rg" : "22.57",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -57973,9 +57891,9 @@
 				"diameter_cd_resolved" : "108",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2018-01-04",
+				"lid_survey_quality_date" : "2019-10-31",
 				"flow_survey_quality_rev_date" : "2016-01-26",
-				"loc_survey_quality_date" : "2018-01-04"
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -58984,23 +58902,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58669321, 45.58869474 ]
+				"coordinates" : [ -122.58669513, 45.5886939 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "16.33",
+				"lid_elevation_rg" : "25.15",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "60",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2017-10-06",
+				"lid_survey_quality_date" : "2019-10-31",
 				"flow_survey_quality_rev_date" : "2017-10-06",
-				"loc_survey_quality_date" : "2017-10-06"
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -60167,164 +60086,168 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58768805, 45.58989367 ]
+				"coordinates" : [ -122.58767247, 45.58989246 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "14.73",
-				"lid_elevation_rg" : "25.86",
+				"flow_elevation_rg" : "14.77",
+				"lid_elevation_rg" : "25.96",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58615126, 45.58929471 ]
+				"coordinates" : [ -122.5861479, 45.58930111 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "14.17",
-				"lid_elevation_rg" : "25.34",
+				"flow_elevation_rg" : "14.18",
+				"lid_elevation_rg" : "25.29",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "84",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58591577, 45.58914646 ]
+				"coordinates" : [ -122.58592239, 45.5891472 ]
 			},
 			"properties" : {
+				"flow_elevation_rg" : "13.97",
+				"lid_elevation_rg" : "25.66",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "84",
 				"sewer_type_cd_resolved" : "Storm",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58467406, 45.58866247 ]
+				"coordinates" : [ -122.58466954, 45.58866764 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "13.55",
-				"lid_elevation_rg" : "24.19",
+				"flow_elevation_rg" : "13.54",
+				"lid_elevation_rg" : "24.06",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5838473, 45.58834021 ]
+				"coordinates" : [ -122.58385713, 45.58843255 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "13.25",
-				"lid_elevation_rg" : "23.78",
+				"flow_elevation_rg" : "13.19",
+				"lid_elevation_rg" : "23.58",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58222487, 45.58764635 ]
+				"coordinates" : [ -122.58223066, 45.58764341 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "18.01",
-				"lid_elevation_rg" : "23.1",
+				"flow_elevation_rg" : "12.48",
+				"lid_elevation_rg" : "23.15",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2018-09-28",
-				"flow_survey_quality_rev_date" : "2018-09-28",
-				"loc_survey_quality_date" : "2018-09-28"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58066192, 45.58702622 ]
+				"coordinates" : [ -122.58066391, 45.58702126 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "12.06",
-				"lid_elevation_rg" : "22.06",
+				"flow_elevation_rg" : "11.83",
+				"lid_elevation_rg" : "22.18",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -60335,20 +60258,20 @@
 			},
 			"properties" : {
 				"flow_elevation_rg" : "11.52",
-				"lid_elevation_rg" : "22.04",
+				"lid_elevation_rg" : "21.98",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -60462,30 +60385,6 @@
 				"lid_survey_quality_date" : "2020-02-28",
 				"flow_survey_quality_rev_date" : "2006-08-02",
 				"loc_survey_quality_date" : "2020-02-28"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58591594, 45.58905184 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "13.93",
-				"lid_elevation_rg" : "25.64",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"diameter_cd_resolved" : "84",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-02-13",
-				"flow_survey_quality_rev_date" : "2019-02-13",
-				"loc_survey_quality_date" : "2019-02-13"
 			}
 		},
 		{
@@ -60992,24 +60891,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58665716, 45.5886822 ]
+				"coordinates" : [ -122.58666033, 45.58868574 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "16.08",
-				"lid_elevation_rg" : "25.1",
+				"flow_elevation_rg" : "16.02",
+				"lid_elevation_rg" : "25.06",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2019-08-13",
-				"flow_survey_quality_rev_date" : "2019-08-13",
-				"loc_survey_quality_date" : "2019-08-13"
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2019-10-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2019-10-31"
 			}
 		},
 		{
@@ -61218,16 +61117,19 @@
 				"coordinates" : [ -122.94791152, 45.53955639 ]
 			},
 			"properties" : {
+				"flow_elevation_rg" : "191.92",
+				"lid_elevation_rg" : "199.92",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Field Observed",
-				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2020-02-01",
+				"flow_survey_quality_rev_date" : "2019-10-31",
 				"loc_survey_quality_date" : "1999-11-30"
 			}
 		},
@@ -61238,17 +61140,20 @@
 				"coordinates" : [ -122.94907225, 45.54065997 ]
 			},
 			"properties" : {
+				"flow_elevation_rg" : "193.15",
+				"lid_elevation_rg" : "200.48",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Field Observed",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "1999-11-30"
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2020-02-01",
+				"flow_survey_quality_rev_date" : "2020-02-01",
+				"loc_survey_quality_date" : "2020-02-01"
 			}
 		},
 		{
@@ -61269,6 +61174,545 @@
 				"flow_survey_quality_cd_resolved" : "Field Observed",
 				"lid_survey_quality_date" : "1999-11-30",
 				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77137612, 45.62748888 ]
+			},
+			"properties" : {
+				"lid_elevation_rg" : "41.31",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "2020-04-07",
+				"loc_survey_quality_date" : "2020-04-07"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77086745, 45.62760747 ]
+			},
+			"properties" : {
+				"lid_elevation_rg" : "37.21",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "2020-04-07",
+				"loc_survey_quality_date" : "2020-04-07"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76942347, 45.62905345 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"diameter_cd_resolved" : "84",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "2011-09-26",
+				"loc_survey_quality_date" : "2011-09-26"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76872833, 45.62906524 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76719457, 45.62909713 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76567087, 45.6291279 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2011-09-26"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76939369, 45.62636868 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76928731, 45.62763384 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76902291, 45.62866378 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76877397, 45.62849114 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76876964, 45.62838298 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76770641, 45.62850884 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76770208, 45.62840068 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76662584, 45.62853214 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76662152, 45.62842398 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76563269, 45.62855146 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76554903, 45.62844581 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76954819, 45.62926885 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76869739, 45.62658186 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76869335, 45.626464 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76762503, 45.62660585 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76762099, 45.62648799 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2007-08-21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76655406, 45.62662658 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76655003, 45.62650872 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76548602, 45.62664642 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76548198, 45.62652856 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76488948, 45.62671675 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
 			}
 		}
 	]
