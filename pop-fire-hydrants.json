@@ -2549,9 +2549,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77144068, 45.62745438 ]
+				"coordinates" : [ -122.77143956, 45.62745425 ]
 			},
 			"properties" : {
+				"elevation_rg" : "41.05",
 				"monument_id" : "FH1233",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -2560,7 +2561,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2008-04-07"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -2603,18 +2604,18 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77111344, 45.62586566 ]
+				"coordinates" : [ -122.77105213, 45.62584216 ]
 			},
 			"properties" : {
 				"monument_id" : "FH1546",
 				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
+				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-11-06"
+				"loc_survey_quality_date" : "2020-04-07"
 			}
 		},
 		{
@@ -19933,6 +19934,40 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Combined",
 				"loc_survey_quality_date" : "2020-03-11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76899314, 45.62898041 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76950769, 45.63004671 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2011-09-26"
 			}
 		}
 	]
