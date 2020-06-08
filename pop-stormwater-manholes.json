@@ -10837,7 +10837,7 @@
 			},
 			"properties" : {
 				"flow_elevation_rg" : "13.95",
-				"lid_elevation_rg" : "17.36",
+				"lid_elevation_rg" : "17.81",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -10847,7 +10847,7 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2011-09-12",
+				"lid_survey_quality_date" : "2020-05-18",
 				"flow_survey_quality_rev_date" : "2005-10-27",
 				"loc_survey_quality_date" : "2011-09-12"
 			}
@@ -11217,7 +11217,7 @@
 			},
 			"properties" : {
 				"flow_elevation_rg" : "12.27",
-				"lid_elevation_rg" : "17.99",
+				"lid_elevation_rg" : "17.95",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -11227,7 +11227,7 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2014-03-20",
+				"lid_survey_quality_date" : "2020-05-18",
 				"flow_survey_quality_rev_date" : "2008-05-30",
 				"loc_survey_quality_date" : "2014-03-20"
 			}
@@ -12208,7 +12208,7 @@
 				"coordinates" : [ -122.59773634, 45.58418169 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "19.4",
+				"lid_elevation_rg" : "19.41",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -12217,7 +12217,7 @@
 				"confined_space_cd_resolved" : "Confined Space",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"lid_survey_quality_date" : "2011-09-12",
+				"lid_survey_quality_date" : "2020-05-18",
 				"loc_survey_quality_date" : "2014-03-20"
 			}
 		},
@@ -28182,7 +28182,7 @@
 			},
 			"properties" : {
 				"flow_elevation_rg" : "13.97",
-				"lid_elevation_rg" : "19.73",
+				"lid_elevation_rg" : "19.74",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -28192,7 +28192,7 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2014-03-20",
+				"lid_survey_quality_date" : "2020-05-18",
 				"flow_survey_quality_rev_date" : "2005-10-27",
 				"loc_survey_quality_date" : "2014-03-20"
 			}
@@ -35643,7 +35643,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58177279, 45.58744526 ]
+				"coordinates" : [ -122.58176879, 45.58744934 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "12.39",
@@ -35657,9 +35657,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2019-10-31",
+				"lid_survey_quality_date" : "2020-01-09",
 				"flow_survey_quality_rev_date" : "2019-10-31",
-				"loc_survey_quality_date" : "2019-10-31"
+				"loc_survey_quality_date" : "2020-01-09"
 			}
 		},
 		{
@@ -61713,6 +61713,206 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"lid_survey_quality_date" : "1999-11-30",
 				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76873454, 45.62909575 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76720177, 45.62912887 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76567374, 45.62915961 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76567643, 45.63052522 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76567836, 45.63055736 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76724237, 45.63052703 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76723238, 45.63049365 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76884666, 45.63049746 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76884821, 45.63046419 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2019-06-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7694764, 45.63048419 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Tenant",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "84",
+				"sewer_type_cd_resolved" : "Storm",
+				"lid_survey_quality_date" : "1999-11-30",
+				"loc_survey_quality_date" : "2011-09-26"
 			}
 		}
 	]
