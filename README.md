@@ -201,26 +201,9 @@ Properties:
 
 <hr>
 
-## Stormwater Pipes
+## Stormwater Data (Manholes, Catch Basins, Outfalls, and Pipes)
 
-Properties:
-
-* __"subtype_resolved"__	= type/function of feature
-
-* __"owner_cd_resolved"__	= owner of feature i.e. Port of Portland, or City of Portland
-
-* __"loc_survey_quality_cd_resolved"__	= location survey quality of feature
-
-* __"facility_cd_resolved"__	= Port of Portland property name 
-
-* __"lifecycle_status_cd_resolved"__	= lifecycle status of feature i.e. removed, or active
-
-* __"sewer_type_cd_resolved"__	= sewer feature's type/function
-
-* __"loc_survey_quality_date"__	 = date of location survey quality of feature
-
-* __"material_cd_resolved"__	= material of feature
-
+The Port’s open stormwater collection system dataset includes points and lines representing the following features: manholes, catch basins, outfalls, and pipes. Each of these features are available to download individually. Please contact Port staff for more information about the stormwater data.
 
 <hr>
 
