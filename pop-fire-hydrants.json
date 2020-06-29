@@ -19565,23 +19565,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58526782, 45.58694473 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "Unknown",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "No",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2018-10-24"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.60592766, 45.59814248 ]
 			},
 			"properties" : {
