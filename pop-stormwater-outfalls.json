@@ -282,6 +282,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.60398536, 45.57807486 ]
+			},
+			"properties" : {
+				"diameter" : 42,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2020-06-25",
+				"IE" : "9.53"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.63063109, 45.59062545 ]
 			},
 			"properties" : {
