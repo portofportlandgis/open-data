@@ -19952,6 +19952,42 @@
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2011-09-26"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58547129, 45.58772807 ]
+			},
+			"properties" : {
+				"elevation_rg" : "0",
+				"monument_id" : "FH1415",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2020-01-09"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58349034, 45.58695674 ]
+			},
+			"properties" : {
+				"elevation_rg" : "0",
+				"monument_id" : "FH1415",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2020-01-09"
+			}
 		}
 	]
 }
