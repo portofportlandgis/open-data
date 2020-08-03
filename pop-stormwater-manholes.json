@@ -37299,11 +37299,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60956866, 45.57750458 ]
+				"coordinates" : [ -122.60956508, 45.57750348 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "11.2",
-				"lid_elevation_rg" : "24.06",
+				"flow_elevation_rg" : "11.26",
+				"lid_elevation_rg" : "24.09",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -37312,9 +37312,9 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2011-08-23",
-				"flow_survey_quality_rev_date" : "2011-08-23",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
 				"loc_survey_quality_date" : "2001-07-17"
 			}
 		},
@@ -37529,10 +37529,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60987765, 45.57747944 ]
+				"coordinates" : [ -122.60988135, 45.57748022 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "12.21",
+				"flow_elevation_rg" : "12.13",
 				"lid_elevation_rg" : "24.27",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
@@ -37542,21 +37542,21 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2001-07-17",
-				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2001-07-17"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
+				"loc_survey_quality_date" : "2020-07-17"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6098885, 45.57751912 ]
+				"coordinates" : [ -122.60989201, 45.57751961 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "12.42",
-				"lid_elevation_rg" : "23.57",
+				"flow_elevation_rg" : "12.27",
+				"lid_elevation_rg" : "23.58",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -37565,10 +37565,10 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2001-07-17",
-				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2001-07-17"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
+				"loc_survey_quality_date" : "2020-07-17"
 			}
 		},
 		{
@@ -37642,11 +37642,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60995884, 45.57776604 ]
+				"coordinates" : [ -122.6099584, 45.57776707 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "12.62",
-				"lid_elevation_rg" : "19.22",
+				"flow_elevation_rg" : "12.89",
+				"lid_elevation_rg" : "19.29",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -37655,10 +37655,10 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2001-07-17",
-				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2001-07-17"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
+				"loc_survey_quality_date" : "2020-07-17"
 			}
 		},
 		{
@@ -47512,42 +47512,46 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60765661, 45.57751183 ]
+				"coordinates" : [ -122.60765627, 45.57750907 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "0",
+				"flow_elevation_rg" : "12.76",
+				"lid_elevation_rg" : "18.73",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2008-08-19"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
+				"loc_survey_quality_date" : "2020-07-17"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60844261, 45.57751338 ]
+				"coordinates" : [ -122.60844024, 45.57751267 ]
 			},
 			"properties" : {
-				"lid_elevation_rg" : "0",
+				"flow_elevation_rg" : "13.83",
+				"lid_elevation_rg" : "18.68",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"loc_survey_quality_date" : "2001-01-30"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2020-07-17",
+				"flow_survey_quality_rev_date" : "2020-07-17",
+				"loc_survey_quality_date" : "2020-07-17"
 			}
 		},
 		{
