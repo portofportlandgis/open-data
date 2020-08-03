@@ -10561,49 +10561,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.95118248, 45.53419154 ],
-						[ -122.95106335, 45.53434399 ],
-						[ -122.95115568, 45.53430437 ],
-						[ -122.95120905, 45.53425657 ],
-						[ -122.95128059, 45.53419604 ],
-						[ -122.95135589, 45.53410115 ],
-						[ -122.95128456, 45.53413601 ],
-						[ -122.95118248, 45.53419154 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "",
-				"facility_cd" : "HIO",
-				"FMEArea" : "1420.49",
-				"DSL_JD_NUM" : "2011-0370",
-				"Acreage" : 0.03260993,
-				"POLY_S_ID" : "4B",
-				"DATA_S_YR" : "Parametrix 11/1/2011",
-				"CREAT_YR" : "",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"COWAR_S_YR" : "",
-				"hgm_cd" : "",
-				"HGM_S_YR" : "",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"COE_JD_NUM" : "",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"lifecycle_status_cd" : "AC",
-				"FIELD_OBS" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20120511"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.94311883, 45.54225462 ],
 						[ -122.94319655, 45.54226882 ],
 						[ -122.94313663, 45.54222638 ],
@@ -15392,51 +15349,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.95920692, 45.54813185 ],
-						[ -122.95923007, 45.54812013 ],
-						[ -122.95895656, 45.54786335 ],
-						[ -122.95852638, 45.54745839 ],
-						[ -122.95813858, 45.54708926 ],
-						[ -122.95783233, 45.54679401 ],
-						[ -122.95737882, 45.54637077 ],
-						[ -122.95664748, 45.5456438 ],
-						[ -122.95657321, 45.54568157 ],
-						[ -122.95735591, 45.54638847 ],
-						[ -122.95779448, 45.54680695 ],
-						[ -122.95811247, 45.54711002 ],
-						[ -122.95849409, 45.54746969 ],
-						[ -122.95893401, 45.54787625 ],
-						[ -122.95920692, 45.54813185 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "12394.81",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.28454578,
-				"POLY_S_ID" : "Wetland A2",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.95847049, 45.54613494 ],
 						[ -122.95852295, 45.5461714 ],
 						[ -122.9585953, 45.54612839 ],
@@ -15450,7 +15362,7 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "640.99",
-				"DSL_JD_NUM" : "",
+				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.01471513,
 				"POLY_S_ID" : "Wetland FH1",
 				"DATA_S_YR" : "AKS 2/2020",
@@ -15459,11 +15371,13 @@
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
 				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"COE_JD_NUM" : "",
+				"coe_jurisd_cd" : "N",
+				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : "Y",
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : "20200624",
+				"COE_JD_DAT" : "20200701"
 			}
 		},
 		{
@@ -15491,7 +15405,7 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "3120.23",
-				"DSL_JD_NUM" : "",
+				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.07163055,
 				"POLY_S_ID" : "Wetland FH2",
 				"DATA_S_YR" : "AKS 2/2020",
@@ -15500,11 +15414,13 @@
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
 				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"COE_JD_NUM" : "",
+				"coe_jurisd_cd" : "N",
+				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : "Y",
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : "20200624",
+				"COE_JD_DAT" : "20200701"
 			}
 		},
 		{
@@ -15527,7 +15443,7 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "1164.41",
-				"DSL_JD_NUM" : "",
+				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.026731210000000002,
 				"POLY_S_ID" : "Wetland FH3",
 				"DATA_S_YR" : "AKS 2/2020",
@@ -15536,106 +15452,13 @@
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
 				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"COE_JD_NUM" : "",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.95484626, 45.54390758 ],
-						[ -122.95478332, 45.54383853 ],
-						[ -122.95448278, 45.54358262 ],
-						[ -122.95409729, 45.54322181 ],
-						[ -122.95385559, 45.54298752 ],
-						[ -122.95359501, 45.54274093 ],
-						[ -122.95331859, 45.54248983 ],
-						[ -122.95292062, 45.54214857 ],
-						[ -122.95289416, 45.54216098 ],
-						[ -122.95323676, 45.54250565 ],
-						[ -122.95350744, 45.54278217 ],
-						[ -122.95373866, 45.54303363 ],
-						[ -122.95402802, 45.54325425 ],
-						[ -122.95442477, 45.5436051 ],
-						[ -122.95473076, 45.54386227 ],
-						[ -122.95484626, 45.54390758 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "16711.36",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.38363998,
-				"POLY_S_ID" : "Wetland A4",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
+				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.95148214, 45.54073886 ],
-						[ -122.95128202, 45.54054436 ],
-						[ -122.95106195, 45.54031719 ],
-						[ -122.95080201, 45.54008883 ],
-						[ -122.95032745, 45.53977056 ],
-						[ -122.95031224, 45.53978415 ],
-						[ -122.95078768, 45.54009644 ],
-						[ -122.95103473, 45.54033469 ],
-						[ -122.95126409, 45.54055493 ],
-						[ -122.95146488, 45.54074446 ],
-						[ -122.95175649, 45.54102276 ],
-						[ -122.95185565, 45.54112096 ],
-						[ -122.95201292, 45.54127067 ],
-						[ -122.95227261, 45.54150402 ],
-						[ -122.95229024, 45.54149391 ],
-						[ -122.95204565, 45.54125364 ],
-						[ -122.9518797, 45.54110508 ],
-						[ -122.95176996, 45.54101716 ],
-						[ -122.95148214, 45.54073886 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "5228.96",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.12004042000000001,
-				"POLY_S_ID" : "Wetland A5",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"DSL_JD_DAT" : "20200624",
+				"COE_JD_DAT" : "20200701"
 			}
 		},
 		{
@@ -15720,122 +15543,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.9491554, 45.53852556 ],
-						[ -122.94909297, 45.53843455 ],
-						[ -122.94899972, 45.53837282 ],
-						[ -122.94883553, 45.53820456 ],
-						[ -122.94881967, 45.53820966 ],
-						[ -122.94897522, 45.53838873 ],
-						[ -122.94904561, 45.53847066 ],
-						[ -122.94912257, 45.53851409 ],
-						[ -122.94920943, 45.53863083 ],
-						[ -122.94943877, 45.53886506 ],
-						[ -122.94947146, 45.53887845 ],
-						[ -122.94947071, 45.53883277 ],
-						[ -122.94923739, 45.53861482 ],
-						[ -122.9491554, 45.53852556 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "2790.46",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.06406012,
-				"POLY_S_ID" : "Wetland A6",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94647473, 45.53608522 ],
-						[ -122.94646077, 45.53609914 ],
-						[ -122.94648151, 45.53611033 ],
-						[ -122.94649912, 45.53610571 ],
-						[ -122.94650287, 45.53608853 ],
-						[ -122.94647473, 45.53608522 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "66.07",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.00151668,
-				"POLY_S_ID" : "Wetland A8-1",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "Y",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94546425, 45.53544839 ],
-						[ -122.94546932, 45.53546483 ],
-						[ -122.94549394, 45.53546995 ],
-						[ -122.94550671, 45.53545247 ],
-						[ -122.94549178, 45.53543813 ],
-						[ -122.94546425, 45.53544839 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "80.39",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.00184557,
-				"POLY_S_ID" : "Wetland A9",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.94282923, 45.53380957 ],
 						[ -122.94274936, 45.5337917 ],
 						[ -122.94273824, 45.53381529 ],
@@ -15854,52 +15561,6 @@
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.03685887,
 				"POLY_S_ID" : "Wetland A11",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94322569, 45.53278094 ],
-						[ -122.94324843, 45.53281285 ],
-						[ -122.94337032, 45.53292859 ],
-						[ -122.94360762, 45.53315749 ],
-						[ -122.94391354, 45.53344495 ],
-						[ -122.94426694, 45.53378283 ],
-						[ -122.94471049, 45.5342067 ],
-						[ -122.94483599, 45.53433118 ],
-						[ -122.94486356, 45.53432192 ],
-						[ -122.94473263, 45.53419935 ],
-						[ -122.94429598, 45.53377373 ],
-						[ -122.94393654, 45.53343366 ],
-						[ -122.94362981, 45.53315026 ],
-						[ -122.943397, 45.53291643 ],
-						[ -122.94326966, 45.53280256 ],
-						[ -122.94322569, 45.53278094 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "4942.51",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.11346433,
-				"POLY_S_ID" : "Wetland A10",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
@@ -16007,88 +15668,11 @@
 		},
 		{
 			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94644055, 45.53603227 ],
-						[ -122.94647975, 45.53601351 ],
-						[ -122.9464782, 45.53597737 ],
-						[ -122.94647377, 45.53595893 ],
-						[ -122.94644207, 45.53596707 ],
-						[ -122.94644825, 45.53597934 ],
-						[ -122.94641514, 45.5359968 ],
-						[ -122.94640095, 45.53602176 ],
-						[ -122.94644055, 45.53603227 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "316.31",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.0072613600000000006,
-				"POLY_S_ID" : "Wetland A8-2",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "Y",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
-			}
-		},
-		{
-			"type" : "Feature",
 			"geometry" : null,
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "NA",
 				"Acreage" : 0
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94816021, 45.53806528 ],
-						[ -122.94814655, 45.53809759 ],
-						[ -122.94818379, 45.53807623 ],
-						[ -122.948349, 45.53792984 ],
-						[ -122.9484313, 45.53786149 ],
-						[ -122.94840235, 45.5378433 ],
-						[ -122.94832107, 45.53790701 ],
-						[ -122.94816021, 45.53806528 ]
-					]
-				]
-			},
-			"properties" : {
-				"COWARDIN" : "PEM",
-				"facility_cd" : "HIO",
-				"FMEArea" : "998.65",
-				"DSL_JD_NUM" : "2015-0329",
-				"Acreage" : 0.02292575,
-				"POLY_S_ID" : "Wetland A7",
-				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "N",
-				"COE_JD_NUM" : "NWP-2008-658(5)",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "HIO",
-				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
 			}
 		},
 		{
@@ -26531,19 +26115,25 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "1743.66",
+				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.040029010000000004,
 				"POLY_S_ID" : "A3",
 				"DATA_S_YR" : "AKS 2/2020",
 				"CREAT_YR" : "2020",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
+				"data_accu_cd" : "GPS",
 				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
+				"coe_jurisd_cd" : "N",
+				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : "Y",
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : "20200624",
+				"COE_JD_DAT" : "20200701"
 			}
 		},
 		{
@@ -26564,145 +26154,25 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "2487.03",
+				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.05709445,
 				"POLY_S_ID" : "H1",
 				"DATA_S_YR" : "AKS 2/2020",
 				"CREAT_YR" : "2020",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.95450978, 45.54191989 ],
-						[ -122.95447028, 45.54185099 ],
-						[ -122.95441178, 45.54180263 ],
-						[ -122.95428928, 45.54175244 ],
-						[ -122.95431787, 45.54183469 ],
-						[ -122.95443217, 45.54191328 ],
-						[ -122.95450978, 45.54191989 ]
-					]
-				]
-			},
-			"properties" : {
-				"facility_cd" : "HIO",
-				"FMEArea" : "1413.31",
-				"Acreage" : 0.0324451,
-				"POLY_S_ID" : "H2",
-				"DATA_S_YR" : "AKS 2/2020",
-				"CREAT_YR" : "2020",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
 				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
+				"coe_jurisd_cd" : "N",
+				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.94908418, 45.5370161 ],
-						[ -122.94913123, 45.53701331 ],
-						[ -122.94925491, 45.53694802 ],
-						[ -122.94936245, 45.53685142 ],
-						[ -122.94940632, 45.53680893 ],
-						[ -122.94944179, 45.53677124 ],
-						[ -122.94947617, 45.53673471 ],
-						[ -122.94951256, 45.53669604 ],
-						[ -122.94958905, 45.53662321 ],
-						[ -122.94963337, 45.53658101 ],
-						[ -122.94967213, 45.5365441 ],
-						[ -122.94987371, 45.53638329 ],
-						[ -122.9500766, 45.53616643 ],
-						[ -122.9501204, 45.53612121 ],
-						[ -122.9504712, 45.53582279 ],
-						[ -122.95064519, 45.53567837 ],
-						[ -122.9507566, 45.53558297 ],
-						[ -122.95082919, 45.53551545 ],
-						[ -122.95096361, 45.53539042 ],
-						[ -122.95102123, 45.53529764 ],
-						[ -122.95091262, 45.53534723 ],
-						[ -122.95066665, 45.53555769 ],
-						[ -122.95034602, 45.53583384 ],
-						[ -122.95013517, 45.53601145 ],
-						[ -122.94997934, 45.53614275 ],
-						[ -122.94975172, 45.53632388 ],
-						[ -122.94957821, 45.53648474 ],
-						[ -122.94940268, 45.5365885 ],
-						[ -122.94933288, 45.53664787 ],
-						[ -122.94911708, 45.53689611 ],
-						[ -122.94909364, 45.53698161 ],
-						[ -122.94908418, 45.5370161 ]
-					]
-				]
-			},
-			"properties" : {
-				"facility_cd" : "HIO",
-				"FMEArea" : "23325.19",
-				"Acreage" : 0.53547275,
-				"POLY_S_ID" : "3A",
-				"DATA_S_YR" : "AKS 2/2020",
-				"CREAT_YR" : "2020",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.95321354, 45.53228263 ],
-						[ -122.95333076, 45.53218125 ],
-						[ -122.95334422, 45.53207413 ],
-						[ -122.95330038, 45.53203754 ],
-						[ -122.95320193, 45.53204448 ],
-						[ -122.95305893, 45.53209476 ],
-						[ -122.95302269, 45.53219121 ],
-						[ -122.9530572, 45.53227913 ],
-						[ -122.95321354, 45.53228263 ]
-					]
-				]
-			},
-			"properties" : {
-				"facility_cd" : "HIO",
-				"FMEArea" : "5541.67",
-				"Acreage" : 0.12721934000000001,
-				"POLY_S_ID" : "S",
-				"DATA_S_YR" : "AKS 2/2020",
-				"CREAT_YR" : "2020",
-				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp",
-				"data_accu_cd" : "GPS",
-				"coe_submit_cd" : "Y",
-				"coe_jurisd_cd" : "P",
-				"dsl_submit_cd" : "Y",
-				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : "Y",
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : "20200624",
+				"COE_JD_DAT" : "20200701"
 			}
 		}
 	]
