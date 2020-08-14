@@ -5452,7 +5452,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.57378146, 45.5819627 ]
+				"coordinates" : [ -122.57378072, 45.58196309 ]
 			},
 			"properties" : {
 				"monument_id" : "FH8909",
@@ -5463,7 +5463,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-12-03"
+				"loc_survey_quality_date" : "2020-07-16"
 			}
 		},
 		{
@@ -8334,9 +8334,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.57273343, 45.58156178 ]
+				"coordinates" : [ -122.57269724, 45.58157876 ]
 			},
 			"properties" : {
+				"elevation_rg" : "22.57",
 				"monument_id" : "FH8882",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -8345,7 +8346,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2002-09-23"
+				"loc_survey_quality_date" : "2020-07-16"
 			}
 		},
 		{
@@ -12259,7 +12260,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77446533, 45.60327877 ]
+				"coordinates" : [ -122.77446453, 45.60328092 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2371",
@@ -12270,7 +12271,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-10-25"
+				"loc_survey_quality_date" : "2020-08-05"
 			}
 		},
 		{
@@ -13105,7 +13106,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.57633443, 45.58282661 ]
+				"coordinates" : [ -122.57632378, 45.58283887 ]
 			},
 			"properties" : {
 				"monument_id" : "FH8915",
@@ -13116,7 +13117,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2004-12-28"
+				"loc_survey_quality_date" : "2020-07-16"
 			}
 		},
 		{
@@ -13519,7 +13520,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.57485776, 45.58228243 ]
+				"coordinates" : [ -122.57485705, 45.5822803 ]
 			},
 			"properties" : {
 				"monument_id" : "FH8910",
@@ -13530,7 +13531,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-12-06"
+				"loc_survey_quality_date" : "2020-07-16"
 			}
 		},
 		{
@@ -19987,6 +19988,24 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2020-01-09"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57598368, 45.58273395 ]
+			},
+			"properties" : {
+				"elevation_rg" : "23.1",
+				"owner_cd_resolved" : "Unknown",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Unknown",
+				"water_net_type_cd_resolved" : "Fire Department Connection",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2020-07-16"
 			}
 		}
 	]
