@@ -117306,6 +117306,408 @@
 				"loc_survey_quality_date" : "2020-05-27",
 				"grate_survey_quality_rev_date" : "2020-05-27"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75651359, 45.62916373 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "28.8",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75744987, 45.62966554 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.6",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75772696, 45.62972418 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.69",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75804655, 45.62978823 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.69",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75831567, 45.62984802 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.69",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75869331, 45.62976956 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75886484, 45.62936249 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75901094, 45.6290362 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75915053, 45.62872063 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75929558, 45.62836956 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75945942, 45.62801037 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.55",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75883101, 45.62717819 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "30.32",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75901613, 45.62721763 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "30.32",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75832283, 45.62720139 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "30.75",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75724112, 45.62767922 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.8",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75712739, 45.62794171 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "27.8",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75693295, 45.6284609 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "30.75",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75668132, 45.62889468 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "29.8",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75678738, 45.62942641 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "29.11",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30",
+				"flow_elev_rg" : "26.61"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75736981, 45.62974755 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "29.86",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"confined_space_cd_resolved" : "Not Surveyed",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_date" : "1999-11-30",
+				"flow_elev_rg" : "27.56"
+			}
 		}
 	]
 }
