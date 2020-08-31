@@ -4747,6 +4747,27 @@
 				"loc_survey_quality_date" : "2018-10-03",
 				"IE" : "10.45"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75937233, 45.62857675 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "J",
+				"tenant" : "Bybee Lake Logistics Center II",
+				"tenant_contact_name" : "Patrick S. Malley",
+				"tenant_contact_phone" : "206 340-0140",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
 		}
 	]
 }
