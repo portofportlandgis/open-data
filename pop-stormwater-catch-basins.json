@@ -85680,7 +85680,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77066208, 45.60509312 ]
+				"coordinates" : [ -122.770662, 45.60509302 ]
 			},
 			"properties" : {
 				"grate_elevation_rg" : "34.94",
@@ -85689,13 +85689,14 @@
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
+				"loc_survey_quality_date" : "2020-08-31",
 				"flow_elev_rg" : "32.49",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_rev_date" : "2006-07-13",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
@@ -85948,22 +85949,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77165333, 45.60510887 ]
+				"coordinates" : [ -122.77165486, 45.60511055 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "34.28",
+				"grate_elevation_rg" : "34.41",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
+				"loc_survey_quality_date" : "2020-08-31",
 				"flow_elev_rg" : "31.13",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_rev_date" : "2006-07-13",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
@@ -86060,28 +86062,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77345708, 45.60556665 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "30.81",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
-				"flow_elev_rg" : "29.21",
-				"flow_survey_quality_rev_date" : "2006-07-13"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77466515, 45.60519556 ]
 			},
 			"properties" : {
@@ -86126,22 +86106,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7711181, 45.60509677 ]
+				"coordinates" : [ -122.77111845, 45.60509738 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "35.03",
+				"grate_elevation_rg" : "35.01",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
+				"loc_survey_quality_date" : "2020-08-31",
 				"flow_elev_rg" : "32.63",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_rev_date" : "2006-07-13",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
@@ -86255,7 +86236,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77052442, 45.60548052 ]
+				"coordinates" : [ -122.77052008, 45.60548016 ]
 			},
 			"properties" : {
 				"grate_elevation_rg" : "34.67",
@@ -86264,35 +86245,14 @@
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-14",
+				"loc_survey_quality_date" : "2020-08-31",
 				"flow_elev_rg" : "32.27",
-				"flow_survey_quality_rev_date" : "2006-07-14"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77424628, 45.60564664 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "32.04",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
-				"flow_elev_rg" : "30.49",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_rev_date" : "2006-07-14",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
