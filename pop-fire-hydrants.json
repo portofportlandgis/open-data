@@ -12638,10 +12638,9 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77193129, 45.60584278 ]
+				"coordinates" : [ -122.77193093, 45.605843 ]
 			},
 			"properties" : {
-				"monument_id" : "FH2586",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
@@ -12649,14 +12648,14 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-11"
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77344706, 45.6058585 ]
+				"coordinates" : [ -122.77344665, 45.6058605 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2587",
@@ -12667,14 +12666,14 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-11"
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77460079, 45.60512423 ]
+				"coordinates" : [ -122.77460023, 45.60512554 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2627",
@@ -12685,7 +12684,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2009-05-18"
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		},
 		{
