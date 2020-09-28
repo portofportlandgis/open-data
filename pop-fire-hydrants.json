@@ -11629,7 +11629,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77520295, 45.60535965 ]
+				"coordinates" : [ -122.77520376, 45.60536 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2655",
@@ -11640,14 +11640,14 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-12"
+				"loc_survey_quality_date" : "2020-08-01"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77517572, 45.6063501 ]
+				"coordinates" : [ -122.77517456, 45.60634973 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2572",
@@ -11658,7 +11658,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-11"
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		},
 		{
@@ -12620,7 +12620,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77642519, 45.60524945 ]
+				"coordinates" : [ -122.77642596, 45.6052495 ]
 			},
 			"properties" : {
 				"monument_id" : "FH2611",
@@ -12631,7 +12631,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-11"
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		},
 		{
@@ -20005,6 +20005,23 @@
 				"water_net_type_cd_resolved" : "Fire Department Connection",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2020-07-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7760977, 45.60524427 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Unknown",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2020-08-31"
 			}
 		}
 	]
