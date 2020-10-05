@@ -12383,56 +12383,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77432277, 45.60562228 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "28.13",
-				"lid_elevation_rg" : "33.43",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2006-07-13",
-				"flow_survey_quality_rev_date" : "2006-07-13",
-				"loc_survey_quality_date" : "2006-07-13"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77538338, 45.60557899 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "31.77",
-				"lid_elevation_rg" : "34.47",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2006-07-13",
-				"flow_survey_quality_rev_date" : "2006-07-13",
-				"loc_survey_quality_date" : "2006-07-13"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.7768472, 45.60520131 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "27.48",
+				"flow_elevation_rg" : "27.59",
 				"lid_elevation_rg" : "35.23",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
@@ -12442,9 +12396,9 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
 				"lid_survey_quality_date" : "2006-07-12",
-				"flow_survey_quality_rev_date" : "2006-07-12",
+				"flow_survey_quality_rev_date" : "2020-09-28",
 				"loc_survey_quality_date" : "2006-07-12"
 			}
 		},
