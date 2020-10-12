@@ -86310,22 +86310,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77540199, 45.60631334 ]
+				"coordinates" : [ -122.77540227, 45.60631522 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "34.31",
+				"grate_elevation_rg" : "34.35",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
-				"flow_elev_rg" : "30.51",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2020-08-31",
+				"flow_elev_rg" : "30.28",
+				"flow_survey_quality_rev_date" : "2020-10-02",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
@@ -86537,22 +86538,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77567742, 45.60632212 ]
+				"coordinates" : [ -122.77567725, 45.60631817 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "34.42",
+				"grate_elevation_rg" : "33.48",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-13",
+				"loc_survey_quality_date" : "2020-08-31",
 				"flow_elev_rg" : "31.82",
-				"flow_survey_quality_rev_date" : "2006-07-13"
+				"flow_survey_quality_rev_date" : "2006-07-13",
+				"grate_survey_quality_rev_date" : "2020-08-31"
 			}
 		},
 		{
