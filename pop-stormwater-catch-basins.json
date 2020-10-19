@@ -6408,10 +6408,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9534274, 45.53783507 ]
+				"coordinates" : [ -122.95342691, 45.53783524 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "200.92",
+				"grate_elevation_rg" : "200.91",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -6420,9 +6420,11 @@
 				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Confined",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
 				"loc_survey_quality_date" : "2014-09-05",
-				"grate_survey_quality_rev_date" : "2014-09-05"
+				"flow_elev_rg" : "197.98",
+				"flow_survey_quality_rev_date" : "2020-10-08",
+				"grate_survey_quality_rev_date" : "2020-10-08"
 			}
 		},
 		{
