@@ -41075,32 +41075,33 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60328479, 45.58179343 ]
+				"coordinates" : [ -122.60328431, 45.58179361 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "19.12",
+				"grate_elevation_rg" : "19.18",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Confined",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2007-09-13",
+				"loc_survey_quality_date" : "2020-10-13",
 				"flow_elev_rg" : "14.82",
-				"flow_survey_quality_rev_date" : "2008-03-06"
+				"flow_survey_quality_rev_date" : "2008-03-06",
+				"grate_survey_quality_rev_date" : "2020-10-13"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60102028, 45.58465676 ]
+				"coordinates" : [ -122.60102065, 45.58465645 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "18.7",
+				"grate_elevation_rg" : "18.71",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -41110,10 +41111,10 @@
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2012-05-08",
+				"loc_survey_quality_date" : "2020-10-13",
 				"flow_elev_rg" : "14.51",
 				"flow_survey_quality_rev_date" : "2008-04-21",
-				"grate_survey_quality_rev_date" : "2012-05-08"
+				"grate_survey_quality_rev_date" : "2020-10-13"
 			}
 		},
 		{
@@ -69964,22 +69965,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60271497, 45.58251421 ]
+				"coordinates" : [ -122.60271521, 45.58251447 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "20.12",
+				"grate_elevation_rg" : "20.11",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Confined",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2007-09-13",
+				"loc_survey_quality_date" : "2020-10-13",
 				"flow_elev_rg" : "15.82",
-				"flow_survey_quality_rev_date" : "2008-03-10"
+				"flow_survey_quality_rev_date" : "2008-03-10",
+				"grate_survey_quality_rev_date" : "2020-10-13"
 			}
 		},
 		{
@@ -70006,22 +70008,23 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6038511, 45.58076029 ]
+				"coordinates" : [ -122.60385133, 45.5807611 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "17.79",
+				"grate_elevation_rg" : "17.8",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Confined",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2001-07-17",
+				"loc_survey_quality_date" : "2020-10-13",
 				"flow_elev_rg" : "13.49",
-				"flow_survey_quality_rev_date" : "2008-03-06"
+				"flow_survey_quality_rev_date" : "2008-03-06",
+				"grate_survey_quality_rev_date" : "2020-10-13"
 			}
 		},
 		{
