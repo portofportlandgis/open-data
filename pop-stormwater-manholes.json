@@ -28427,9 +28427,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2012-05-08",
+				"lid_survey_quality_date" : "2020-10-13",
 				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2012-05-08"
+				"loc_survey_quality_date" : "2020-10-13"
 			}
 		},
 		{
