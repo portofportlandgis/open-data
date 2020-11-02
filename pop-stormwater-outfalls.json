@@ -4549,42 +4549,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7743522, 45.60127894 ]
-			},
-			"properties" : {
-				"diameter" : 10,
-				"basin_being_drained" : " ",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "1999-11-30"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.7733326, 45.60120727 ]
-			},
-			"properties" : {
-				"diameter" : 10,
-				"basin_being_drained" : " ",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "1999-11-30"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77340961, 45.60444715 ]
 			},
 			"properties" : {
