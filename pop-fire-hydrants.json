@@ -6695,7 +6695,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.61248714, 45.57874348 ]
+				"coordinates" : [ -122.61248866, 45.57874191 ]
 			},
 			"properties" : {
 				"monument_id" : "FH8327",
@@ -6706,7 +6706,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2002-09-23"
+				"loc_survey_quality_date" : "2020-10-19"
 			}
 		},
 		{
@@ -20022,6 +20022,23 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2020-08-31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61200772, 45.57914914 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Unknown",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Airtrans Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Unknown",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "",
+				"loc_survey_quality_date" : "2020-10-19"
 			}
 		}
 	]
