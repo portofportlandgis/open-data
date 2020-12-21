@@ -4305,6 +4305,29 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.59779814, 45.58847445 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.48",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2020-10-19",
+				"flow_elev_rg" : "20.43",
+				"flow_survey_quality_rev_date" : "2009-02-10",
+				"grate_survey_quality_rev_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.70482105, 45.57340343 ]
 			},
 			"properties" : {
@@ -54857,26 +54880,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77429057, 45.59947372 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "37.5",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"loc_survey_quality_date" : "2001-12-11"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77309417, 45.59921915 ]
 			},
 			"properties" : {
@@ -83585,6 +83588,117 @@
 				"flow_elev_rg" : "23.54",
 				"flow_survey_quality_rev_date" : "2002-09-17",
 				"grate_survey_quality_rev_date" : "2017-03-31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59826051, 45.58869696 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.58",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"loc_survey_quality_date" : "2020-10-19",
+				"grate_survey_quality_rev_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59737972, 45.58831143 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.53",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"loc_survey_quality_date" : "2020-10-19",
+				"grate_survey_quality_rev_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59696704, 45.58815037 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.43",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"loc_survey_quality_date" : "2020-10-19",
+				"flow_elev_rg" : "20.92",
+				"flow_survey_quality_rev_date" : "2007-12-26",
+				"grate_survey_quality_rev_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59810373, 45.58859381 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.27",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"loc_survey_quality_date" : "2020-10-19",
+				"flow_elev_rg" : "20.59",
+				"flow_survey_quality_rev_date" : "2007-12-26",
+				"grate_survey_quality_rev_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59655148, 45.58798881 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "24.35",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2020-10-19",
+				"flow_elev_rg" : "18.74",
+				"flow_survey_quality_rev_date" : "2008-03-12",
+				"grate_survey_quality_rev_date" : "2020-10-19"
 			}
 		},
 		{
@@ -117570,140 +117684,6 @@
 				"flow_elev_rg" : "24.32999992",
 				"flow_survey_quality_rev_date" : "2020-03-09",
 				"grate_survey_quality_rev_date" : "2020-08-06"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59779814, 45.58847445 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.48",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2020-10-19",
-				"flow_elev_rg" : "20.43",
-				"flow_survey_quality_rev_date" : "2009-02-10",
-				"grate_survey_quality_rev_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59826051, 45.58869696 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.58",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"loc_survey_quality_date" : "2020-10-19",
-				"grate_survey_quality_rev_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59737972, 45.58831143 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.53",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"loc_survey_quality_date" : "2020-10-19",
-				"grate_survey_quality_rev_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59696704, 45.58815037 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.43",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2020-10-19",
-				"flow_elev_rg" : "20.92",
-				"flow_survey_quality_rev_date" : "2007-12-26",
-				"grate_survey_quality_rev_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59810373, 45.58859381 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.27",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2020-10-19",
-				"flow_elev_rg" : "20.59",
-				"flow_survey_quality_rev_date" : "2007-12-26",
-				"grate_survey_quality_rev_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59655148, 45.58798881 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "24.35",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2020-10-19",
-				"flow_elev_rg" : "18.74",
-				"flow_survey_quality_rev_date" : "2008-03-12",
-				"grate_survey_quality_rev_date" : "2020-10-19"
 			}
 		},
 		{
