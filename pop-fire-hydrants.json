@@ -12584,42 +12584,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77757373, 45.60525245 ]
-			},
-			"properties" : {
-				"monument_id" : "FH2612",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-11"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77867645, 45.60526126 ]
-			},
-			"properties" : {
-				"monument_id" : "FH2614",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2006-07-06"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77642596, 45.6052495 ]
 			},
 			"properties" : {
@@ -16177,25 +16141,6 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2019-11-24"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59177098, 45.58653407 ]
-			},
-			"properties" : {
-				"elevation_rg" : "0",
-				"monument_id" : "FH1294",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "No",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2002-09-24"
 			}
 		},
 		{
@@ -20039,6 +19984,42 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "",
 				"loc_survey_quality_date" : "2020-10-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77757403, 45.60525207 ]
+			},
+			"properties" : {
+				"monument_id" : "FH2612",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Yes",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2021-01-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77867645, 45.60526126 ]
+			},
+			"properties" : {
+				"monument_id" : "FH2614",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Yes",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2021-01-19"
 			}
 		}
 	]
