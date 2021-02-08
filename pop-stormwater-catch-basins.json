@@ -41637,29 +41637,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59055635, 45.58585421 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "23.17",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "Surveyed",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"loc_survey_quality_date" : "2016-05-23",
-				"flow_elev_rg" : "20.02",
-				"flow_survey_quality_rev_date" : "2005-12-01",
-				"grate_survey_quality_rev_date" : "2016-05-23"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.58970657, 45.58673731 ]
 			},
 			"properties" : {
@@ -86461,50 +86438,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77822459, 45.60516869 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "34.71",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-12",
-				"flow_elev_rg" : "26.81",
-				"flow_survey_quality_rev_date" : "2006-07-12"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77868788, 45.60529013 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "34.85",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2006-07-12",
-				"flow_elev_rg" : "27.95",
-				"flow_survey_quality_rev_date" : "2006-07-12"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77696084, 45.60554581 ]
 			},
 			"properties" : {
@@ -117960,6 +117893,52 @@
 				"flow_elev_rg" : "12.13",
 				"flow_survey_quality_rev_date" : "2020-01-16",
 				"grate_survey_quality_rev_date" : "2020-01-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77822465, 45.60516847 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "34.75",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2021-01-19",
+				"flow_elev_rg" : "26.85",
+				"flow_survey_quality_rev_date" : "2021-01-19",
+				"grate_survey_quality_rev_date" : "2021-01-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77868776, 45.60529013 ]
+			},
+			"properties" : {
+				"grate_elevation_rg" : "34.89",
+				"subtype_resolved" : "STS Catch Basin",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"grate_survey_quality_cd_resolved" : "Surveyed",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2021-01-19",
+				"flow_elev_rg" : "28.02",
+				"flow_survey_quality_rev_date" : "2021-01-19",
+				"grate_survey_quality_rev_date" : "2021-01-19"
 			}
 		},
 		{
