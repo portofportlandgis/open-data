@@ -56,81 +56,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77431245, 45.59980583 ]
-			},
-			"properties" : {
-				"diameter" : 6,
-				"basin_being_drained" : "D",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "\r\n",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "Yes",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
-				"loc_survey_quality_date" : "2003-03-12"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77415494, 45.59981309 ]
-			},
-			"properties" : {
-				"diameter" : 6,
-				"basin_being_drained" : "D",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "Yes",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
-				"loc_survey_quality_date" : "2003-03-12"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77349147, 45.59979909 ]
-			},
-			"properties" : {
-				"diameter" : 6,
-				"basin_being_drained" : "D",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "Yes",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "WILLAMETTE RIVER",
-				"loc_survey_quality_date" : "2003-03-12"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77256135, 45.60042746 ]
 			},
 			"properties" : {
@@ -4483,40 +4408,6 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"loc_survey_quality_date" : "1999-11-30",
 				"IE" : "15.5"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.7743598, 45.5998105 ]
-			},
-			"properties" : {
-				"basin_being_drained" : " ",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Field Observed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "2020-08-03"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.7741917, 45.59981759 ]
-			},
-			"properties" : {
-				"basin_being_drained" : " ",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "1999-11-30"
 			}
 		},
 		{
