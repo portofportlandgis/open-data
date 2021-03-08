@@ -12584,6 +12584,42 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.77757403, 45.60525207 ]
+			},
+			"properties" : {
+				"monument_id" : "FH2612",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Yes",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2021-01-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77867645, 45.60526126 ]
+			},
+			"properties" : {
+				"monument_id" : "FH2614",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Yes",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2021-01-19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.77642596, 45.6052495 ]
 			},
 			"properties" : {
@@ -19527,7 +19563,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58771374, 45.58810788 ]
+				"coordinates" : [ -122.5876156, 45.58810836 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
@@ -19544,7 +19580,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58800645, 45.58859977 ]
+				"coordinates" : [ -122.58800837, 45.58859763 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
@@ -19595,7 +19631,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58750158, 45.58827626 ]
+				"coordinates" : [ -122.58746665, 45.58832946 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
@@ -19984,42 +20020,6 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "",
 				"loc_survey_quality_date" : "2020-10-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77757403, 45.60525207 ]
-			},
-			"properties" : {
-				"monument_id" : "FH2612",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2021-01-19"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.77867645, 45.60526126 ]
-			},
-			"properties" : {
-				"monument_id" : "FH2614",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 4",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2021-01-19"
 			}
 		}
 	]
