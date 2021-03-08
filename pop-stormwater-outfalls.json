@@ -534,6 +534,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.62034296, 45.58062649 ]
+			},
+			"properties" : {
+				"diameter" : 24,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "1200-COLS",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "Yes",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "WEST DETENTION POND",
+				"loc_survey_quality_date" : "2016-07-08",
+				"IE" : "3.84"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.55310148, 45.57578358 ]
 			},
 			"properties" : {
@@ -4449,6 +4475,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.62009937, 45.57869659 ]
+			},
+			"properties" : {
+				"basin_being_drained" : " ",
+				"outfall_id" : "MDD3, 2",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Multnomah County Drainage District",
+				"loc_survey_quality_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "1999-11-30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.64775266, 45.58346773 ]
 			},
 			"properties" : {
@@ -4481,6 +4525,26 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"loc_survey_quality_date" : "2016-10-20",
 				"IE" : "6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.62033186, 45.58057635 ]
+			},
+			"properties" : {
+				"diameter" : 12,
+				"basin_being_drained" : " ",
+				"outfall_id" : "",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"loc_survey_quality_date" : "2017-11-30",
+				"IE" : "6.74"
 			}
 		},
 		{
@@ -4559,70 +4623,6 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
 				"loc_survey_quality_date" : "1999-11-30"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.62034296, 45.58062649 ]
-			},
-			"properties" : {
-				"diameter" : 24,
-				"basin_being_drained" : "",
-				"permit_associated_with" : "1200-COLS",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "Yes",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "WEST DETENTION POND",
-				"loc_survey_quality_date" : "2016-07-08",
-				"IE" : "3.84"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.62009937, 45.57869659 ]
-			},
-			"properties" : {
-				"basin_being_drained" : " ",
-				"outfall_id" : "MDD3, 2",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Multnomah County Drainage District",
-				"loc_survey_quality_cd_resolved" : "",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "1999-11-30"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.62033186, 45.58057635 ]
-			},
-			"properties" : {
-				"diameter" : 12,
-				"basin_being_drained" : " ",
-				"outfall_id" : "",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"loc_survey_quality_date" : "2017-11-30",
-				"IE" : "6.74"
 			}
 		}
 	]
