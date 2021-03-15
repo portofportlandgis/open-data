@@ -13547,46 +13547,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94108529, 45.5409349 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "200.94",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Surveyed",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"loc_survey_quality_date" : "2006-08-02"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94086203, 45.54084286 ]
-			},
-			"properties" : {
-				"grate_elevation_rg" : "204.66",
-				"subtype_resolved" : "STS Catch Basin",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"grate_survey_quality_cd_resolved" : "",
-				"confined_space_cd_resolved" : "Not Confined",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"loc_survey_quality_date" : "2006-08-02"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.93995626, 45.53922232 ]
 			},
 			"properties" : {
