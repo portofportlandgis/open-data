@@ -1,1 +1,1390 @@
-empty
+{
+	"type" : "FeatureCollection",
+	"name" : "pop-stormwater-vault",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58651327, 45.58679644 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58792702, 45.58387542 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58875591, 45.21848886 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Mulino Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58873429, 45.21844797 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Mulino Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Trap"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60864291, 45.59666221 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59252971, 45.58801438 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.72002318, 45.56593406 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60019493, 45.58960923 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5922491, 45.58864648 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70056679, 45.54565562 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59069709, 45.58827491 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55907689, 45.57086654 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94959076, 45.53278106 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94540212, 45.53264396 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58792056, 45.58614878 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58807717, 45.58497106 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57751089, 45.58334641 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Sump Drainage Box"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58124499, 45.58474318 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Sump Drainage Box"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76863769, 45.59519433 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5870557, 45.58809163 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57848026, 45.58035059 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77105257, 45.59458588 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7700326, 45.59357546 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.769926, 45.59345367 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.769477, 45.59291204 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76897142, 45.59236244 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76853583, 45.5918361 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76810285, 45.59136947 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59009923, 45.5806882 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58524888, 45.58382265 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60004661, 45.58955402 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56724651, 45.570017 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56712149, 45.57001718 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55687122, 45.56729846 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58524886, 45.58382279 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69781069, 45.55743027 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69823677, 45.55734776 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70630756, 45.57154881 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60939474, 45.59693689 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56713761, 45.58114908 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61498511, 45.58925044 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74007795, 45.63387627 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.73969306, 45.63395919 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77309887, 45.60290643 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6062528, 45.5811828 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Airtrans Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75186368, 45.64250716 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58223567, 45.57530774 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58235934, 45.57709319 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Meter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.582229, 45.57716236 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70918297, 45.56536574 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70906551, 45.56543538 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58714469, 45.58817841 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58725292, 45.58812045 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58722331, 45.58815573 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58520402, 45.58626592 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58292342, 45.57701797 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.39599689, 45.55108859 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland Troutdale Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55620616, 45.5702746 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Cascade Station",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58549469, 45.58773969 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.39883746, 45.55531498 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57755137, 45.58403397 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58194552, 45.5766091 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58302302, 45.57711783 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60289695, 45.58080132 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Airtrans Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59790578, 45.59171147 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74713495, 45.63933469 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74708192, 45.63924956 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74717045, 45.63931477 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6064844, 45.5775143 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Airtrans Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61503244, 45.57916856 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Airtrans Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58291224, 45.58572728 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5666003, 45.57078552 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58577231, 45.57841709 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58589336, 45.5784482 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58598623, 45.57827826 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95895066, 45.54607587 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5921558, 45.58724486 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Oil Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59251577, 45.58803104 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59254383, 45.58799748 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58261559, 45.57691405 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Meter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5652774, 45.57173783 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5656033, 45.57186504 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56293031, 45.57177005 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56276296, 45.57202131 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Portland International Center",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94847265, 45.54857658 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Tenant",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61987515, 45.58063169 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61996795, 45.58059262 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58211632, 45.57703971 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58196312, 45.57699143 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58204482, 45.576927 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58218235, 45.57697718 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Storm Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58172376, 45.58750631 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5823359, 45.57703831 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		}
+	]
+}
