@@ -201,9 +201,11 @@ Properties:
 
 <hr>
 
-## Stormwater Data (Manholes, Catch Basins, Outfalls, and Pipes)
+## Port Stormwater Data: 
 
-The Port’s open stormwater collection system dataset includes points and lines representing the following features: manholes, catch basins, outfalls, and pipes. Each of these features are available to download individually. Please contact Port staff for more information about the stormwater data.
+### Manholes, Catch Basins, Outfalls, Pipes, Vaults, Misc Features
+
+The Port’s open stormwater collection system dataset includes points and lines representing the following features: manholes, catch basins, outfalls, and pipes. Each of these features are available to download individually above. Please contact Port staff for more information about the stormwater data.
 
 <hr>
 
