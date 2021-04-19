@@ -1,1 +1,4799 @@
-empty
+{
+	"type" : "FeatureCollection",
+	"name" : "pop-stormwater-facility-point",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58928342, 45.58831525 ]
+			},
+			"properties" : {
+				"install_date" : "20080101",
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Ecoroof"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.63480367, 45.59094468 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56837212, 45.57845983 ]
+			},
+			"properties" : {
+				"install_date" : "20170522",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56905745, 45.57795681 ]
+			},
+			"properties" : {
+				"install_date" : "20170522",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56843756, 45.57780316 ]
+			},
+			"properties" : {
+				"install_date" : "20170522",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56878486, 45.57830663 ]
+			},
+			"properties" : {
+				"install_date" : "20170522",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56754172, 45.58005223 ]
+			},
+			"properties" : {
+				"install_date" : "20150813",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56428592, 45.57475535 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56339202, 45.574355 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.63491654, 45.59069219 ]
+			},
+			"properties" : {
+				"install_date" : "20070727",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60847577, 45.58155066 ]
+			},
+			"properties" : {
+				"install_date" : "20010710",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60816248, 45.58258249 ]
+			},
+			"properties" : {
+				"install_date" : "20010815",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57257101, 45.57128644 ]
+			},
+			"properties" : {
+				"install_date" : "19970101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57154972, 45.57083867 ]
+			},
+			"properties" : {
+				"install_date" : "19870101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.63482105, 45.59223658 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Wet/Dry Basin",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Constructed Wetland"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58261665, 45.58553348 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58215245, 45.58640609 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5714422, 45.56907102 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57052214, 45.57040449 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56624794, 45.56967027 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56629638, 45.56932163 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56637747, 45.56897423 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56524843, 45.56922113 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56476071, 45.56914448 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56425868, 45.5690685 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56377234, 45.56899096 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56328873, 45.56891316 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56280299, 45.56883802 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56224718, 45.5687509 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5616401, 45.56866387 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56130575, 45.56861389 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56080079, 45.56849973 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56030724, 45.56836587 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55983998, 45.56818475 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55938691, 45.56797063 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55890858, 45.56780396 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56641977, 45.57027525 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56380766, 45.5698777 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56269656, 45.56971499 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56155912, 45.5694873 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56451572, 45.57334105 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56500637, 45.57265998 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56530258, 45.57229065 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56559673, 45.57191639 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56603761, 45.57169204 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56811359, 45.57168501 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56340129, 45.57287865 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56243722, 45.57253063 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56255335, 45.5716375 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56140238, 45.57182313 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55999406, 45.57126394 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55941125, 45.5709676 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55827614, 45.57055107 ]
+			},
+			"properties" : {
+				"install_date" : "20170501",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55758751, 45.5702368 ]
+			},
+			"properties" : {
+				"install_date" : "20170501",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55709379, 45.56994378 ]
+			},
+			"properties" : {
+				"install_date" : "20170501",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56416438, 45.57626023 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56390143, 45.57639177 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56358934, 45.57676239 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56307353, 45.57654598 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56328721, 45.57639017 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56329837, 45.57615708 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56357896, 45.57603339 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56358547, 45.57579674 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56363067, 45.57557727 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5639188, 45.5766361 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75647266, 45.64296092 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75983867, 45.64110315 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75907212, 45.63664071 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75511223, 45.63847842 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75611522, 45.63719971 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75513958, 45.63730426 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75536684, 45.63694493 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75672342, 45.63697753 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75596225, 45.63218129 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75523757, 45.63178279 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75416448, 45.63116517 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75446722, 45.63135858 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7553815, 45.63008642 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75780727, 45.63242048 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76848579, 45.64054093 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7686857, 45.64113785 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76909862, 45.64148639 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77054155, 45.64181888 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7697845, 45.64133134 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77168304, 45.64015601 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77258837, 45.64055137 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77260841, 45.64015235 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7731253, 45.64010371 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77836215, 45.63626609 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Wet/Dry Basin",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Wet Detention Pond"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77433949, 45.62500877 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Soakage Trench"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76751503, 45.6368244 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76731334, 45.63000915 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Soakage Trench"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7671502, 45.62739765 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Soakage Trench"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76813364, 45.60624372 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7701197, 45.59348307 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76916542, 45.59239034 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76749486, 45.59047711 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70025266, 45.55498618 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70365984, 45.55516409 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70309735, 45.55485934 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70429276, 45.55569541 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70347036, 45.55531313 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Ecoroof"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70252032, 45.55518592 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70192253, 45.55527968 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70144674, 45.55559883 ]
+			},
+			"properties" : {
+				"install_date" : "20150401",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70262393, 45.55590628 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70264194, 45.55608769 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70355896, 45.55615385 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70453611, 45.55595237 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70416557, 45.55637753 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70475458, 45.55628902 ]
+			},
+			"properties" : {
+				"install_date" : "20050101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70490454, 45.55641924 ]
+			},
+			"properties" : {
+				"install_date" : "20050101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70460843, 45.55646012 ]
+			},
+			"properties" : {
+				"install_date" : "20050101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70776184, 45.55770834 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70901016, 45.55837302 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71422306, 45.55994639 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71088363, 45.56224579 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71546513, 45.56108318 ]
+			},
+			"properties" : {
+				"install_date" : "20070601",
+				"subtype_resolved" : "Wet/Dry Basin",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Wet Detention Pond"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95558961, 45.55065058 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95541137, 45.54950378 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95397998, 45.54815286 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95397341, 45.5489807 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95212819, 45.54746591 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95136301, 45.54564342 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9512533, 45.54722375 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9574482, 45.54452691 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Wet/Dry Basin",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Dry Extended Detention Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95701525, 45.54367164 ]
+			},
+			"properties" : {
+				"install_date" : "19990101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94897442, 45.54336258 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95328177, 45.54654947 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94905393, 45.54245577 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94990255, 45.54505561 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94172411, 45.54078146 ]
+			},
+			"properties" : {
+				"install_date" : "19980101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94036474, 45.54011935 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94836753, 45.54912642 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57163607, 45.57833793 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56183373, 45.57772933 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55936921, 45.57738572 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55995366, 45.57671821 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76870863, 45.63604517 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76700591, 45.63728043 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60626611, 45.58117686 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60657517, 45.5775058 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.63277467, 45.59472112 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Soakage Trench"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57277811, 45.57826523 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6075224, 45.59816439 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60769237, 45.59816449 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57329577, 45.58060911 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60830708, 45.59785263 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57602918, 45.58021725 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57558633, 45.58031193 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57554955, 45.57978451 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57472753, 45.57945211 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57479492, 45.58015462 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57512917, 45.58027672 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57457379, 45.58027602 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57419332, 45.58015428 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57538264, 45.58054336 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57495012, 45.58041423 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60635024, 45.58422105 ]
+			},
+			"properties" : {
+				"install_date" : "20180901",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55343206, 45.57252678 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56283336, 45.57644749 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56301647, 45.57628268 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56362109, 45.57651899 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56391052, 45.57616165 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56330386, 45.57592374 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56620899, 45.57584186 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56581324, 45.57568346 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5642445, 45.57506861 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56393152, 45.574948 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56306123, 45.57460877 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56274643, 45.57448462 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56240132, 45.57435232 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55752362, 45.57246663 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Soakage Trench"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55602914, 45.57185844 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55827647, 45.57276034 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56049691, 45.57362356 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Subsurface SW Filter",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Sand Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7722993, 45.59610764 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76829595, 45.59140738 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56154715, 45.57701102 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56065707, 45.57795079 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76991852, 45.64185868 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76939927, 45.64097359 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7688762, 45.64093484 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76922487, 45.6404819 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7714144, 45.64090248 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77136354, 45.64105687 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77127558, 45.64062419 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77067596, 45.64064078 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77196604, 45.6406039 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Other",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Concrete Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77210481, 45.6405082 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77269827, 45.6401544 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76972604, 45.6057888 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Basin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76819522, 45.6063171 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55559312, 45.56837204 ]
+			},
+			"properties" : {
+				"install_date" : "20190101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55630856, 45.56732857 ]
+			},
+			"properties" : {
+				"install_date" : "20190101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56849469, 45.57743504 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94842534, 45.54750734 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95559447, 45.54633694 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95754107, 45.54728404 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95504964, 45.5449133 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95295006, 45.54290857 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95116174, 45.54120609 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94875196, 45.53981785 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95033349, 45.54132807 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96241841, 45.54975067 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Washington Co.",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95895066, 45.54607587 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95883331, 45.54602748 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95869385, 45.54568831 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95855801, 45.54549736 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95621503, 45.54214256 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9558263, 45.54260083 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95691029, 45.54223026 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95689508, 45.54131642 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95280693, 45.53982202 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95281087, 45.53978763 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94959076, 45.53278106 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94540212, 45.53264396 ]
+			},
+			"properties" : {
+				"install_date" : "19960101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93996065, 45.53927638 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93987185, 45.53919068 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93914595, 45.54022037 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94847265, 45.54857658 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94893164, 45.54774415 ]
+			},
+			"properties" : {
+				"install_date" : "20150101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96241841, 45.54975067 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Washington Co.",
+				"sub_class_resolved" : "Vegetated Swale"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94957455, 45.53240072 ]
+			},
+			"properties" : {
+				"install_date" : "20040101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95265587, 45.53463604 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95215155, 45.53512937 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95132719, 45.53583582 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.950757, 45.53632391 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95178636, 45.53365376 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95108071, 45.53350405 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95039725, 45.53662026 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9500833, 45.53689501 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94931859, 45.53749699 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94176487, 45.54231378 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94216977, 45.54265906 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95547631, 45.54224447 ]
+			},
+			"properties" : {
+				"install_date" : "20120101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95486282, 45.54153158 ]
+			},
+			"properties" : {
+				"install_date" : "20120101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94639847, 45.54178737 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94662642, 45.54139112 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95601746, 45.55088627 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95607063, 45.54888501 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95605885, 45.54786398 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95595271, 45.54792321 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95538349, 45.54759904 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94105236, 45.54091046 ]
+			},
+			"properties" : {
+				"install_date" : "20190101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9507131, 45.53596474 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94998079, 45.53543049 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94793854, 45.53771582 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94768508, 45.53740139 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94624678, 45.53918204 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94585008, 45.53895535 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94396002, 45.54110681 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94354569, 45.54091989 ]
+			},
+			"properties" : {
+				"install_date" : "20140101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77194636, 45.64020805 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77094052, 45.6360533 ]
+			},
+			"properties" : {
+				"install_date" : "20180801",
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75678589, 45.62885683 ]
+			},
+			"properties" : {
+				"install_date" : "20060101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60644437, 45.57695579 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60628849, 45.57693106 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60632411, 45.57738712 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60613715, 45.57747262 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60609608, 45.57829644 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60593586, 45.5782904 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60565162, 45.58486944 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60485687, 45.58487071 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60457686, 45.58487363 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6064844, 45.5775143 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60571108, 45.57894842 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7034897, 45.55582978 ]
+			},
+			"properties" : {
+				"install_date" : "20160101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70554182, 45.55628374 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Flow Through Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7015977, 45.55483671 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57002023, 45.57748206 ]
+			},
+			"properties" : {
+				"install_date" : "20120101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57089397, 45.57815947 ]
+			},
+			"properties" : {
+				"install_date" : "20120101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5695145, 45.57757921 ]
+			},
+			"properties" : {
+				"install_date" : "20120101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56750748, 45.57718066 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56771139, 45.57763901 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Infiltration Planter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56468372, 45.57569135 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56368597, 45.57699641 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5652774, 45.57173783 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : null,
+			"properties" : {
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56293031, 45.57177005 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56626598, 45.57549072 ]
+			},
+			"properties" : {
+				"install_date" : "20080101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56323039, 45.57432416 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56661427, 45.57647214 ]
+			},
+			"properties" : {
+				"install_date" : "20080101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56022418, 45.57300714 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55489598, 45.57045966 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55620616, 45.5702746 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56272782, 45.57497537 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5613915, 45.57433884 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55956509, 45.57399886 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55706081, 45.57316513 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.55617025, 45.5726221 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.56306886, 45.57393343 ]
+			},
+			"properties" : {
+				"install_date" : "20090101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58211228, 45.5770367 ]
+			},
+			"properties" : {
+				"install_date" : "20170101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58196215, 45.57698888 ]
+			},
+			"properties" : {
+				"install_date" : "20170101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58203804, 45.57692572 ]
+			},
+			"properties" : {
+				"install_date" : "20170101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58217829, 45.57697383 ]
+			},
+			"properties" : {
+				"install_date" : "20080101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76467375, 45.63228157 ]
+			},
+			"properties" : {
+				"install_date" : "20170101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76466297, 45.63241171 ]
+			},
+			"properties" : {
+				"install_date" : "20170101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76805829, 45.63813999 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7688262, 45.63617123 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77660655, 45.63828601 ]
+			},
+			"properties" : {
+				"install_date" : "20110101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77483871, 45.63957007 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77487681, 45.63955366 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7700326, 45.59357546 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.769926, 45.59345367 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.769477, 45.59291204 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76897142, 45.59236244 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76853583, 45.5918361 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76810285, 45.59136947 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.76863769, 45.59519433 ]
+			},
+			"properties" : {
+				"install_date" : "20050101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77105257, 45.59458588 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77076908, 45.59686911 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77390499, 45.59852415 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.78351505, 45.62105097 ]
+			},
+			"properties" : {
+				"install_date" : "20050101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77198015, 45.62409507 ]
+			},
+			"properties" : {
+				"install_date" : "20030101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77210193, 45.62752538 ]
+			},
+			"properties" : {
+				"install_date" : "20030101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77211028, 45.62744567 ]
+			},
+			"properties" : {
+				"install_date" : "20030101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74707613, 45.63925164 ]
+			},
+			"properties" : {
+				"install_date" : "20100101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74716347, 45.6393143 ]
+			},
+			"properties" : {
+				"install_date" : "20100101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74714179, 45.63934259 ]
+			},
+			"properties" : {
+				"install_date" : "20100101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75186368, 45.64250716 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6062528, 45.5811828 ]
+			},
+			"properties" : {
+				"install_date" : "20000101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60521066, 45.5817053 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61503244, 45.57916856 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61498511, 45.58925044 ]
+			},
+			"properties" : {
+				"install_date" : "19810101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60939474, 45.59693689 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.61320994, 45.59505108 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.57755137, 45.58403397 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58291224, 45.58572728 ]
+			},
+			"properties" : {
+				"install_date" : "20020101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58517531, 45.58570044 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58520402, 45.58626592 ]
+			},
+			"properties" : {
+				"install_date" : "20070101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59069709, 45.58827491 ]
+			},
+			"properties" : {
+				"install_date" : "19880101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59252971, 45.58801438 ]
+			},
+			"properties" : {
+				"install_date" : "19960101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5870557, 45.58809163 ]
+			},
+			"properties" : {
+				"install_date" : "19930101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.5921558, 45.58724486 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58292342, 45.57701797 ]
+			},
+			"properties" : {
+				"install_date" : "19940101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58302302, 45.57711783 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58194552, 45.5766091 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58223567, 45.57530774 ]
+			},
+			"properties" : {
+				"install_date" : "19820101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.39599689, 45.55108859 ]
+			},
+			"properties" : {
+				"install_date" : "20030101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Portland Troutdale Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Oil/Water Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94948077, 45.539602 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Vegetated Stormwater Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland",
+				"sub_class_resolved" : "Vegetated Filter Strip"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9400899, 45.5403442 ]
+			},
+			"properties" : {
+				"install_date" : "20010101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Hydrodynamic Separator"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.40779123, 45.55815295 ]
+			},
+			"properties" : {
+				"install_date" : "20180101",
+				"subtype_resolved" : "Manufactured SW Facility",
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Cartridge Filter"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70558385, 45.55628724 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Roof Spout Drywell"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70554004, 45.5561869 ]
+			},
+			"properties" : {
+				"install_date" : "20130101",
+				"subtype_resolved" : "Building BMP",
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "",
+				"sub_class_resolved" : "Pervious Pavement"
+			}
+		}
+	]
+}
