@@ -3868,7 +3868,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95150305, 45.53751853 ]
+				"coordinates" : [ -122.95150216, 45.53751882 ]
 			},
 			"properties" : {
 				"monument_id" : "FH253",
