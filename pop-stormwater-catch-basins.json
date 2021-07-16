@@ -13588,7 +13588,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94783894, 45.53618811 ]
+				"coordinates" : [ -122.94783894, 45.53618844 ]
 			},
 			"properties" : {
 				"grate_elevation_rg" : "198.58",
@@ -13600,8 +13600,10 @@
 				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Not Confined",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
 				"loc_survey_quality_date" : "2020-02-28",
+				"flow_elev_rg" : "194.84",
+				"flow_survey_quality_rev_date" : "2021-04-19",
 				"grate_survey_quality_rev_date" : "2020-02-28"
 			}
 		},
@@ -47203,10 +47205,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94766756, 45.53714693 ]
+				"coordinates" : [ -122.9476675, 45.53714739 ]
 			},
 			"properties" : {
-				"grate_elevation_rg" : "197.84",
+				"grate_elevation_rg" : "197.86",
 				"subtype_resolved" : "STS Catch Basin",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -47215,11 +47217,11 @@
 				"grate_survey_quality_cd_resolved" : "Surveyed",
 				"confined_space_cd_resolved" : "Confined Space",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"loc_survey_quality_date" : "2011-07-28",
-				"flow_elev_rg" : "195.02",
-				"flow_survey_quality_rev_date" : "2006-08-02",
-				"grate_survey_quality_rev_date" : "2011-07-28"
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"loc_survey_quality_date" : "2021-04-19",
+				"flow_elev_rg" : "195.11",
+				"flow_survey_quality_rev_date" : "2021-04-19",
+				"grate_survey_quality_rev_date" : "2021-04-19"
 			}
 		},
 		{
