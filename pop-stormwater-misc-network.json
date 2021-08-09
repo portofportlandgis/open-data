@@ -57732,6 +57732,7 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
+				"owner_cd_resolved" : null,
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -58095,6 +58096,7 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Line Cap",
+				"owner_cd_resolved" : null,
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -58444,6 +58446,7 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : null,
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -65233,6 +65236,7 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
+				"owner_cd_resolved" : null,
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
