@@ -22,6 +22,7 @@
 				"coordinates" : [ -122.63480367, 45.59094468 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Building BMP",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : "Tenant"
@@ -190,6 +191,7 @@
 				"coordinates" : [ -122.63482105, 45.59223658 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Wet/Dry Basin",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : "Tenant"
@@ -215,6 +217,7 @@
 				"coordinates" : [ -122.58215245, 45.58640609 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : "Tenant"
@@ -227,6 +230,7 @@
 				"coordinates" : [ -122.5714422, 45.56907102 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Center",
 				"owner_resolved" : "Port of Portland"
@@ -239,6 +243,7 @@
 				"coordinates" : [ -122.57052214, 45.57040449 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Vegetated Stormwater Facility",
 				"facility_cd_resolved" : "Portland International Center",
 				"owner_resolved" : ""
@@ -849,6 +854,7 @@
 				"coordinates" : [ -122.75647266, 45.64296092 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Building BMP",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : "Tenant"
@@ -874,6 +880,7 @@
 				"coordinates" : [ -122.75907212, 45.63664071 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Building BMP",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"owner_resolved" : "Port of Portland"
@@ -886,6 +893,7 @@
 				"coordinates" : [ -122.75511223, 45.63847842 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Building BMP",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : "Port of Portland"
@@ -898,6 +906,7 @@
 				"coordinates" : [ -122.75611522, 45.63719971 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Building BMP",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : "Port of Portland"
@@ -910,6 +919,7 @@
 				"coordinates" : [ -122.75513958, 45.63730426 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Vegetated Stormwater Facility",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : ""
@@ -922,6 +932,7 @@
 				"coordinates" : [ -122.75536684, 45.63694493 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Vegetated Stormwater Facility",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : ""
@@ -934,6 +945,7 @@
 				"coordinates" : [ -122.75672342, 45.63697753 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Vegetated Stormwater Facility",
 				"facility_cd_resolved" : "Terminal 6",
 				"owner_resolved" : ""
@@ -1141,6 +1153,7 @@
 				"coordinates" : [ -122.77836215, 45.63626609 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Wet/Dry Basin",
 				"facility_cd_resolved" : "Terminal 5",
 				"owner_resolved" : "Tenant"
@@ -1153,6 +1166,7 @@
 				"coordinates" : [ -122.77433949, 45.62500877 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Subsurface SW Filter",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"owner_resolved" : "Tenant"
@@ -1178,6 +1192,7 @@
 				"coordinates" : [ -122.76731334, 45.63000915 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Subsurface SW Filter",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"owner_resolved" : "Tenant"
@@ -1190,6 +1205,7 @@
 				"coordinates" : [ -122.7671502, 45.62739765 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Subsurface SW Filter",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"owner_resolved" : "Tenant"
@@ -1735,6 +1751,7 @@
 				"coordinates" : [ -122.57163607, 45.57833793 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Center",
 				"owner_resolved" : ""
@@ -1812,6 +1829,7 @@
 				"coordinates" : [ -122.60626611, 45.58117686 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Airtrans Center",
 				"owner_resolved" : "Tenant"
@@ -1837,6 +1855,7 @@
 				"coordinates" : [ -122.63277467, 45.59472112 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Subsurface SW Filter",
 				"facility_cd_resolved" : "Not Applicable",
 				"owner_resolved" : ""
@@ -1849,6 +1868,7 @@
 				"coordinates" : [ -122.57277811, 45.57826523 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Vegetated Stormwater Facility",
 				"facility_cd_resolved" : "Portland International Center",
 				"owner_resolved" : ""
@@ -2784,6 +2804,7 @@
 				"coordinates" : [ -122.94959076, 45.53278106 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"owner_resolved" : "Tenant"
@@ -3599,6 +3620,7 @@
 			"type" : "Feature",
 			"geometry" : null,
 			"properties" : {
+				"install_date" : null,
 				"facility_cd_resolved" : "Not Applicable",
 				"owner_resolved" : ""
 			}
@@ -4169,6 +4191,7 @@
 				"coordinates" : [ -122.60521066, 45.5817053 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Airtrans Center",
 				"owner_resolved" : ""
@@ -4181,6 +4204,7 @@
 				"coordinates" : [ -122.61503244, 45.57916856 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Airtrans Center",
 				"owner_resolved" : ""
@@ -4206,6 +4230,7 @@
 				"coordinates" : [ -122.60939474, 45.59693689 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
@@ -4218,6 +4243,7 @@
 				"coordinates" : [ -122.61320994, 45.59505108 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
@@ -4230,6 +4256,7 @@
 				"coordinates" : [ -122.57755137, 45.58403397 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
@@ -4320,6 +4347,7 @@
 				"coordinates" : [ -122.5921558, 45.58724486 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
@@ -4345,6 +4373,7 @@
 				"coordinates" : [ -122.58302302, 45.57711783 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
@@ -4357,6 +4386,7 @@
 				"coordinates" : [ -122.58194552, 45.5766091 ]
 			},
 			"properties" : {
+				"install_date" : null,
 				"subtype_resolved" : "Manufactured SW Facility",
 				"facility_cd_resolved" : "Portland International Airport",
 				"owner_resolved" : ""
