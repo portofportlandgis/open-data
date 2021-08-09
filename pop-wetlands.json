@@ -1298,6 +1298,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20000211",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : 113
 			}
 		},
@@ -1582,6 +1583,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1628,6 +1631,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1695,6 +1700,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1744,6 +1751,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1785,6 +1794,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1847,6 +1858,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1919,6 +1932,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -1968,6 +1983,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2040,6 +2057,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2091,6 +2110,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2135,6 +2156,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2176,6 +2199,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2216,6 +2241,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2318,6 +2345,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2365,6 +2394,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2410,6 +2441,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2465,6 +2498,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2519,6 +2554,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2635,6 +2672,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -2703,6 +2742,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -3997,6 +4038,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4094,6 +4137,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4137,6 +4182,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4190,6 +4237,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4299,6 +4348,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4341,6 +4392,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4457,6 +4510,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4509,6 +4564,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4665,6 +4722,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4715,6 +4774,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4757,6 +4818,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4809,6 +4872,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4854,6 +4919,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4950,6 +5017,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -4990,6 +5059,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PIC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5172,6 +5243,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5240,6 +5313,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5299,6 +5374,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5401,6 +5478,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5492,6 +5571,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5571,6 +5652,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5655,6 +5738,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5721,6 +5806,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5865,6 +5952,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -5981,6 +6070,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6358,6 +6449,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6430,6 +6523,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6557,6 +6652,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6607,6 +6704,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6720,6 +6819,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6811,6 +6912,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6891,6 +6994,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -6953,6 +7058,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HI",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -7616,6 +7723,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "MISC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -7746,6 +7855,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : 53
 			}
 		},
@@ -7909,6 +8020,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : 56
 			}
 		},
@@ -8004,6 +8117,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "N",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : 57
 			}
 		},
@@ -8070,6 +8185,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8136,6 +8253,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8197,6 +8316,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8267,6 +8388,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8400,6 +8523,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8519,6 +8644,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8572,6 +8699,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8619,6 +8748,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PIC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8659,6 +8790,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8713,6 +8846,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8762,6 +8897,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8806,6 +8943,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8890,6 +9029,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -8944,6 +9085,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9004,6 +9147,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "19980608",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9047,6 +9191,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9098,6 +9244,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9165,6 +9313,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9209,6 +9359,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9269,6 +9421,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20040727",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9322,6 +9475,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20040727",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9372,6 +9526,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20040727",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9478,6 +9633,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9533,6 +9689,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9574,6 +9732,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9614,6 +9774,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9657,6 +9819,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9705,6 +9869,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9747,6 +9913,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9830,6 +9998,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9893,6 +10063,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9939,6 +10111,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -9997,6 +10171,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10050,6 +10226,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10093,6 +10271,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10152,6 +10332,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10194,6 +10376,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10312,6 +10496,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10357,6 +10543,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10411,6 +10599,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10470,6 +10660,7 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
 				"COE_JD_DAT" : "20040730",
 				"SITE_ID" : ""
 			}
@@ -10514,6 +10705,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20120511",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10561,6 +10753,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20120511",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10606,6 +10799,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20120511",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10657,6 +10851,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20120511",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -10707,6 +10902,7 @@
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20120511",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11324,6 +11520,8 @@
 				"lifecycle_status_cd" : "AC",
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11404,7 +11602,10 @@
 				"dsl_submit_cd" : "",
 				"dsl_jurisd_cd" : "",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11451,7 +11652,10 @@
 				"dsl_submit_cd" : "",
 				"dsl_jurisd_cd" : "",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11576,7 +11780,10 @@
 				"dsl_submit_cd" : "",
 				"dsl_jurisd_cd" : "",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11621,8 +11828,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20080324",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11729,8 +11938,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11943,8 +12154,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20080324",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -11991,8 +12204,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20080324",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12038,8 +12253,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20080324",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12098,8 +12315,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12141,8 +12360,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12242,8 +12463,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12315,8 +12538,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12380,8 +12605,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12446,8 +12673,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12527,8 +12756,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12605,8 +12836,10 @@
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12660,7 +12893,10 @@
 				"dsl_submit_cd" : "N",
 				"dsl_jurisd_cd" : "Y",
 				"lifecycle_status_cd" : "AC",
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -12715,20 +12951,26 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "GVBP",
 				"FMEArea" : "7562",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.17361486,
 				"POLY_S_ID" : "Wetland E",
 				"DATA_S_YR" : "Pacific Habitat Services 5/27/2011",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2011-367",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "GVBP",
 				"DSL_JD_DAT" : "20110811",
@@ -12780,20 +13022,26 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "GVBP",
 				"FMEArea" : "17309",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.39736282,
 				"POLY_S_ID" : "Wetland H",
 				"DATA_S_YR" : "Pacific Habitat Services 5/27/2011",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2011-367",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "GVBP",
 				"DSL_JD_DAT" : "20110811",
@@ -12827,20 +13075,26 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "GVBP",
 				"FMEArea" : "3836",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.08806875,
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "Pacific Habitat Services 5/27/2011",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2011-367",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "GVBP",
 				"DSL_JD_DAT" : "20110811",
@@ -12905,20 +13159,26 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "GVBP",
 				"FMEArea" : "64291",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 1.47593901,
 				"POLY_S_ID" : "Wetland G",
 				"DATA_S_YR" : "Pacific Habitat Services 5/27/2011",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2011-367",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "GVBP",
 				"DSL_JD_DAT" : "20110811",
@@ -13073,20 +13333,26 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "GVBP",
 				"FMEArea" : "10188",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.23390181000000002,
 				"POLY_S_ID" : "Creek system",
 				"DATA_S_YR" : "Pacific Habitat Services 5/27/2011",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2011-367",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "GVBP",
 				"DSL_JD_DAT" : "20110811",
@@ -13703,8 +13969,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "570603",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 13.09924722,
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "as-built drawings/DEA 2/23/2007",
@@ -13712,9 +13980,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "U",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
 				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "TRIP"
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14154,8 +14433,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "202799",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 4.65562631,
 				"POLY_S_ID" : "Wetland H",
 				"DATA_S_YR" : "as-built drawings/DEA 2/23/2007",
@@ -14163,9 +14444,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "U",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
 				"dsl_jurisd_cd" : "Y",
-				"SITENAME" : "TRIP"
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14209,8 +14501,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"FMEArea" : "2232",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.05125099,
 				"POLY_S_ID" : "Ditch 4",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
@@ -14218,9 +14512,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "U",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "TRIP"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14267,8 +14572,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "2942",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.06756136,
 				"POLY_S_ID" : "Salmon Creek",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
@@ -14276,9 +14583,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "U",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "TRIP"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14323,21 +14641,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "27397",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.6289638,
 				"POLY_S_ID" : "Salmon Creek",
 				"DATA_S_YR" : "DEA 2/23/2007",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP 2007-089",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TRIP",
-				"DSL_JD_DAT" : "20090617"
+				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14403,17 +14731,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "RG",
 				"FMEArea" : "127263",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.92157713,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port staff delineation",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "N",
-				"SITENAME" : "RG"
+				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14460,17 +14802,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "RG",
 				"FMEArea" : "55168",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 1.26649383,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port staff delineation ",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "N",
-				"SITENAME" : "RG"
+				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14516,17 +14872,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "RG",
 				"FMEArea" : "38935",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.89382776,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port Staff Delineation",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "N",
-				"SITENAME" : "RG"
+				"SITENAME" : "RG",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14563,9 +14933,11 @@
 				"COE_JD_NUM" : " ",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : " ",
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : " "
 			}
 		},
@@ -14615,9 +14987,11 @@
 				"COE_JD_NUM" : " ",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : " ",
 				"SITENAME" : "TRIP",
 				"DSL_JD_DAT" : "20090617",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : " "
 			}
 		},
@@ -14660,12 +15034,22 @@
 				"POLY_S_ID" : "Ditch 4",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
 				"CREAT_YR" : "2012",
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
 				"COWAR_S_YR" : " ",
 				"hgm_cd" : " ",
 				"HGM_S_YR" : " ",
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
 				"COE_JD_NUM" : " ",
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : " ",
 				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : " "
 			}
 		},
@@ -14717,12 +15101,22 @@
 				"POLY_S_ID" : "Salmon Creek",
 				"DATA_S_YR" : "not delineated - boundary based on CAD lines",
 				"CREAT_YR" : "2012",
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
 				"COWAR_S_YR" : " ",
 				"hgm_cd" : " ",
 				"HGM_S_YR" : " ",
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
 				"COE_JD_NUM" : " ",
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : " ",
 				"SITENAME" : "TRIP",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
 				"SITE_ID" : " "
 			}
 		},
@@ -14754,15 +15148,23 @@
 				"Acreage" : 0.03173389,
 				"POLY_S_ID" : "Wetland A ",
 				"DATA_S_YR" : "ICF July 2012 ",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
 				"hgm_cd" : "F",
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "P",
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "Y",
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20130207",
+				"COE_JD_DAT" : null,
 				"SITE_ID" : ""
 			}
 		},
@@ -14789,13 +15191,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "9300",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.21351194,
 				"POLY_S_ID" : "A",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14827,13 +15244,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "12624",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.28980889,
 				"POLY_S_ID" : "B",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14860,13 +15292,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "2873",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.06595972,
 				"POLY_S_ID" : "C",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14924,13 +15371,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "34616",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.79469384,
 				"POLY_S_ID" : "E",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -14964,13 +15426,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "14163",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.32514511,
 				"POLY_S_ID" : "D",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15012,13 +15489,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "7311",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.16785753,
 				"POLY_S_ID" : "G",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15055,13 +15547,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
 				"FMEArea" : "2823",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.06480936,
 				"POLY_S_ID" : "F",
 				"DATA_S_YR" : "ES&A 6/2014",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15102,10 +15609,12 @@
 				"COE_JD_NUM" : "NWP-2014-322",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20150209",
-				"COE_JD_DAT" : "20141021"
+				"COE_JD_DAT" : "20141021",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15146,10 +15655,12 @@
 				"COE_JD_NUM" : "NWP-2014-322",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20150209",
-				"COE_JD_DAT" : "20141021"
+				"COE_JD_DAT" : "20141021",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15187,10 +15698,12 @@
 				"COE_JD_NUM" : "NWP-2014-322",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20150209",
-				"COE_JD_DAT" : "20141021"
+				"COE_JD_DAT" : "20141021",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15332,10 +15845,12 @@
 				"COE_JD_NUM" : "NWP-2014-322",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20150209",
-				"COE_JD_DAT" : "20141021"
+				"COE_JD_DAT" : "20141021",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15363,17 +15878,24 @@
 				"Acreage" : 0.0055591600000000005,
 				"POLY_S_ID" : "Wetland B2",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15422,17 +15944,24 @@
 				"Acreage" : 0.19786203,
 				"POLY_S_ID" : "Wetland B1",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15462,11 +15991,16 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20200624",
 				"COE_JD_DAT" : "20200701",
@@ -15506,11 +16040,16 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20200624",
 				"COE_JD_DAT" : "20200701",
@@ -15545,11 +16084,16 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20200624",
 				"COE_JD_DAT" : "20200701",
@@ -15580,17 +16124,24 @@
 				"Acreage" : 0.02302554,
 				"POLY_S_ID" : "Wetland R5",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15619,17 +16170,24 @@
 				"Acreage" : 0.0324504,
 				"POLY_S_ID" : "Wetland R4",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15657,17 +16215,24 @@
 				"Acreage" : 0.03685887,
 				"POLY_S_ID" : "Wetland A11",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15695,17 +16260,24 @@
 				"Acreage" : 0.00957044,
 				"POLY_S_ID" : "Wetland A12",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15748,17 +16320,24 @@
 				"Acreage" : 2.1564480599999998,
 				"POLY_S_ID" : "Wetland R3",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15767,7 +16346,28 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "NA",
-				"Acreage" : 0
+				"DSL_JD_NUM" : null,
+				"Acreage" : 0,
+				"POLY_S_ID" : null,
+				"DATA_S_YR" : null,
+				"CREAT_YR" : null,
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15797,17 +16397,24 @@
 				"Acreage" : 0.04851481,
 				"POLY_S_ID" : "Wetland B3",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15853,10 +16460,12 @@
 				"COE_JD_NUM" : "NWP-2014-322/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
 				"FIELD_OBS" : "Y",
 				"SITENAME" : "PDX",
 				"DSL_JD_DAT" : "20160526",
-				"COE_JD_DAT" : "20160525"
+				"COE_JD_DAT" : "20160525",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15882,26 +16491,54 @@
 				"Acreage" : 0.03279089,
 				"POLY_S_ID" : "Ditch 1",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
-				"COE_JD_DAT" : "20160125"
+				"COE_JD_DAT" : "20160125",
+				"SITE_ID" : null
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : null,
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"DSL_JD_NUM" : "2011-0370",
-				"Acreage" : 0
+				"Acreage" : 0,
+				"POLY_S_ID" : null,
+				"DATA_S_YR" : null,
+				"CREAT_YR" : null,
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -15950,6 +16587,7 @@
 				"Acreage" : 0.00356239,
 				"POLY_S_ID" : "O",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -15961,9 +16599,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16022,6 +16663,7 @@
 				"Acreage" : 0.00855002,
 				"POLY_S_ID" : "P",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16033,9 +16675,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16197,6 +16842,7 @@
 				"Acreage" : 0.10718127000000001,
 				"POLY_S_ID" : "M",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16208,9 +16854,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16238,6 +16887,7 @@
 				"Acreage" : 0.16749707,
 				"POLY_S_ID" : "K",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16249,9 +16899,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16355,6 +17008,7 @@
 				"Acreage" : 0.14532116,
 				"POLY_S_ID" : "H",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16366,9 +17020,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16496,6 +17153,7 @@
 				"Acreage" : 0.14883749000000002,
 				"POLY_S_ID" : "L",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16507,9 +17165,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16538,6 +17199,7 @@
 				"Acreage" : 0.06159484,
 				"POLY_S_ID" : "A",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16549,9 +17211,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16577,6 +17242,7 @@
 				"Acreage" : 0.00439824,
 				"POLY_S_ID" : "D",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16588,9 +17254,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16839,6 +17508,7 @@
 				"Acreage" : 1.29352289,
 				"POLY_S_ID" : "G",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16850,9 +17520,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16949,6 +17622,7 @@
 				"Acreage" : 1.07123836,
 				"POLY_S_ID" : "C",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -16960,9 +17634,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -16994,6 +17671,7 @@
 				"Acreage" : 0.02737923,
 				"POLY_S_ID" : "B",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17005,9 +17683,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17078,6 +17759,7 @@
 				"Acreage" : 0.01729259,
 				"POLY_S_ID" : "N",
 				"DATA_S_YR" : "ES&A 2016",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17089,9 +17771,12 @@
 				"COE_JD_NUM" : "2016-0268",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160817",
-				"COE_JD_DAT" : "20161117"
+				"COE_JD_DAT" : "20161117",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17179,6 +17864,7 @@
 				"Acreage" : 1.93159021,
 				"POLY_S_ID" : "Wetland B",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17190,6 +17876,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17312,6 +18000,7 @@
 				"Acreage" : 3.41370323,
 				"POLY_S_ID" : "Wetland C",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17323,6 +18012,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17366,6 +18057,7 @@
 				"Acreage" : 1.9036377,
 				"POLY_S_ID" : "Wetland D",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17377,9 +18069,12 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
-				"COE_JD_DAT" : "20180419"
+				"COE_JD_DAT" : "20180419",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17445,16 +18140,20 @@
 				"Acreage" : 2.22809192,
 				"POLY_S_ID" : "Wetland E",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
 				"COWAR_S_YR" : "2017",
 				"hgm_cd" : "SF",
 				"HGM_S_YR" : "2017",
+				"coe_submit_cd" : null,
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17494,6 +18193,7 @@
 				"Acreage" : 0.1152477,
 				"POLY_S_ID" : "Wetland H",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17505,6 +18205,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17543,6 +18245,7 @@
 				"Acreage" : 0.13176938,
 				"POLY_S_ID" : "Wetland I",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17554,6 +18257,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17623,6 +18328,7 @@
 				"Acreage" : 5.04072529,
 				"POLY_S_ID" : "Wetland J",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17634,6 +18340,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17670,6 +18378,7 @@
 				"Acreage" : 1.03295067,
 				"POLY_S_ID" : "Wetland K",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17681,6 +18390,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17722,6 +18433,7 @@
 				"Acreage" : 0.77178247,
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17733,6 +18445,8 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
 				"COE_JD_DAT" : "20180419",
@@ -17783,14 +18497,20 @@
 				"Acreage" : 1.48915637,
 				"POLY_S_ID" : "Wetland A1",
 				"DATA_S_YR" : "ESA Vigil Agrimis 6/2015",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2008-658(5)",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20160323",
 				"COE_JD_DAT" : "20160125",
@@ -17824,6 +18544,7 @@
 				"Acreage" : 0.0128775,
 				"POLY_S_ID" : "Wetland A",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -17835,9 +18556,12 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
-				"COE_JD_DAT" : "20180419"
+				"COE_JD_DAT" : "20180419",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17881,9 +18605,12 @@
 				"COE_JD_NUM" : "2011-432-1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "PIC",
 				"DSL_JD_DAT" : "20171106",
-				"COE_JD_DAT" : "20171211"
+				"COE_JD_DAT" : "20171211",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17968,9 +18695,12 @@
 				"COE_JD_NUM" : "2011-432-1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "PIC",
 				"DSL_JD_DAT" : "20171106",
-				"COE_JD_DAT" : "20171211"
+				"COE_JD_DAT" : "20171211",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -17996,6 +18726,7 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PIC",
 				"FMEArea" : "6574",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.15092083,
 				"POLY_S_ID" : "partial wetland delineation",
 				"DATA_S_YR" : "SWCA 2017",
@@ -18007,9 +18738,16 @@
 				"hgm_cd" : "D",
 				"HGM_S_YR" : "2017",
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "P",
-				"SITENAME" : "PIC"
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "PIC",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18227,23 +18965,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "59354",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 1.36258364,
 				"POLY_S_ID" : "Wetland E ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18277,23 +19023,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "36541",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.8388861400000001,
 				"POLY_S_ID" : "Wetland D ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18334,23 +19088,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "17546",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.40280491,
 				"POLY_S_ID" : "Wetland B",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18376,23 +19138,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "1850",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.04248476,
 				"POLY_S_ID" : "Wetland C",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18420,23 +19190,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "2990",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.06865887,
 				"POLY_S_ID" : "Wetland A ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18480,23 +19258,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "1634",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.03751252,
 				"POLY_S_ID" : "Ditch 1 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18545,23 +19331,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "5032",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.11554107,
 				"POLY_S_ID" : "Ditch 2",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18596,23 +19390,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "6578",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.15103007000000002,
 				"POLY_S_ID" : "Salmon Creek ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18638,23 +19440,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "2675",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.061415660000000004,
 				"POLY_S_ID" : "Salmon Creek ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18680,23 +19490,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "4965",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.11399452,
 				"POLY_S_ID" : "Ditch 5 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18724,23 +19542,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "8812",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.20231729,
 				"POLY_S_ID" : "Ditch 6 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18762,23 +19588,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "275",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.00632888,
 				"POLY_S_ID" : "Ditch 6",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18840,23 +19674,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "3688",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.08467546000000001,
 				"POLY_S_ID" : "Ditch 3 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18874,23 +19716,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "119",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.00273955,
 				"POLY_S_ID" : "Ditch 4 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18938,23 +19788,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "1668",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.03830686,
 				"POLY_S_ID" : "Ditch 1",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -18986,23 +19844,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "3418",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.07846654,
 				"POLY_S_ID" : "Ditch 7 ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19020,6 +19886,7 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "PIC",
 				"FMEArea" : "1759",
 				"DSL_JD_NUM" : "WD2017-0336",
@@ -19030,14 +19897,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "2011-432-1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "N",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "PIC",
 				"DSL_JD_DAT" : "20171106",
-				"COE_JD_DAT" : "20171211"
+				"COE_JD_DAT" : "20171211",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19071,6 +19944,7 @@
 				"Acreage" : 0.36239132,
 				"POLY_S_ID" : "Wetland G",
 				"DATA_S_YR" : "Anchor May 2017",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
@@ -19082,9 +19956,12 @@
 				"COE_JD_NUM" : "NWP-2017-433",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20180320",
-				"COE_JD_DAT" : "20180419"
+				"COE_JD_DAT" : "20180419",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19130,23 +20007,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "2539",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.05829669,
 				"POLY_S_ID" : "Salmon Creek ",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19187,23 +20072,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TTD",
 				"FMEArea" : "1110",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.02549322,
 				"POLY_S_ID" : "Wetland F",
 				"DATA_S_YR" : "AKS 2018",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "Y",
 				"COE_JD_NUM" : "NWP-2007-1010/1",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "TTD",
 				"DSL_JD_DAT" : "20180919",
-				"COE_JD_DAT" : "20181105"
+				"COE_JD_DAT" : "20181105",
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19236,12 +20129,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "4560",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.10470396,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19316,12 +20228,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "11889",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.2729411,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19456,12 +20387,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "78752",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 1.80791807,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -19913,12 +20863,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "236867",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 5.43771858,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -20640,12 +21609,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "1115987",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 25.61953656,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -20886,12 +21874,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "346160",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 7.9467476900000005,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -20918,12 +21925,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "5059",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.11614331,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -20952,9 +21978,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "1893",
-				"Acreage" : 0.043476970000000004
+				"DSL_JD_NUM" : null,
+				"Acreage" : 0.043476970000000004,
+				"POLY_S_ID" : null,
+				"DATA_S_YR" : null,
+				"CREAT_YR" : null,
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21019,12 +22067,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "9918",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.22769265,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21086,12 +22153,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "11950",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.27433779,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21633,12 +22719,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "91234",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.09444818,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21657,12 +22762,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "76",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.00175228,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21695,12 +22819,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "4560",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.10470396,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -21718,9 +22861,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "330",
-				"Acreage" : 0.00759792
+				"DSL_JD_NUM" : null,
+				"Acreage" : 0.00759792,
+				"POLY_S_ID" : null,
+				"DATA_S_YR" : null,
+				"CREAT_YR" : null,
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -22106,12 +23271,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "1088452",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 24.98743766,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -22539,12 +23723,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "25775",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.59173178,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -22591,9 +23794,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "2168",
-				"Acreage" : 0.04978104
+				"DSL_JD_NUM" : null,
+				"Acreage" : 0.04978104,
+				"POLY_S_ID" : null,
+				"DATA_S_YR" : null,
+				"CREAT_YR" : null,
+				"data_s_typ_cd" : null,
+				"data_meth_cd" : null,
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -22623,12 +23848,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "2134",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.048996740000000004,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -22663,12 +23907,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "1181",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.02712852,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23074,12 +24337,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "310502",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 7.12814819,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23109,12 +24391,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "2478",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.05689148,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23520,12 +24821,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "237445",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 5.4509935800000004,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23707,12 +25027,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "127949",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.93731605,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23778,12 +25117,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "21394",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.49115857,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -23933,12 +25291,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "41363",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.94957875,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24073,12 +25450,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "19001",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.4362159,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24240,12 +25636,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "92836",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.1312307600000002,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24300,12 +25715,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"FMEArea" : "29372",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.6742983,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24337,12 +25771,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"FMEArea" : "6012",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.13802781,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24369,12 +25822,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"FMEArea" : "1652",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.03793077,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24392,12 +25864,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "NA",
 				"FMEArea" : "27",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.00062339,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24416,12 +25907,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "181",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.00417243,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24775,12 +26285,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "100245",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.30133024,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -24941,12 +26470,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "88255",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 2.02606421,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25134,12 +26682,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "53097",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 1.21894855,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25463,12 +27030,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "45007",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 1.03322438,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25488,12 +27074,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "152",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.00350132,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25741,12 +27346,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "TRIP",
 				"FMEArea" : "56204",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 1.2902761,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "2018 As-Built",
+				"CREAT_YR" : null,
 				"data_s_typ_cd" : "Pvt",
-				"data_meth_cd" : "Imp"
+				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25768,15 +27392,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "3606",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.08279583,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25799,15 +27439,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "3503",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.08043117,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25876,15 +27532,31 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "337230",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 7.74174485,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "AKS - memo for VC enhancement",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
-				"SITENAME" : "HIO"
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
+				"coe_submit_cd" : null,
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : null,
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25912,14 +27584,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
 				"FMEArea" : "1521",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.03492148,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Lcl",
 				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "PDX"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -25940,14 +27626,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
 				"FMEArea" : "476",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.01092736,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Lcl",
 				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "PDX"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26052,14 +27752,28 @@
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
 				"FMEArea" : "37308",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.85648744,
+				"POLY_S_ID" : null,
 				"DATA_S_YR" : "Port PWS - Wetland Determination",
 				"CREAT_YR" : "2019",
 				"data_s_typ_cd" : "Lcl",
 				"data_meth_cd" : "Imp",
+				"data_accu_cd" : null,
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "PDX"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "PDX",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26096,8 +27810,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "38689",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.88818987,
 				"POLY_S_ID" : "D",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -26105,8 +27821,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
-				"dsl_submit_cd" : "N"
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
+				"dsl_submit_cd" : "N",
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : null,
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26125,8 +27853,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "607",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.013949699999999999,
 				"POLY_S_ID" : "L",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -26134,9 +27864,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26157,8 +27898,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "1697",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.03896535,
 				"POLY_S_ID" : "M",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -26166,9 +27909,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26189,8 +27943,10 @@
 				]
 			},
 			"properties" : {
+				"COWARDIN" : null,
 				"facility_cd" : "HIO",
 				"FMEArea" : "773",
+				"DSL_JD_NUM" : null,
 				"Acreage" : 0.01776117,
 				"POLY_S_ID" : "N",
 				"DATA_S_YR" : "Anchor May 2019",
@@ -26198,9 +27954,20 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "N",
+				"coe_jurisd_cd" : null,
+				"COE_JD_NUM" : null,
 				"dsl_submit_cd" : "N",
-				"SITENAME" : "HIO"
+				"dsl_jurisd_cd" : null,
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
+				"SITENAME" : "HIO",
+				"DSL_JD_DAT" : null,
+				"COE_JD_DAT" : null,
+				"SITE_ID" : null
 			}
 		},
 		{
@@ -26232,11 +27999,16 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20200624",
 				"COE_JD_DAT" : "20200701",
@@ -26272,11 +28044,16 @@
 				"data_s_typ_cd" : "Pvt",
 				"data_meth_cd" : "Imp",
 				"data_accu_cd" : "GPS",
+				"COWAR_S_YR" : null,
+				"hgm_cd" : null,
+				"HGM_S_YR" : null,
 				"coe_submit_cd" : "Y",
 				"coe_jurisd_cd" : "N",
 				"COE_JD_NUM" : "NWP-2008-658-6",
 				"dsl_submit_cd" : "Y",
 				"dsl_jurisd_cd" : "Y",
+				"lifecycle_status_cd" : null,
+				"FIELD_OBS" : null,
 				"SITENAME" : "HIO",
 				"DSL_JD_DAT" : "20200624",
 				"COE_JD_DAT" : "20200701",
