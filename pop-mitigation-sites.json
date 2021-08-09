@@ -176,7 +176,9 @@
 				"coe_permit" : "2001-00062",
 				"dsl_permit" : "23597-FP",
 				"other_permits" : " ",
-				"FMEArea" : "158077"
+				"FMEArea" : "158077",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -212,7 +214,9 @@
 				"coe_permit" : "2001-00553",
 				"dsl_permit" : "24231-RF",
 				"other_permits" : "LU 02-116099 GW (COP)",
-				"FMEArea" : "20423"
+				"FMEArea" : "20423",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -289,7 +293,9 @@
 				"coe_permit" : "2001-00553",
 				"dsl_permit" : "24231-RF",
 				"other_permits" : "LU 02-116099 GW (COP)",
-				"FMEArea" : "355214"
+				"FMEArea" : "355214",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -922,7 +928,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
 				"FMEArea" : "120175",
-				"coe_date" : "2005-04-11"
+				"coe_date" : "2005-04-11",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1233,7 +1240,9 @@
 				"coe_permit" : "95-534",
 				"dsl_permit" : "9836",
 				"other_permits" : " ",
-				"FMEArea" : "48391"
+				"FMEArea" : "48391",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1401,7 +1410,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
 				"FMEArea" : "35899",
-				"coe_date" : "2005-05-25"
+				"coe_date" : "2005-05-25",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1427,7 +1437,9 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "36357"
+				"FMEArea" : "36357",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1469,7 +1481,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
 				"FMEArea" : "12786",
-				"coe_date" : "2005-04-11"
+				"coe_date" : "2005-04-11",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1558,7 +1571,9 @@
 				"coe_permit" : "2001-00564",
 				"dsl_permit" : "24248-FP",
 				"other_permits" : " ",
-				"FMEArea" : "9500"
+				"FMEArea" : "9500",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1713,7 +1728,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
 				"FMEArea" : "4338",
-				"coe_date" : "2005-04-11"
+				"coe_date" : "2005-04-11",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1843,7 +1859,9 @@
 				"coe_permit" : "95-534",
 				"dsl_permit" : "9836",
 				"other_permits" : " ",
-				"FMEArea" : "116995"
+				"FMEArea" : "116995",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1907,7 +1925,9 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "LUR-99-00120 EN ZC and LUR-99-00071 en (COP)",
-				"FMEArea" : "43727"
+				"FMEArea" : "43727",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -1970,7 +1990,8 @@
 				"dsl_permit" : "4925",
 				"other_permits" : " ",
 				"FMEArea" : "140387",
-				"coe_date" : "1988-11-03"
+				"coe_date" : "1988-11-03",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -2137,7 +2158,9 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "LUR-99-00120 EN ZC and LUR-99-00071 en (COP)",
-				"FMEArea" : "140842"
+				"FMEArea" : "140842",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -2174,7 +2197,9 @@
 				"coe_permit" : "96-711",
 				"dsl_permit" : "RF-11224",
 				"other_permits" : " ",
-				"FMEArea" : "29985"
+				"FMEArea" : "29985",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -4210,7 +4235,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "SPL #08-000645 (CWS)",
 				"FMEArea" : "7427",
-				"coe_date" : "2008-10-09"
+				"coe_date" : "2008-10-09",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -4273,7 +4299,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
 				"FMEArea" : "7685",
-				"coe_date" : "2006-06-15"
+				"coe_date" : "2006-06-15",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -4371,7 +4398,9 @@
 				"coe_permit" : "N/A",
 				"dsl_permit" : "N/A",
 				"other_permits" : "N/A",
-				"FMEArea" : "20020"
+				"FMEArea" : "20020",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -5656,7 +5685,8 @@
 				"dsl_permit" : "N/A",
 				"other_permits" : "SPL #08-000645 (CWS)",
 				"FMEArea" : "2508",
-				"coe_date" : "2008-10-09"
+				"coe_date" : "2008-10-09",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -5824,7 +5854,9 @@
 				"coe_permit" : "95-986",
 				"dsl_permit" : "FP-10282",
 				"other_permits" : "LUR 95-00964 EN (COP)",
-				"FMEArea" : "240498"
+				"FMEArea" : "240498",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -6046,6 +6078,7 @@
 				"dsl_permit" : " ",
 				"other_permits" : "LU 02-125102 EN (COP)",
 				"FMEArea" : "778726",
+				"coe_date" : null,
 				"dsl_date" : "2001-07-30"
 			}
 		},
@@ -6205,7 +6238,9 @@
 				"coe_permit" : " ",
 				"dsl_permit" : " ",
 				"other_permits" : "Rivergate Cooperative Agreement, 1988",
-				"FMEArea" : "1801689"
+				"FMEArea" : "1801689",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -6290,7 +6325,8 @@
 				"dsl_permit" : "4/26/2010",
 				"other_permits" : " ",
 				"FMEArea" : "728324",
-				"coe_date" : "2010-05-04"
+				"coe_date" : "2010-05-04",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -6420,7 +6456,9 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : " ",
-				"FMEArea" : "2288293"
+				"FMEArea" : "2288293",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -7406,7 +7444,12 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "RIPARIAN BUFFER",
 				"impact_project" : "NA",
-				"FMEArea" : "125430"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "125430",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -7967,7 +8010,12 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "Unassigned",
-				"FMEArea" : "111115"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "111115",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -8477,7 +8525,12 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "RIPARIAN BUFFER",
 				"impact_project" : "NA",
-				"FMEArea" : "115991"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "115991",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -8702,7 +8755,12 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "Unassigned",
-				"FMEArea" : "73507"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "73507",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9019,6 +9077,7 @@
 				"impact_project" : "TRIP Phase 1",
 				"coe_permit" : "NWP-2007-889",
 				"dsl_permit" : "40094-RF",
+				"other_permits" : null,
 				"FMEArea" : "18140",
 				"coe_date" : "2009-05-28",
 				"dsl_date" : "2008-07-17"
@@ -9126,7 +9185,12 @@
 				"sitename" : "TRIP Phase 1 Mitigation ",
 				"mitigation_type_cd" : "WETLAND",
 				"impact_project" : "NA",
-				"FMEArea" : "47084"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "47084",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9253,7 +9317,10 @@
 				"impact_project" : "Capstone",
 				"coe_permit" : "not issued yet",
 				"dsl_permit" : "NA",
-				"FMEArea" : "64070"
+				"other_permits" : null,
+				"FMEArea" : "64070",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9879,7 +9946,9 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "SPL 18-000286",
-				"FMEArea" : "282686"
+				"FMEArea" : "282686",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9921,7 +9990,9 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "COP 13-192302-000-00-ZP",
-				"FMEArea" : "373598"
+				"FMEArea" : "373598",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9960,7 +10031,9 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "NA",
-				"FMEArea" : "307927"
+				"FMEArea" : "307927",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -9989,7 +10062,9 @@
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
 				"other_permits" : "NA",
-				"FMEArea" : "76737"
+				"FMEArea" : "76737",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10010,10 +10085,14 @@
 				"site_id" : 0,
 				"port_facility" : "PDX",
 				"sitename" : "PIC Wetlands",
+				"mitigation_type_cd" : null,
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "42635"
+				"other_permits" : null,
+				"FMEArea" : "42635",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10043,10 +10122,14 @@
 				"site_id" : 12,
 				"port_facility" : "PDX",
 				"sitename" : "Alderwood Corner Revegetation Project ",
+				"mitigation_type_cd" : null,
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "63569"
+				"other_permits" : null,
+				"FMEArea" : "63569",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10084,7 +10167,10 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "73315"
+				"other_permits" : null,
+				"FMEArea" : "73315",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10182,7 +10268,12 @@
 				"sitename" : "McBride Slough ",
 				"mitigation_type_cd" : "ENVIRONMENTAL ZONE",
 				"impact_project" : "McBride Slough Clean up and Colwood Pipe",
-				"FMEArea" : "204454"
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "204454",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10710,8 +10801,10 @@
 				"impact_project" : "TRIP",
 				"coe_permit" : "NWP-2007-889(1)",
 				"dsl_permit" : "54848-RF",
+				"other_permits" : null,
 				"FMEArea" : "5293427",
-				"coe_date" : "2015-01-09"
+				"coe_date" : "2015-01-09",
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10740,7 +10833,13 @@
 				"port_facility" : "TRIP",
 				"sitename" : "300 Trees- Tree Mitigation",
 				"mitigation_type_cd" : "UPLAND PLANTING",
-				"FMEArea" : "32534"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "32534",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10772,7 +10871,13 @@
 				"port_facility" : "TRIP",
 				"sitename" : "1290 Trees- Tree Mitigation",
 				"mitigation_type_cd" : "UPLAND PLANTING",
-				"FMEArea" : "183304"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "183304",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -10832,9 +10937,16 @@
 			},
 			"properties" : {
 				"site_id" : 5,
+				"port_facility" : null,
 				"sitename" : "Cornfoot Rd West of 47th Ave to AMC Building Revegetation",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "52864"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "52864",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11002,9 +11114,16 @@
 			},
 			"properties" : {
 				"site_id" : 7,
+				"port_facility" : null,
 				"sitename" : "Cornfoot Rd - NE 63rd to NE 55th Ave Revegetation Project",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "139743"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "139743",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11046,7 +11165,10 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "158528"
+				"other_permits" : null,
+				"FMEArea" : "158528",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11082,7 +11204,10 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "103088"
+				"other_permits" : null,
+				"FMEArea" : "103088",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11116,7 +11241,10 @@
 				"impact_project" : "NA",
 				"coe_permit" : "NA",
 				"dsl_permit" : "NA",
-				"FMEArea" : "52487"
+				"other_permits" : null,
+				"FMEArea" : "52487",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11154,7 +11282,13 @@
 				"port_facility" : "",
 				"sitename" : "Swan Island Enhancement Project",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "39280"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "39280",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11299,8 +11433,16 @@
 			},
 			"properties" : {
 				"site_id" : 43,
+				"port_facility" : null,
 				"sitename" : "Willamette Cove",
-				"FMEArea" : "1185762"
+				"mitigation_type_cd" : null,
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "1185762",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11363,9 +11505,16 @@
 			},
 			"properties" : {
 				"site_id" : 41,
+				"port_facility" : null,
 				"sitename" : "Linnton Mitigation Bank",
 				"mitigation_type_cd" : "RIPARIAN",
-				"FMEArea" : "1027822"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "1027822",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11434,9 +11583,16 @@
 			},
 			"properties" : {
 				"site_id" : 34,
+				"port_facility" : null,
 				"sitename" : "Terminal 4, Berth 401 Riverbank Rehabilitation Project",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "105586"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "105586",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11462,9 +11618,16 @@
 			},
 			"properties" : {
 				"site_id" : 35,
+				"port_facility" : null,
 				"sitename" : "Terminal 4, Slip 3 Remediation and Revegetation Project",
 				"mitigation_type_cd" : "RIPARIAN",
-				"FMEArea" : "30681"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "30681",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11576,9 +11739,16 @@
 			},
 			"properties" : {
 				"site_id" : 46,
+				"port_facility" : null,
 				"sitename" : "Wheeler Bay Bank Stabilization",
 				"mitigation_type_cd" : "BANK STABILIZATION",
-				"FMEArea" : "80857"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "80857",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11624,9 +11794,16 @@
 			},
 			"properties" : {
 				"site_id" : 21,
+				"port_facility" : null,
 				"sitename" : "Terminal 5, Powerline",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "97362"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "97362",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11725,9 +11902,16 @@
 			},
 			"properties" : {
 				"site_id" : 1,
+				"port_facility" : null,
 				"sitename" : "Columbia Grain Revegetation Project",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "30127"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "30127",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11784,9 +11968,16 @@
 			},
 			"properties" : {
 				"site_id" : 38,
+				"port_facility" : null,
 				"sitename" : "Dahl Beach",
 				"mitigation_type_cd" : "RIVERBANK RESTORATION",
-				"FMEArea" : "30031"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "30031",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11897,9 +12088,16 @@
 			},
 			"properties" : {
 				"site_id" : 40,
+				"port_facility" : null,
 				"sitename" : "Rinearson Creek/ Meldrum Bar Park",
 				"mitigation_type_cd" : "WETLAND AND FORESTED",
-				"FMEArea" : "1574997"
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "1574997",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -11918,8 +12116,16 @@
 			},
 			"properties" : {
 				"site_id" : 8,
+				"port_facility" : null,
 				"sitename" : "N Marine Dr Overpass",
-				"FMEArea" : "14057"
+				"mitigation_type_cd" : null,
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "14057",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		},
 		{
@@ -12013,8 +12219,16 @@
 			},
 			"properties" : {
 				"site_id" : 37,
+				"port_facility" : null,
 				"sitename" : "Force Avenue",
-				"FMEArea" : "261917"
+				"mitigation_type_cd" : null,
+				"impact_project" : null,
+				"coe_permit" : null,
+				"dsl_permit" : null,
+				"other_permits" : null,
+				"FMEArea" : "261917",
+				"coe_date" : null,
+				"dsl_date" : null
 			}
 		}
 	]
