@@ -10568,7 +10568,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -30435,7 +30435,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -30457,7 +30457,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "GRAVEL PILE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -30490,7 +30490,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "GRAVEL PILE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -41212,7 +41212,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -41231,7 +41231,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -45995,7 +45995,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
@@ -46016,7 +46016,7 @@
 			"properties" : {
 				"sewer_misc_line_type" : "CONCRETE EDGE",
 				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : null,
+				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
