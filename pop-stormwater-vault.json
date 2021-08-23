@@ -824,7 +824,7 @@
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -884,7 +884,7 @@
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1004,7 +1004,7 @@
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1019,7 +1019,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1034,7 +1034,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1049,7 +1049,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1094,7 +1094,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1109,7 +1109,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1304,7 +1304,7 @@
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1424,7 +1424,7 @@
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1439,7 +1439,7 @@
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1484,7 +1484,7 @@
 				"facility_cd_resolved" : "Cascade Station",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1499,7 +1499,7 @@
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
@@ -1529,7 +1529,7 @@
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : null
+				"vault_use_cd_resolved" : ""
 			}
 		},
 		{
