@@ -5306,56 +5306,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94664454, 45.5379766 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "199.86",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "84",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2014-04-08",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2014-04-08",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94642711, 45.5381371 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "198.55",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "108",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2020-02-28",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2020-02-28",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.94872758, 45.53789095 ]
 			},
 			"properties" : {
@@ -8631,56 +8581,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9531575, 45.53096158 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "199.12",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95255832, 45.53131856 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "202.17",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2014-09-05",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2014-09-05",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95332755, 45.53578541 ]
 			},
 			"properties" : {
@@ -9031,81 +8931,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95704858, 45.54241106 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.14",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.9570423, 45.54131875 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.56",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95706661, 45.54008171 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "201.34",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2011-11-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2011-11-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95705219, 45.53882658 ]
 			},
 			"properties" : {
@@ -9356,106 +9181,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95131279, 45.53185012 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "198.8",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94659983, 45.53203834 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.88",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94416986, 45.53213378 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "198.74",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94272568, 45.53212655 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "195.26",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.94222014, 45.53214239 ]
 			},
 			"properties" : {
@@ -9472,31 +9197,6 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
 				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94170394, 45.53211503 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "192.5",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2001-12-11",
 				"confined_space_id" : ""
@@ -9631,56 +9331,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95692605, 45.54007361 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "201.88",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95704525, 45.54045319 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.78",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95543043, 45.54004437 ]
 			},
 			"properties" : {
@@ -9806,31 +9456,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95147472, 45.5319598 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95143374, 45.5323446 ]
 			},
 			"properties" : {
@@ -9838,131 +9463,6 @@
 				"lid_elevation_rg" : "0",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95004878, 45.53211366 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94901014, 45.53208309 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94502898, 45.53206699 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.93999183, 45.53215132 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.93901275, 45.53235499 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
 				"loc_survey_quality_cd_resolved" : "Unverified",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -38631,31 +38131,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95427047, 45.53081558 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.9",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.9555798, 45.53082505 ]
 			},
 			"properties" : {
@@ -59506,31 +58981,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95698573, 45.54018621 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "201.19",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2011-11-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2011-11-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95312796, 45.54017901 ]
 			},
 			"properties" : {
@@ -62906,31 +62356,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95140864, 45.54059162 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "201.83",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "60",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2014-10-03",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2014-10-03",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.95525688, 45.54436803 ]
 			},
 			"properties" : {
@@ -62949,106 +62374,6 @@
 				"lid_survey_quality_date" : "1999-11-30",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2009-02-24",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95093858, 45.53998932 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "60",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-02-24",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95043459, 45.53950954 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "60",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-02-24",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94987797, 45.53898019 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "60",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-02-24",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94930018, 45.53842534 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "200.88",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "60",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2020-02-28",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2020-02-28",
 				"confined_space_id" : ""
 			}
 		},
@@ -69531,6 +68856,506 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.94664454, 45.5379766 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "189.47",
+				"lid_elevation_rg" : "199.86",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "84",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2014-04-08",
+				"flow_survey_quality_rev_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2014-04-08",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94642711, 45.5381371 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "189.47",
+				"lid_elevation_rg" : "198.55",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "108",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2020-02-28",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2020-02-28",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9531575, 45.53096158 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "186.99",
+				"lid_elevation_rg" : "199.12",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95255832, 45.53131856 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "186.69",
+				"lid_elevation_rg" : "202.17",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2014-09-05",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2014-09-05",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95704858, 45.54241106 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "190.56",
+				"lid_elevation_rg" : "200.14",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-07",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9570423, 45.54131875 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "191.38",
+				"lid_elevation_rg" : "200.56",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-07",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95706661, 45.54008171 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "192.56",
+				"lid_elevation_rg" : "201.34",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2011-11-11",
+				"flow_survey_quality_rev_date" : "1982-07-06",
+				"loc_survey_quality_date" : "2011-11-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95131279, 45.53185012 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "186.22",
+				"lid_elevation_rg" : "198.8",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94659983, 45.53203834 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "184.65",
+				"lid_elevation_rg" : "200.88",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94416986, 45.53213378 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "183.49",
+				"lid_elevation_rg" : "198.74",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94272568, 45.53212655 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "182.91",
+				"lid_elevation_rg" : "195.26",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94170394, 45.53211503 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "181.5",
+				"lid_elevation_rg" : "192.5",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95692605, 45.54007361 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "192.3",
+				"lid_elevation_rg" : "201.88",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-07-06",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95704525, 45.54045319 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "192.1",
+				"lid_elevation_rg" : "200.78",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-07",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95147472, 45.5319598 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "186.22",
+				"lid_elevation_rg" : "0",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95004878, 45.53211366 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "185.94",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "1982-06-28",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94901014, 45.53208309 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "185.25",
+				"lid_elevation_rg" : "0",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94502898, 45.53206699 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "183.9",
+				"lid_elevation_rg" : "0",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93999183, 45.53215132 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "180.94",
+				"lid_elevation_rg" : "0",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93901275, 45.53235499 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "174.74",
+				"lid_elevation_rg" : "0",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Unverified",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.59384851, 45.58538257 ]
 			},
 			"properties" : {
@@ -69756,6 +69581,31 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.95427047, 45.53081558 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "187.53",
+				"lid_elevation_rg" : "200.9",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2001-12-11",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.58785235, 45.5837841 ]
 			},
 			"properties" : {
@@ -69850,6 +69700,131 @@
 				"flow_survey_quality_rev_date" : "2013-05-24",
 				"loc_survey_quality_date" : "2013-05-24",
 				"confined_space_id" : "STSMH8563"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95140864, 45.54059162 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "194.58",
+				"lid_elevation_rg" : "201.83",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2014-10-03",
+				"flow_survey_quality_rev_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2014-10-03",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95093858, 45.53998932 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "193.91",
+				"lid_elevation_rg" : "",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2009-02-24",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95043459, 45.53950954 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "193.37",
+				"lid_elevation_rg" : "",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2009-02-24",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94987797, 45.53898019 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "192.77",
+				"lid_elevation_rg" : "",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2009-02-24",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94930018, 45.53842534 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "192.14",
+				"lid_elevation_rg" : "200.88",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "60",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2020-02-28",
+				"flow_survey_quality_rev_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2020-02-28",
+				"confined_space_id" : ""
 			}
 		},
 		{
@@ -70150,6 +70125,31 @@
 				"flow_survey_quality_rev_date" : "2021-02-28",
 				"loc_survey_quality_date" : "2021-02-28",
 				"confined_space_id" : "STSMH0009630"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9407613, 45.53211983 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "180.94",
+				"lid_elevation_rg" : "",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Hillsboro",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Unknown",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2021-09-16",
+				"flow_survey_quality_rev_date" : "1982-06-28",
+				"loc_survey_quality_date" : "1982-06-28",
+				"confined_space_id" : ""
 			}
 		}
 	]
