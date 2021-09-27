@@ -15686,6 +15686,20 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.59261179, 45.58600914 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.59208212, 45.58602935 ]
 			},
 			"properties" : {
@@ -15869,20 +15883,6 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ -122.58446236, 45.58183061 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59261179, 45.58600914 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
