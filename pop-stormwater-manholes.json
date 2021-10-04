@@ -30812,7 +30812,7 @@
 				"flow_elevation_rg" : "",
 				"lid_elevation_rg" : "0",
 				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
+				"owner_cd_resolved" : "Oregon Air National Guard",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -30887,7 +30887,7 @@
 				"flow_elevation_rg" : "",
 				"lid_elevation_rg" : "20.91",
 				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
+				"owner_cd_resolved" : "Oregon Air National Guard",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -30899,7 +30899,7 @@
 				"lid_survey_quality_date" : "2014-01-14",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2014-01-14",
-				"confined_space_id" : ""
+				"confined_space_id" : "DMH4-035"
 			}
 		},
 		{
@@ -62962,7 +62962,7 @@
 				"flow_elevation_rg" : "",
 				"lid_elevation_rg" : "20.12",
 				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
+				"owner_cd_resolved" : "Oregon Air National Guard",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
@@ -70149,6 +70149,31 @@
 				"lid_survey_quality_date" : "2021-09-16",
 				"flow_survey_quality_rev_date" : "1982-06-28",
 				"loc_survey_quality_date" : "1982-06-28",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.6036494, 45.57731809 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Oregon Air National Guard",
+				"loc_survey_quality_cd_resolved" : "Aerial Photo",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "1999-11-30",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2020-06-30",
 				"confined_space_id" : ""
 			}
 		}
