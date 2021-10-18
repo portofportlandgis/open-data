@@ -10156,7 +10156,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94522521, 45.53764127 ]
+				"coordinates" : [ -122.94522913, 45.53763792 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22490,7 +22490,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94285004, 45.54314005 ]
+				"coordinates" : [ -122.94284971, 45.5431395 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -45240,7 +45240,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94294756, 45.54322723 ]
+				"coordinates" : [ -122.94294753, 45.54322716 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -45870,7 +45870,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94549911, 45.5379275 ]
+				"coordinates" : [ -122.94550125, 45.53792742 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -67724,7 +67724,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94451688, 45.53699345 ]
+				"coordinates" : [ -122.94451618, 45.53699516 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -67738,7 +67738,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94437393, 45.53686143 ]
+				"coordinates" : [ -122.94437425, 45.53686283 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
