@@ -5306,11 +5306,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94604574, 45.53776298 ]
+				"coordinates" : [ -122.94604529, 45.53776377 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "191.6",
-				"lid_elevation_rg" : "199.79",
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "199.86",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -5320,10 +5320,10 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "108",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2006-08-02",
-				"flow_survey_quality_rev_date" : "2006-08-02",
-				"loc_survey_quality_date" : "2006-08-02",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2021-10-07",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2021-10-07",
 				"confined_space_id" : ""
 			}
 		},
@@ -5356,11 +5356,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94642711, 45.5381371 ]
+				"coordinates" : [ -122.94642729, 45.5381373 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "189.47",
-				"lid_elevation_rg" : "198.55",
+				"flow_elevation_rg" : "189.24",
+				"lid_elevation_rg" : "198.52",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -5371,9 +5371,9 @@
 				"diameter_cd_resolved" : "108",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2020-02-28",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2020-02-28",
+				"lid_survey_quality_date" : "2021-10-07",
+				"flow_survey_quality_rev_date" : "1993-08-23",
+				"loc_survey_quality_date" : "2021-10-07",
 				"confined_space_id" : ""
 			}
 		},
@@ -9784,7 +9784,7 @@
 				"coordinates" : [ -122.96644967, 45.54925262 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
+				"flow_elevation_rg" : "188.96",
 				"lid_elevation_rg" : "193.95",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
@@ -9795,9 +9795,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
+				"flow_survey_quality_rev_date" : "2003-03-31",
 				"loc_survey_quality_date" : "2001-12-11",
 				"confined_space_id" : ""
 			}
@@ -34756,10 +34756,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94595492, 45.53779355 ]
+				"coordinates" : [ -122.94595479, 45.53779402 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
+				"flow_elevation_rg" : "190.71",
 				"lid_elevation_rg" : "199.5",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
@@ -34770,10 +34770,10 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2009-08-25",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-08-25",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2021-10-07",
+				"flow_survey_quality_rev_date" : "2021-10-07",
+				"loc_survey_quality_date" : "2021-10-07",
 				"confined_space_id" : ""
 			}
 		},
@@ -59959,8 +59959,8 @@
 				"coordinates" : [ -122.96644158, 45.54863357 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "187.15",
+				"lid_elevation_rg" : "191.97",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
@@ -59970,10 +59970,10 @@
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-14",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2003-03-31",
+				"flow_survey_quality_rev_date" : "2003-03-31",
+				"loc_survey_quality_date" : "2003-03-31",
 				"confined_space_id" : ""
 			}
 		},
@@ -60006,24 +60006,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.96377731, 45.55192199 ]
+				"coordinates" : [ -122.96377623, 45.55192085 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "186.37",
+				"lid_elevation_rg" : "194.04",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-14",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2021-10-07",
+				"flow_survey_quality_rev_date" : "2003-03-31",
+				"loc_survey_quality_date" : "2021-10-07",
 				"confined_space_id" : ""
 			}
 		},
@@ -60059,8 +60059,8 @@
 				"coordinates" : [ -122.96259744, 45.54924668 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "181.7",
+				"lid_elevation_rg" : "185.88",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
@@ -60070,9 +60070,9 @@
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
+				"flow_survey_quality_rev_date" : "2012-02-14",
 				"loc_survey_quality_date" : "2012-02-14",
 				"confined_space_id" : ""
 			}
@@ -60084,8 +60084,8 @@
 				"coordinates" : [ -122.96263952, 45.54948329 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "181.93",
+				"lid_elevation_rg" : "186.3",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
@@ -60095,9 +60095,9 @@
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2003-03-31",
+				"flow_survey_quality_rev_date" : "2003-03-31",
 				"loc_survey_quality_date" : "2012-02-14",
 				"confined_space_id" : ""
 			}
@@ -60109,8 +60109,8 @@
 				"coordinates" : [ -122.96941197, 45.54994269 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "192.2",
+				"lid_elevation_rg" : "195.32",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
@@ -60120,10 +60120,10 @@
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-14",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2003-03-31",
+				"flow_survey_quality_rev_date" : "2003-03-31",
+				"loc_survey_quality_date" : "2003-03-31",
 				"confined_space_id" : ""
 			}
 		},
@@ -60134,8 +60134,8 @@
 				"coordinates" : [ -122.96944673, 45.55010595 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"flow_elevation_rg" : "193.8",
+				"lid_elevation_rg" : "196.41",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Washington Co.",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
@@ -60145,10 +60145,10 @@
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-14",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-14",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2003-03-31",
+				"flow_survey_quality_rev_date" : "2003-03-31",
+				"loc_survey_quality_date" : "2003-03-31",
 				"confined_space_id" : ""
 			}
 		},
