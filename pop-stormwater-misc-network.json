@@ -4976,7 +4976,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94351049, 45.5377375 ]
+				"coordinates" : [ -122.94351042, 45.5377378 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -5102,7 +5102,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94336378, 45.53776551 ]
+				"coordinates" : [ -122.94336351, 45.53776501 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -55320,7 +55320,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.94165534, 45.53565266 ]
+				"coordinates" : [ -122.94165676, 45.5356545 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -67786,6 +67786,48 @@
 				"subtype_resolved" : "STS Line Cap",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94400755, 45.53821078 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Culvert",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94374496, 45.53797415 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Culvert",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93811683, 45.53294485 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Line Cap",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
