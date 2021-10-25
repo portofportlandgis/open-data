@@ -9581,11 +9581,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.93810957, 45.53290898 ]
+				"coordinates" : [ -122.9381109, 45.53291137 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "173.57",
+				"lid_elevation_rg" : "174.41",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -9596,9 +9596,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
+				"lid_survey_quality_date" : "2021-10-14",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2021-10-14",
 				"confined_space_id" : ""
 			}
 		},
@@ -9706,11 +9706,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95543043, 45.54004437 ]
+				"coordinates" : [ -122.9554302, 45.54004565 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "203.6",
+				"flow_elevation_rg" : "193.13",
+				"lid_elevation_rg" : "203.56",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -9720,10 +9720,10 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-12-11",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2021-10-14",
+				"flow_survey_quality_rev_date" : "2021-10-14",
+				"loc_survey_quality_date" : "2021-10-14",
 				"confined_space_id" : ""
 			}
 		},
@@ -9956,24 +9956,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.93999183, 45.53215132 ]
+				"coordinates" : [ -122.93967993, 45.53214814 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "180.94",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "188.5",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Unverified",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2021-10-14",
 				"flow_survey_quality_rev_date" : "1982-06-28",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2021-10-14",
 				"confined_space_id" : ""
 			}
 		},
@@ -59956,7 +59956,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.96644158, 45.54863357 ]
+				"coordinates" : [ -122.9664455, 45.54863457 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "187.15",
@@ -70131,24 +70131,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9407613, 45.53211983 ]
+				"coordinates" : [ -122.9407617, 45.53211865 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "180.94",
-				"lid_elevation_rg" : "",
+				"lid_elevation_rg" : "193.62",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Hillsboro",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Unknown",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2021-09-16",
+				"lid_survey_quality_date" : "2021-10-14",
 				"flow_survey_quality_rev_date" : "1982-06-28",
-				"loc_survey_quality_date" : "1982-06-28",
+				"loc_survey_quality_date" : "2021-10-14",
 				"confined_space_id" : ""
 			}
 		},
@@ -70174,6 +70174,56 @@
 				"lid_survey_quality_date" : "1999-11-30",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2020-06-30",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96797283, 45.54863414 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "194.65",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2021-10-14",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2021-10-14",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96644413, 45.54875989 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "187.69",
+				"lid_elevation_rg" : "192.46",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2021-10-14",
+				"flow_survey_quality_rev_date" : "2021-10-14",
+				"loc_survey_quality_date" : "2021-10-14",
 				"confined_space_id" : ""
 			}
 		}
