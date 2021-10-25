@@ -15891,6 +15891,34 @@
 				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
 				"sewer_type_cd_resolved" : "Storm"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96644239, 45.54869556 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Washington Co.",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96720893, 45.54863436 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Washington Co.",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
+				"sewer_type_cd_resolved" : "Storm"
+			}
 		}
 	]
 }
