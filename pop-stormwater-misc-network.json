@@ -7160,7 +7160,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6021846, 45.58091809 ]
+				"coordinates" : [ -122.60218529, 45.5809175 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -10436,7 +10436,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60236558, 45.58072863 ]
+				"coordinates" : [ -122.60236294, 45.58072941 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -10450,7 +10450,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60231774, 45.58079336 ]
+				"coordinates" : [ -122.60231638, 45.58079271 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -10464,7 +10464,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60229996, 45.58078618 ]
+				"coordinates" : [ -122.60229816, 45.58078608 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -10478,7 +10478,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60234752, 45.58072225 ]
+				"coordinates" : [ -122.60234841, 45.58072184 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -10520,7 +10520,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60306098, 45.57949955 ]
+				"coordinates" : [ -122.60305975, 45.57949904 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22798,7 +22798,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60234487, 45.5809157 ]
+				"coordinates" : [ -122.60234547, 45.58091255 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22952,7 +22952,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60388446, 45.57856599 ]
+				"coordinates" : [ -122.60388505, 45.57856484 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22966,7 +22966,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60383926, 45.5786325 ]
+				"coordinates" : [ -122.60383881, 45.57863459 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22980,7 +22980,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60386831, 45.57855956 ]
+				"coordinates" : [ -122.60386868, 45.57855778 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -22994,7 +22994,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60382107, 45.57862813 ]
+				"coordinates" : [ -122.60382082, 45.57863038 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -60556,7 +60556,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60394044, 45.57879872 ]
+				"coordinates" : [ -122.60394682, 45.57880032 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Culvert",
@@ -67828,6 +67828,34 @@
 				"subtype_resolved" : "STS Line Cap",
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60263652, 45.58102598 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Valve",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.60257462, 45.5810151 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Valve",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
