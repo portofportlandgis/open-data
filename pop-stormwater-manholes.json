@@ -64506,11 +64506,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.71538288, 45.56817597 ]
+				"coordinates" : [ -122.71538362, 45.56817561 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "29.04",
-				"lid_elevation_rg" : "36.33",
+				"lid_elevation_rg" : "36.25",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -64521,9 +64521,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2019-05-31",
+				"lid_survey_quality_date" : "2021-11-09",
 				"flow_survey_quality_rev_date" : "2015-09-24",
-				"loc_survey_quality_date" : "2019-05-31",
+				"loc_survey_quality_date" : "2021-11-09",
 				"confined_space_id" : ""
 			}
 		},
@@ -70224,6 +70224,31 @@
 				"lid_survey_quality_date" : "2021-10-14",
 				"flow_survey_quality_rev_date" : "2021-10-14",
 				"loc_survey_quality_date" : "2021-10-14",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71522747, 45.56809011 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "29.15",
+				"lid_elevation_rg" : "35.1",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "1921-11-01",
+				"flow_survey_quality_rev_date" : "2021-11-09",
+				"loc_survey_quality_date" : "2021-11-09",
 				"confined_space_id" : ""
 			}
 		}
