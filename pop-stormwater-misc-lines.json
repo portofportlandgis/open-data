@@ -47360,6 +47360,107 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.71551382, 45.56801696 ],
+					[ -122.71542876, 45.56797101 ],
+					[ -122.71545529, 45.56794744 ],
+					[ -122.71553997, 45.56799332 ],
+					[ -122.71551382, 45.56801696 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.71532303, 45.56814008 ],
+					[ -122.71531696, 45.56814564 ],
+					[ -122.71532697, 45.5681511 ],
+					[ -122.71533303, 45.5681454 ],
+					[ -122.71532303, 45.56814008 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.71445794, 45.56765895 ],
+					[ -122.71441425, 45.56763365 ],
+					[ -122.71437299, 45.56760702 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.71437977, 45.56760119 ],
+					[ -122.71441985, 45.56762416 ],
+					[ -122.71446632, 45.5676521 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.71437977, 45.56760119 ],
+					[ -122.71437299, 45.56760702 ],
+					[ -122.71436273, 45.56760108 ],
+					[ -122.71436967, 45.56759529 ],
+					[ -122.71437977, 45.56760119 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
 		}
 	]
 }
