@@ -27631,11 +27631,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.77325559, 45.60301845 ]
+				"coordinates" : [ -122.7732564, 45.60301912 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "25.37",
-				"lid_elevation_rg" : "34.09",
+				"lid_elevation_rg" : "34",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -27643,10 +27643,10 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
 				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
+				"diameter_cd_resolved" : "60",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2019-09-25",
+				"lid_survey_quality_date" : "2021-11-16",
 				"flow_survey_quality_rev_date" : "2019-09-25",
 				"loc_survey_quality_date" : "2019-09-25",
 				"confined_space_id" : ""
@@ -70249,6 +70249,31 @@
 				"lid_survey_quality_date" : "1921-11-01",
 				"flow_survey_quality_rev_date" : "2021-11-09",
 				"loc_survey_quality_date" : "2021-11-09",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.77364206, 45.60304687 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "26.99",
+				"lid_elevation_rg" : "35.23",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2021-11-16",
+				"flow_survey_quality_rev_date" : "2021-11-16",
+				"loc_survey_quality_date" : "2021-11-16",
 				"confined_space_id" : ""
 			}
 		}
