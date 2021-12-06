@@ -31170,7 +31170,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7520885, 45.64259066 ]
+				"coordinates" : [ -122.75209092, 45.64259238 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Roof Drain",
