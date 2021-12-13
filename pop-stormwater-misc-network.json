@@ -13810,7 +13810,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74497462, 45.63724068 ]
+				"coordinates" : [ -122.74497465, 45.63724044 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -43672,7 +43672,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74676802, 45.638873 ]
+				"coordinates" : [ -122.74676778, 45.63887313 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -67780,20 +67780,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74897575, 45.63874763 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Line Cap",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.94400755, 45.53821078 ]
 			},
 			"properties" : {
@@ -67898,6 +67884,48 @@
 				"subtype_resolved" : "STS Cleanout",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74893632, 45.63877209 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Stand Pipe",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74893237, 45.63877479 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Stand Pipe",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7710419, 45.60403529 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
