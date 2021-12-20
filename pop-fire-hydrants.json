@@ -20963,38 +20963,19 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58547129, 45.58772807 ]
+				"coordinates" : [ -122.5832823, 45.58687682 ]
 			},
 			"properties" : {
 				"elevation_rg" : "0",
-				"monument_id" : "FH1415",
+				"monument_id" : "FH2664",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"is_potable_cd_resolved" : "",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2020-01-09"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58349034, 45.58695674 ]
-			},
-			"properties" : {
-				"elevation_rg" : "0",
-				"monument_id" : "FH1415",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2020-01-09"
+				"loc_survey_quality_date" : "2021-12-15"
 			}
 		},
 		{
@@ -21090,6 +21071,25 @@
 				"water_net_type_cd_resolved" : "Fire Department Connection",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2021-11-04"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58499305, 45.58754377 ]
+			},
+			"properties" : {
+				"elevation_rg" : "",
+				"monument_id" : "FH2703",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Underground Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2021-12-15"
 			}
 		}
 	]
