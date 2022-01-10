@@ -664,7 +664,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58474732, 45.5861123 ]
+				"coordinates" : [ -122.58474481, 45.58610957 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "",
@@ -678,7 +678,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58468271, 45.58604201 ]
+				"coordinates" : [ -122.58468009, 45.58604187 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "",
