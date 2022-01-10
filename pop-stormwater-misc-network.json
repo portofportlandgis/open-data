@@ -64896,118 +64896,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5831217, 45.58516787 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58424579, 45.58540413 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58386239, 45.58537342 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58191851, 45.58469684 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58200833, 45.58473201 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58210763, 45.58477089 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58244875, 45.58490443 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58313748, 45.58517405 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Line Cap",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.77101558, 45.63610385 ]
 			},
 			"properties" : {
@@ -68008,6 +67896,20 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58471992, 45.58601263 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Line Cap",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
