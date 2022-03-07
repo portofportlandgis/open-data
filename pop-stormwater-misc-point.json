@@ -14622,7 +14622,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95243953, 45.54253455 ]
+				"coordinates" : [ -122.95246412, 45.54254848 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
@@ -14650,7 +14650,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95289443, 45.54295881 ]
+				"coordinates" : [ -122.9528652, 45.54292961 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
