@@ -20516,7 +20516,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95585058, 45.54539608 ]
+				"coordinates" : [ -122.95584998, 45.5453969 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -20530,7 +20530,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95604486, 45.5455748 ]
+				"coordinates" : [ -122.95604399, 45.54557588 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -55208,7 +55208,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95466832, 45.54461046 ]
+				"coordinates" : [ -122.95466385, 45.5445854 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -55236,7 +55236,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9551197, 45.54423386 ]
+				"coordinates" : [ -122.95510893, 45.5442306 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
