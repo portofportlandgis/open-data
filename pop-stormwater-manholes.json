@@ -63181,24 +63181,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95525688, 45.54436803 ]
+				"coordinates" : [ -122.95525628, 45.54437134 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "",
+				"lid_elevation_rg" : "199.54",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "60",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-02-16",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-02-24",
+				"loc_survey_quality_date" : "2022-02-16",
 				"confined_space_id" : ""
 			}
 		},
