@@ -48466,6 +48466,173 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70522816, 45.54824761 ],
+					[ -122.70523206, 45.54824348 ],
+					[ -122.70521992, 45.54823833 ],
+					[ -122.70521603, 45.54824212 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70461154, 45.54793625 ],
+					[ -122.70461584, 45.54793272 ],
+					[ -122.70462661, 45.54793916 ],
+					[ -122.70462266, 45.54794265 ],
+					[ -122.70461154, 45.54793625 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70453839, 45.54789208 ],
+					[ -122.70454342, 45.5478884 ],
+					[ -122.704554, 45.5478949 ],
+					[ -122.70454944, 45.54789886 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70446522, 45.54784686 ],
+					[ -122.70446988, 45.54784306 ],
+					[ -122.7044811, 45.5478493 ],
+					[ -122.70447607, 45.54785358 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70408225, 45.54761035 ],
+					[ -122.70408649, 45.54760639 ],
+					[ -122.70409752, 45.54761323 ],
+					[ -122.70409326, 45.54761709 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70066639, 45.54561752 ],
+					[ -122.70067365, 45.54562158 ],
+					[ -122.70068257, 45.54561466 ],
+					[ -122.70070464, 45.54562811 ],
+					[ -122.70071106, 45.54562318 ],
+					[ -122.70068175, 45.54560527 ],
+					[ -122.70066639, 45.54561752 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "OIL/WATER SEPARATOR",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.69864554, 45.5442621 ],
+					[ -122.69864657, 45.54426117 ],
+					[ -122.69865072, 45.54425809 ],
+					[ -122.6986606, 45.54426468 ],
+					[ -122.69865707, 45.54426794 ],
+					[ -122.69865635, 45.54426859 ],
+					[ -122.69864554, 45.5442621 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70123274, 45.54585385 ],
+					[ -122.70123622, 45.54585076 ],
+					[ -122.70124799, 45.54585759 ],
+					[ -122.70124401, 45.54586092 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "City of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
 		}
 	]
 }
