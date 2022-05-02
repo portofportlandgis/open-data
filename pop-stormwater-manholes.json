@@ -48984,7 +48984,7 @@
 				"coordinates" : [ -122.70335531, 45.5475458 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "24.1",
+				"flow_elevation_rg" : "",
 				"lid_elevation_rg" : "33.3",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
@@ -48995,9 +48995,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"flow_survey_quality_cd_resolved" : "",
 				"lid_survey_quality_date" : "2012-02-28",
-				"flow_survey_quality_rev_date" : "2012-02-28",
+				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2012-02-28",
 				"confined_space_id" : ""
 			}
@@ -49431,7 +49431,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69923557, 45.54612675 ]
+				"coordinates" : [ -122.6992329, 45.54612901 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "27.6",
@@ -49446,9 +49446,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2012-02-28",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "2012-02-28",
-				"loc_survey_quality_date" : "2012-02-28",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49456,24 +49456,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70543329, 45.54828131 ]
+				"coordinates" : [ -122.70542578, 45.54828418 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "34",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49481,24 +49481,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70474113, 45.54789794 ]
+				"coordinates" : [ -122.70473131, 45.54790013 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"flow_elevation_rg" : "30.7",
+				"lid_elevation_rg" : "32.27",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49531,24 +49531,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70406788, 45.5474844 ]
+				"coordinates" : [ -122.70405994, 45.54748636 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "33.69",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49581,24 +49581,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70366489, 45.5472345 ]
+				"coordinates" : [ -122.70365773, 45.54723527 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "34.71",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49606,24 +49606,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70338866, 45.54705618 ]
+				"coordinates" : [ -122.70338156, 45.54705789 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "34.96",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49631,24 +49631,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70320342, 45.54695001 ]
+				"coordinates" : [ -122.70319822, 45.54695285 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "35.11",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49681,161 +49681,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7023053, 45.54639058 ]
+				"coordinates" : [ -122.70229953, 45.54639259 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.70171884, 45.54601452 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.70132508, 45.54578531 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.70064802, 45.54537305 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.70017235, 45.54507749 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.69975771, 45.54487251 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Not Applicable",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.69870778, 45.54425648 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "35.65",
+				"lid_elevation_rg" : "34.16",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -49846,9 +49696,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2015-06-01",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2015-06-01",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49856,24 +49706,174 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69844331, 45.54408842 ]
+				"coordinates" : [ -122.70168957, 45.54602684 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "33.01",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2022-03-21",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-12-11",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70131671, 45.54578607 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "33.39",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70063977, 45.54537349 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "34.33",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70016393, 45.54507839 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "35.44",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69972874, 45.54488947 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "35.55",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69870791, 45.54425645 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "35.66",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69843858, 45.54409052 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "35.2",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		},
@@ -49906,7 +49906,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69993848, 45.54656246 ]
+				"coordinates" : [ -122.69993477, 45.5465642 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "25.6",
@@ -70274,6 +70274,31 @@
 				"lid_survey_quality_date" : "2020-04-30",
 				"flow_survey_quality_rev_date" : "2020-04-30",
 				"loc_survey_quality_date" : "2020-04-30",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69839522, 45.54407221 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "35.12",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2022-03-21",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2022-03-21",
 				"confined_space_id" : ""
 			}
 		}
