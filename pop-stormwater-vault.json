@@ -126,7 +126,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70056679, 45.54565562 ]
+				"coordinates" : [ -122.70055975, 45.54565656 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Vault",
