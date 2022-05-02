@@ -329,10 +329,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70259593, 45.54671615 ]
+				"coordinates" : [ -122.70259318, 45.54671919 ]
 			},
 			"properties" : {
-				"elevation_rg" : "0",
+				"elevation_rg" : "33.88",
 				"monument_id" : "WFDC548",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -341,7 +341,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Department Connection",
 				"water_use_cd_resolved" : "Domestic",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
@@ -4528,10 +4528,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70083622, 45.54602341 ]
+				"coordinates" : [ -122.70083596, 45.54602484 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "34.79",
 				"monument_id" : "FH544",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4540,17 +4540,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70284759, 45.54686526 ]
+				"coordinates" : [ -122.7028444, 45.54686753 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "37.32",
 				"monument_id" : "FH547",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4559,7 +4559,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
@@ -4604,10 +4604,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69710662, 45.54651668 ]
+				"coordinates" : [ -122.69710597, 45.54651875 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "34.76",
 				"monument_id" : "FH553",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4616,17 +4616,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70312215, 45.54906861 ]
+				"coordinates" : [ -122.70312109, 45.54906954 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "32.6",
 				"monument_id" : "FH555",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4635,17 +4635,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70289719, 45.54796913 ]
+				"coordinates" : [ -122.70289528, 45.54797039 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "35.06",
 				"monument_id" : "FH557",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4654,17 +4654,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70187943, 45.54710296 ]
+				"coordinates" : [ -122.7018766, 45.5471047 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "32.95",
 				"monument_id" : "FH558",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4673,17 +4673,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70375868, 45.54856143 ]
+				"coordinates" : [ -122.70375799, 45.54856254 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "35.18",
 				"monument_id" : "FH559",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4692,17 +4692,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7049255, 45.54812158 ]
+				"coordinates" : [ -122.70492442, 45.54812342 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.73",
 				"monument_id" : "FH560",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4711,17 +4711,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70410593, 45.54764112 ]
+				"coordinates" : [ -122.70410474, 45.54764267 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.59",
 				"monument_id" : "FH561",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4730,17 +4730,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69764498, 45.54685175 ]
+				"coordinates" : [ -122.6976439, 45.54685359 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "34.67",
 				"monument_id" : "FH562",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4749,17 +4749,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69818337, 45.54718561 ]
+				"coordinates" : [ -122.69818228, 45.54718754 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "34.72",
 				"monument_id" : "FH563",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4768,17 +4768,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69944632, 45.5461979 ]
+				"coordinates" : [ -122.69944464, 45.54619929 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.5",
 				"monument_id" : "FH564",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4787,17 +4787,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69837136, 45.54552708 ]
+				"coordinates" : [ -122.69837018, 45.54552922 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.3",
 				"monument_id" : "FH565",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4806,17 +4806,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69908895, 45.54455652 ]
+				"coordinates" : [ -122.69908823, 45.54455778 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.86",
 				"monument_id" : "FH566",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4825,17 +4825,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69875896, 45.54521202 ]
+				"coordinates" : [ -122.69875831, 45.54521389 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "37.93",
 				"monument_id" : "FH570",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4844,17 +4844,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69930048, 45.54554407 ]
+				"coordinates" : [ -122.69929936, 45.54554599 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "37.99",
 				"monument_id" : "FH571",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4863,17 +4863,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69981746, 45.54589609 ]
+				"coordinates" : [ -122.6998157, 45.54589815 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.68",
 				"monument_id" : "FH572",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4882,17 +4882,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70066094, 45.54837766 ]
+				"coordinates" : [ -122.70066086, 45.54837951 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "32.44",
 				"monument_id" : "FH574",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4901,14 +4901,14 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70149236, 45.54889346 ]
+				"coordinates" : [ -122.70149099, 45.54889485 ]
 			},
 			"properties" : {
 				"elevation_rg" : "",
@@ -4920,17 +4920,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70209543, 45.54926877 ]
+				"coordinates" : [ -122.70209525, 45.54926934 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "31.67",
 				"monument_id" : "FH578",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4939,14 +4939,14 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7026746, 45.54975645 ]
+				"coordinates" : [ -122.70267418, 45.54975743 ]
 			},
 			"properties" : {
 				"elevation_rg" : "",
@@ -4958,17 +4958,17 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70200049, 45.54837241 ]
+				"coordinates" : [ -122.70199918, 45.54837386 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "32.6",
 				"monument_id" : "FH584",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -4977,64 +4977,64 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70162968, 45.54614619 ]
+				"coordinates" : [ -122.70166076, 45.54614034 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "36.18",
 				"monument_id" : "FH678",
 				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 2",
 				"lifecycle_status_cd_resolved" : "Active",
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70054485, 45.54547216 ]
+				"coordinates" : [ -122.70039144, 45.54535733 ]
 			},
 			"properties" : {
 				"elevation_rg" : "",
 				"monument_id" : "FH679",
 				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 2",
 				"lifecycle_status_cd_resolved" : "Active",
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7010358, 45.5477718 ]
+				"coordinates" : [ -122.70103486, 45.54777324 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "30.45",
 				"monument_id" : "FH693",
 				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 2",
 				"lifecycle_status_cd_resolved" : "Active",
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
@@ -21033,6 +21033,25 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2020-05-27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.69924416, 45.54465808 ]
+			},
+			"properties" : {
+				"elevation_rg" : "36.88",
+				"monument_id" : "",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Unknown",
+				"water_net_type_cd_resolved" : "Fire Department Connection",
+				"water_use_cd_resolved" : "",
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		}
 	]
