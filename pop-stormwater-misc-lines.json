@@ -48633,6 +48633,27 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.70201028, 45.54916592 ],
+					[ -122.70200078, 45.54915984 ],
+					[ -122.70199161, 45.54916682 ],
+					[ -122.70200144, 45.54917267 ],
+					[ -122.70201028, 45.54916592 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
 		}
 	]
 }
