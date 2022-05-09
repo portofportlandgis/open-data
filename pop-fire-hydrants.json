@@ -348,10 +348,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.69920256, 45.54462999 ]
+				"coordinates" : [ -122.69919481, 45.54463662 ]
 			},
 			"properties" : {
-				"elevation_rg" : "0",
+				"elevation_rg" : "39.01",
 				"monument_id" : "WFDC567",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -360,7 +360,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Department Connection",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2001-12-11"
+				"loc_survey_quality_date" : "2022-03-21"
 			}
 		},
 		{
