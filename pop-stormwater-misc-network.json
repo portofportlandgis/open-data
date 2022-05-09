@@ -28426,7 +28426,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70069627, 45.54564904 ]
+				"coordinates" : [ -122.70069519, 45.54565098 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -28468,7 +28468,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70118986, 45.54585254 ]
+				"coordinates" : [ -122.70119624, 45.54586423 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -28482,7 +28482,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.70076547, 45.54559502 ]
+				"coordinates" : [ -122.70076355, 45.54559807 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -68218,6 +68218,20 @@
 			},
 			"properties" : {
 				"subtype_resolved" : "SS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 2",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.70121925, 45.54587969 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Valve",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 2",
 				"lifecycle_status_cd_resolved" : "Active",
