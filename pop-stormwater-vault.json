@@ -1491,6 +1491,51 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.74734388, 45.63921065 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.75146582, 45.63540117 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Sump Drainage Box"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74314265, 45.63544537 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.61070417, 45.57738759 ]
 			},
 			"properties" : {
