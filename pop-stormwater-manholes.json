@@ -31831,11 +31831,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6035348, 45.58142327 ]
+				"coordinates" : [ -122.60353462, 45.58142317 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "5.26",
-				"lid_elevation_rg" : "21.32",
+				"lid_elevation_rg" : "21.3",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -31846,9 +31846,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2020-10-13",
+				"lid_survey_quality_date" : "2022-06-16",
 				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2020-10-13",
+				"loc_survey_quality_date" : "2022-06-16",
 				"confined_space_id" : ""
 			}
 		},
@@ -32131,7 +32131,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60397552, 45.58162653 ]
+				"coordinates" : [ -122.60397569, 45.58162661 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "12.26",
@@ -32146,9 +32146,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2006-02-13",
+				"lid_survey_quality_date" : "2022-06-16",
 				"flow_survey_quality_rev_date" : "2008-03-06",
-				"loc_survey_quality_date" : "2006-02-13",
+				"loc_survey_quality_date" : "2022-06-16",
 				"confined_space_id" : ""
 			}
 		},
@@ -57731,7 +57731,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60597406, 45.59277783 ]
+				"coordinates" : [ -122.60597922, 45.59277914 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "10.86",
@@ -57748,7 +57748,7 @@
 				"flow_survey_quality_cd_resolved" : "Measure Down",
 				"lid_survey_quality_date" : "2020-04-30",
 				"flow_survey_quality_rev_date" : "2010-10-19",
-				"loc_survey_quality_date" : "2018-11-20",
+				"loc_survey_quality_date" : "2020-08-25",
 				"confined_space_id" : "STSMH8479"
 			}
 		},
@@ -57756,10 +57756,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60491924, 45.59352923 ]
+				"coordinates" : [ -122.60491499, 45.59352753 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "11.36",
+				"flow_elevation_rg" : "11.4",
 				"lid_elevation_rg" : "23.62",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
@@ -57770,10 +57770,10 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "60",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
 				"lid_survey_quality_date" : "2010-10-19",
-				"flow_survey_quality_rev_date" : "2010-10-19",
-				"loc_survey_quality_date" : "2010-10-19",
+				"flow_survey_quality_rev_date" : "2020-08-25",
+				"loc_survey_quality_date" : "2020-08-25",
 				"confined_space_id" : "STSMH8480"
 			}
 		},
@@ -70356,24 +70356,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60521911, 45.59370538 ]
+				"coordinates" : [ -122.6052103, 45.59370097 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "14.26",
+				"flow_elevation_rg" : "14.18",
 				"lid_elevation_rg" : "23.4",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Confined Space",
 				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
 				"lid_survey_quality_date" : "2020-04-30",
-				"flow_survey_quality_rev_date" : "2020-04-30",
-				"loc_survey_quality_date" : "2020-04-30",
+				"flow_survey_quality_rev_date" : "2020-08-25",
+				"loc_survey_quality_date" : "2020-08-25",
 				"confined_space_id" : ""
 			}
 		},
