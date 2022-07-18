@@ -5991,10 +5991,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60410554, 45.58208135 ]
+				"coordinates" : [ -122.60410554, 45.58208277 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "22.88",
 				"monument_id" : "FH833",
 				"owner_cd_resolved" : "Tenant",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -6003,7 +6003,7 @@
 				"is_potable_cd_resolved" : "No",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2002-09-23"
+				"loc_survey_quality_date" : "2022-07-13"
 			}
 		},
 		{
@@ -6086,10 +6086,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6058993, 45.58099962 ]
+				"coordinates" : [ -122.60589915, 45.5809992 ]
 			},
 			"properties" : {
-				"elevation_rg" : "",
+				"elevation_rg" : "23.72",
 				"monument_id" : "FH8439",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -6098,7 +6098,7 @@
 				"is_potable_cd_resolved" : "Yes",
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2017-08-02"
+				"loc_survey_quality_date" : "2022-07-13"
 			}
 		},
 		{
