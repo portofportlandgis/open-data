@@ -40536,7 +40536,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58617282, 45.58757722 ]
+				"coordinates" : [ -122.58620196, 45.58756095 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Line Cap",
