@@ -20887,10 +20887,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5832823, 45.58687682 ]
+				"coordinates" : [ -122.58328486, 45.5868769 ]
 			},
 			"properties" : {
-				"elevation_rg" : "0",
+				"elevation_rg" : "20.66",
 				"monument_id" : "FH2664",
 				"owner_cd_resolved" : "City of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -21001,7 +21001,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58499305, 45.58754377 ]
+				"coordinates" : [ -122.58499348, 45.58754186 ]
 			},
 			"properties" : {
 				"elevation_rg" : "",
