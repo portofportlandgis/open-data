@@ -31556,11 +31556,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60441137, 45.57932588 ]
+				"coordinates" : [ -122.60441131, 45.57932586 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "12.76",
-				"lid_elevation_rg" : "19.71",
+				"lid_elevation_rg" : "19.72",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -31571,9 +31571,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2020-10-13",
+				"lid_survey_quality_date" : "2022-08-22",
 				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2020-10-13",
+				"loc_survey_quality_date" : "2022-08-22",
 				"confined_space_id" : ""
 			}
 		},
@@ -31706,11 +31706,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60436869, 45.58013987 ]
+				"coordinates" : [ -122.60436875, 45.58013982 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "11.37",
-				"lid_elevation_rg" : "19.67",
+				"lid_elevation_rg" : "19.61",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -31721,9 +31721,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2006-02-13",
+				"lid_survey_quality_date" : "2022-08-22",
 				"flow_survey_quality_rev_date" : "2008-03-06",
-				"loc_survey_quality_date" : "2006-02-13",
+				"loc_survey_quality_date" : "2022-08-22",
 				"confined_space_id" : ""
 			}
 		},
@@ -31806,11 +31806,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60389953, 45.58096344 ]
+				"coordinates" : [ -122.60389952, 45.58096325 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "9.06",
-				"lid_elevation_rg" : "19.95",
+				"lid_elevation_rg" : "19.93",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -31821,9 +31821,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2020-10-13",
+				"lid_survey_quality_date" : "2022-08-22",
 				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2020-10-13",
+				"loc_survey_quality_date" : "2022-08-22",
 				"confined_space_id" : ""
 			}
 		},
@@ -32006,7 +32006,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60438254, 45.58097171 ]
+				"coordinates" : [ -122.60438151, 45.5809723 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "10.35",
@@ -32021,9 +32021,9 @@
 				"diameter_cd_resolved" : "60",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2001-07-17",
+				"lid_survey_quality_date" : "2022-08-22",
 				"flow_survey_quality_rev_date" : "2001-07-17",
-				"loc_survey_quality_date" : "2001-07-17",
+				"loc_survey_quality_date" : "2022-08-22",
 				"confined_space_id" : ""
 			}
 		},
