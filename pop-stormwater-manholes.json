@@ -39881,7 +39881,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5855103, 45.58777792 ]
+				"coordinates" : [ -122.58552021, 45.58778631 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "18.49",
@@ -39896,9 +39896,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2018-04-05",
+				"lid_survey_quality_date" : "2022-08-25",
 				"flow_survey_quality_rev_date" : "2018-11-29",
-				"loc_survey_quality_date" : "2018-04-05",
+				"loc_survey_quality_date" : "2022-08-25",
 				"confined_space_id" : ""
 			}
 		},
