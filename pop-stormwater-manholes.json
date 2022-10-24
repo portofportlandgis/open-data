@@ -10156,11 +10156,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.6181671, 45.59210039 ]
+				"coordinates" : [ -122.61816747, 45.59210051 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "4.46",
-				"lid_elevation_rg" : "18.44",
+				"lid_elevation_rg" : "18.41",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -10171,9 +10171,9 @@
 				"diameter_cd_resolved" : "72",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2009-06-11",
+				"lid_survey_quality_date" : "2022-09-07",
 				"flow_survey_quality_rev_date" : "2006-10-03",
-				"loc_survey_quality_date" : "2009-06-11",
+				"loc_survey_quality_date" : "2022-09-07",
 				"confined_space_id" : ""
 			}
 		},
