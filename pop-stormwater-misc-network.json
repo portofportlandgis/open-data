@@ -47018,7 +47018,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60639847, 45.58903349 ]
+				"coordinates" : [ -122.60639866, 45.58903362 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -47032,7 +47032,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60586767, 45.58882664 ]
+				"coordinates" : [ -122.60586822, 45.58882676 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -47046,7 +47046,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60518437, 45.58856034 ]
+				"coordinates" : [ -122.60518445, 45.58856024 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
