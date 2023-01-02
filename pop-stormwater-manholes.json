@@ -3331,11 +3331,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9551369, 45.5475581 ]
+				"coordinates" : [ -122.95513724, 45.54755798 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "192.91",
-				"lid_elevation_rg" : "201.44",
+				"flow_elevation_rg" : "193.03",
+				"lid_elevation_rg" : "201.25",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -3346,9 +3346,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2009-05-28",
-				"flow_survey_quality_rev_date" : "2009-08-25",
-				"loc_survey_quality_date" : "2008-04-28",
+				"lid_survey_quality_date" : "2022-12-05",
+				"flow_survey_quality_rev_date" : "2022-12-05",
+				"loc_survey_quality_date" : "2022-12-05",
 				"confined_space_id" : ""
 			}
 		},
