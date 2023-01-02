@@ -5536,20 +5536,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95792365, 45.54693917 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Culvert",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.96274177, 45.54897911 ]
 			},
 			"properties" : {
@@ -20390,7 +20376,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95584998, 45.5453969 ]
+				"coordinates" : [ -122.95584974, 45.54539699 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -20404,7 +20390,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95604399, 45.54557588 ]
+				"coordinates" : [ -122.95604419, 45.54557612 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -46318,7 +46304,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9533587, 45.54801147 ]
+				"coordinates" : [ -122.95335841, 45.5480116 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -46332,7 +46318,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95341014, 45.54823429 ]
+				"coordinates" : [ -122.95341035, 45.54823436 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -54872,7 +54858,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.9563904, 45.54508764 ]
+				"coordinates" : [ -122.95639127, 45.54506886 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -56566,7 +56552,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95274963, 45.54760506 ]
+				"coordinates" : [ -122.95275003, 45.54760495 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -65722,7 +65708,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95560476, 45.54625199 ]
+				"coordinates" : [ -122.95560445, 45.54625167 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -65736,7 +65722,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95516486, 45.54511718 ]
+				"coordinates" : [ -122.9551648, 45.54511737 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -68248,6 +68234,20 @@
 				"subtype_resolved" : "STS Culvert",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95693896, 45.54552204 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
