@@ -96,7 +96,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "100886",
+				"FMEArea" : "100887",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.31604343,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -155,7 +155,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "27951",
+				"FMEArea" : "27952",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.64167847,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -217,7 +217,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "18854",
+				"FMEArea" : "18855",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.43284283,
 				"POLY_S_ID" : "AREA 16A, COE 6/92 MAP",
@@ -262,7 +262,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "7269",
+				"FMEArea" : "7270",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.16689198,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -570,7 +570,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "231774",
+				"FMEArea" : "231775",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.32081506,
 				"POLY_S_ID" : "SW QUAD STUDY AREA",
@@ -746,7 +746,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "183985",
+				"FMEArea" : "183986",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.22372677,
 				"POLY_S_ID" : "SW QUAD STUDY AREA",
@@ -804,7 +804,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "41592",
+				"FMEArea" : "41593",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.9548388999999999,
 				"POLY_S_ID" : "SW QUAD-SOUTH STUDY AREA",
@@ -1049,7 +1049,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "101336",
+				"FMEArea" : "101337",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.32637123,
 				"POLY_S_ID" : "SITE 123",
@@ -1277,7 +1277,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "3056",
+				"FMEArea" : "3057",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07017222000000001,
 				"POLY_S_ID" : "SITE 113",
@@ -1409,7 +1409,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "28419",
+				"FMEArea" : "28420",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.65242813,
 				"POLY_S_ID" : "AREA 1 COE 6/92",
@@ -1462,7 +1462,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "54965",
+				"FMEArea" : "54966",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 1.26184115,
 				"POLY_S_ID" : "AREA 1, COE 6/92 MAP",
@@ -1563,7 +1563,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "51314",
+				"FMEArea" : "51315",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.17802237,
 				"POLY_S_ID" : "unnamed slough",
@@ -1611,7 +1611,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "137225",
+				"FMEArea" : "137226",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.15026988,
 				"POLY_S_ID" : "",
@@ -1731,7 +1731,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "26484",
+				"FMEArea" : "26485",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.60800433,
 				"POLY_S_ID" : "",
@@ -1963,7 +1963,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "RG",
-				"FMEArea" : "51881",
+				"FMEArea" : "51882",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.19104415,
 				"POLY_S_ID" : "",
@@ -2037,7 +2037,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "RG",
-				"FMEArea" : "88764",
+				"FMEArea" : "88765",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.03776117,
 				"POLY_S_ID" : "",
@@ -2090,7 +2090,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "83858",
+				"FMEArea" : "83859",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.9251292800000002,
 				"POLY_S_ID" : "",
@@ -2221,7 +2221,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "3697",
+				"FMEArea" : "3698",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.0848906,
 				"POLY_S_ID" : "",
@@ -2325,7 +2325,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "2259268",
+				"FMEArea" : "2259269",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 51.86567491,
 				"POLY_S_ID" : "",
@@ -2374,7 +2374,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "149463",
+				"FMEArea" : "149464",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.4312103,
 				"POLY_S_ID" : "",
@@ -2478,7 +2478,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "34284",
+				"FMEArea" : "34285",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.78707004,
 				"POLY_S_ID" : "",
@@ -2534,7 +2534,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "64635",
+				"FMEArea" : "64636",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.48382858,
 				"POLY_S_ID" : "",
@@ -2595,7 +2595,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "117777",
+				"FMEArea" : "117778",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 2.70380445,
 				"POLY_S_ID" : "AREA D",
@@ -2771,7 +2771,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "24566",
+				"FMEArea" : "24567",
 				"DSL_JD_NUM" : "98-0017",
 				"Acreage" : 0.56397097,
 				"POLY_S_ID" : "AREA B",
@@ -3759,7 +3759,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "6524",
+				"FMEArea" : "6525",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.14978785,
 				"POLY_S_ID" : "SITE 137",
@@ -3822,7 +3822,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "16087",
+				"FMEArea" : "16088",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.36932162,
 				"POLY_S_ID" : "SITE 135",
@@ -3935,7 +3935,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "10193",
+				"FMEArea" : "10194",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.23401929000000002,
 				"POLY_S_ID" : "SITE 137",
@@ -4018,7 +4018,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "70189",
+				"FMEArea" : "70190",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.6113316,
 				"POLY_S_ID" : "",
@@ -4117,7 +4117,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "226794",
+				"FMEArea" : "226795",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 5.20648544,
 				"POLY_S_ID" : "",
@@ -4328,7 +4328,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "139197",
+				"FMEArea" : "139198",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 3.19554567,
 				"POLY_S_ID" : "",
@@ -4544,7 +4544,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "10517",
+				"FMEArea" : "10518",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.24145674,
 				"POLY_S_ID" : "",
@@ -4702,7 +4702,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "189090",
+				"FMEArea" : "189091",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.34093167,
 				"POLY_S_ID" : "",
@@ -5223,7 +5223,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "183535",
+				"FMEArea" : "183536",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 4.21339846,
 				"POLY_S_ID" : "",
@@ -5786,7 +5786,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "1645",
+				"FMEArea" : "1646",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.03778107,
 				"POLY_S_ID" : "",
@@ -6050,7 +6050,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "4737",
+				"FMEArea" : "4738",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.1087609,
 				"POLY_S_ID" : "",
@@ -6503,7 +6503,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "WHI",
-				"FMEArea" : "2234",
+				"FMEArea" : "2235",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.05130736,
 				"POLY_S_ID" : "",
@@ -6632,7 +6632,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "1687",
+				"FMEArea" : "1688",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.03874258,
 				"POLY_S_ID" : "",
@@ -6684,7 +6684,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "2476",
+				"FMEArea" : "2477",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.05686206,
 				"POLY_S_ID" : "",
@@ -7666,22 +7666,12 @@
 						[ -122.48566056, 45.57313783 ]
 					],
 					[
-						[ -122.49951453, 45.57306667 ],
-						[ -122.49969323, 45.57329752 ],
-						[ -122.49968994, 45.5733069 ],
-						[ -122.49951453, 45.57306667 ]
-					],
-					[
-						[ -122.48752182, 45.57141491 ],
-						[ -122.48760513, 45.57140695 ],
-						[ -122.4876233, 45.57141044 ],
-						[ -122.48752182, 45.57141491 ]
-					],
-					[
-						[ -122.49282403, 45.57736493 ],
-						[ -122.49280048, 45.57739335 ],
-						[ -122.49280034, 45.57738947 ],
-						[ -122.49282403, 45.57736493 ]
+						[ -122.50449245, 45.57779631 ],
+						[ -122.50449922, 45.57780063 ],
+						[ -122.50444193, 45.57788719 ],
+						[ -122.50449735, 45.57780343 ],
+						[ -122.50449221, 45.57779664 ],
+						[ -122.50449245, 45.57779631 ]
 					],
 					[
 						[ -122.49451574, 45.57320092 ],
@@ -7691,19 +7681,29 @@
 						[ -122.49451574, 45.57320092 ]
 					],
 					[
-						[ -122.50449245, 45.57779631 ],
-						[ -122.50449922, 45.57780063 ],
-						[ -122.50444193, 45.57788719 ],
-						[ -122.50449735, 45.57780343 ],
-						[ -122.50449221, 45.57779664 ],
-						[ -122.50449245, 45.57779631 ]
+						[ -122.49282403, 45.57736493 ],
+						[ -122.49280048, 45.57739335 ],
+						[ -122.49280034, 45.57738947 ],
+						[ -122.49282403, 45.57736493 ]
+					],
+					[
+						[ -122.48752182, 45.57141491 ],
+						[ -122.48760513, 45.57140695 ],
+						[ -122.4876233, 45.57141044 ],
+						[ -122.48752182, 45.57141491 ]
+					],
+					[
+						[ -122.49951453, 45.57306667 ],
+						[ -122.49969323, 45.57329752 ],
+						[ -122.49968994, 45.5733069 ],
+						[ -122.49951453, 45.57306667 ]
 					]
 				]
 			},
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "GI",
-				"FMEArea" : "13014270",
+				"FMEArea" : "13014271",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 298.7665408,
 				"POLY_S_ID" : "",
@@ -7900,7 +7900,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "30003",
+				"FMEArea" : "30004",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.68879044,
 				"POLY_S_ID" : "Water 4A",
@@ -8165,7 +8165,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12339",
+				"FMEArea" : "12340",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.28328535,
 				"POLY_S_ID" : "",
@@ -8233,7 +8233,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "12339",
+				"FMEArea" : "12340",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.28328535,
 				"POLY_S_ID" : "",
@@ -8296,7 +8296,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "9479",
+				"FMEArea" : "9480",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.21762564,
 				"POLY_S_ID" : "",
@@ -8368,7 +8368,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3904",
+				"FMEArea" : "3905",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08964608,
 				"POLY_S_ID" : "",
@@ -8503,7 +8503,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3201",
+				"FMEArea" : "3202",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.07350219999999999,
 				"POLY_S_ID" : "",
@@ -8579,7 +8579,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "34221",
+				"FMEArea" : "34222",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.78561856,
 				"POLY_S_ID" : "",
@@ -8672,7 +8672,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "2389",
+				"FMEArea" : "2390",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.05486275,
 				"POLY_S_ID" : "wetland 3",
@@ -8718,7 +8718,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "258",
+				"FMEArea" : "259",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.00594113,
 				"POLY_S_ID" : "wetland 5",
@@ -8921,7 +8921,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "141440",
+				"FMEArea" : "141441",
 				"DSL_JD_NUM" : "98-0094",
 				"Acreage" : 3.24702804,
 				"POLY_S_ID" : "Wetland F",
@@ -9089,7 +9089,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3743",
+				"FMEArea" : "3744",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08594373,
 				"POLY_S_ID" : "Wetland 7A",
@@ -9255,7 +9255,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "509",
+				"FMEArea" : "510",
 				"DSL_JD_NUM" : "WD-2004-0361",
 				"Acreage" : 0.01170737,
 				"POLY_S_ID" : "wetland 7",
@@ -9307,7 +9307,7 @@
 			"properties" : {
 				"COWARDIN" : "ditch",
 				"facility_cd" : "HIO",
-				"FMEArea" : "255",
+				"FMEArea" : "256",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.00587319,
 				"POLY_S_ID" : "Ditch 2",
@@ -9401,7 +9401,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3505",
+				"FMEArea" : "3506",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08048037,
 				"POLY_S_ID" : "V",
@@ -9531,7 +9531,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "944",
+				"FMEArea" : "945",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.02168973,
 				"POLY_S_ID" : "Wetland E",
@@ -9592,7 +9592,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "12465",
+				"FMEArea" : "12466",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.28617854,
 				"POLY_S_ID" : "A",
@@ -9803,7 +9803,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "VPW",
-				"FMEArea" : "625",
+				"FMEArea" : "626",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.01436767,
 				"POLY_S_ID" : "D",
@@ -9859,7 +9859,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PIC",
-				"FMEArea" : "15731",
+				"FMEArea" : "15732",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.36114618,
 				"POLY_S_ID" : "Wetland W2",
@@ -9920,7 +9920,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "12744",
+				"FMEArea" : "12745",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.29257771,
 				"POLY_S_ID" : "28A",
@@ -10012,7 +10012,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1359",
+				"FMEArea" : "1360",
 				"DSL_JD_NUM" : "2011-0370",
 				"Acreage" : 0.03121236,
 				"POLY_S_ID" : "12C",
@@ -10209,7 +10209,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "1913",
+				"FMEArea" : "1914",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.04393173,
 				"POLY_S_ID" : "3A",
@@ -10260,7 +10260,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "8524",
+				"FMEArea" : "8525",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.19569788,
 				"POLY_S_ID" : "3B",
@@ -10319,7 +10319,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "12969",
+				"FMEArea" : "12970",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.29774004,
 				"POLY_S_ID" : "8A",
@@ -10466,7 +10466,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PDX",
-				"FMEArea" : "6267",
+				"FMEArea" : "6268",
 				"DSL_JD_NUM" : "WD2011-0288",
 				"Acreage" : 0.14388326,
 				"POLY_S_ID" : "9C",
@@ -10736,7 +10736,7 @@
 			"properties" : {
 				"COWARDIN" : "PEMC",
 				"facility_cd" : "PIC",
-				"FMEArea" : "163589",
+				"FMEArea" : "163590",
 				"DSL_JD_NUM" : "WD11-0288/WD17-0336",
 				"Acreage" : 3.75550128,
 				"POLY_S_ID" : "Wetland 6A & 3A",
@@ -10780,7 +10780,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "PDX",
-				"FMEArea" : "474",
+				"FMEArea" : "475",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.0108933,
 				"POLY_S_ID" : "Wetland 1",
@@ -10864,7 +10864,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "59403",
+				"FMEArea" : "59404",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.36371867,
 				"POLY_S_ID" : "Wetland",
@@ -11090,7 +11090,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "NA",
-				"FMEArea" : "2132",
+				"FMEArea" : "2133",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.04896179,
 				"POLY_S_ID" : "Wetland D",
@@ -11800,7 +11800,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "758",
+				"FMEArea" : "759",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.01741691,
 				"POLY_S_ID" : "Wetland AC",
@@ -11867,7 +11867,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1418",
+				"FMEArea" : "1419",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.032566990000000004,
 				"POLY_S_ID" : "Wetland AD",
@@ -12018,7 +12018,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "3162",
+				"FMEArea" : "3163",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.07260228,
 				"POLY_S_ID" : "Wetland AA",
@@ -12050,6 +12050,19 @@
 				"coordinates" : [
 					[
 						[
+							[ -122.41284403, 45.55540267 ],
+							[ -122.41281637, 45.55581724 ],
+							[ -122.41276227, 45.55591655 ],
+							[ -122.41297212, 45.55592529 ],
+							[ -122.41291687, 45.5557961 ],
+							[ -122.4128933, 45.55538759 ],
+							[ -122.4129047, 45.55390617 ],
+							[ -122.4128465, 45.55390604 ],
+							[ -122.41284403, 45.55540267 ]
+						]
+					],
+					[
+						[
 							[ -122.41286378, 45.55060914 ],
 							[ -122.41286225, 45.55063922 ],
 							[ -122.41286198, 45.5507007 ],
@@ -12079,26 +12092,13 @@
 							[ -122.41288844, 45.55060255 ],
 							[ -122.41286378, 45.55060914 ]
 						]
-					],
-					[
-						[
-							[ -122.41284403, 45.55540267 ],
-							[ -122.41281637, 45.55581724 ],
-							[ -122.41276227, 45.55591655 ],
-							[ -122.41297212, 45.55592529 ],
-							[ -122.41291687, 45.5557961 ],
-							[ -122.4128933, 45.55538759 ],
-							[ -122.4129047, 45.55390617 ],
-							[ -122.4128465, 45.55390604 ],
-							[ -122.41284403, 45.55540267 ]
-						]
 					]
 				]
 			},
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "25929",
+				"FMEArea" : "25930",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.59526682,
 				"POLY_S_ID" : "Arata Creek",
@@ -12233,7 +12233,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "GVBP",
-				"FMEArea" : "7562",
+				"FMEArea" : "7563",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.17361486,
 				"POLY_S_ID" : "Wetland E",
@@ -12441,7 +12441,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "GVBP",
-				"FMEArea" : "64291",
+				"FMEArea" : "64292",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 1.47593901,
 				"POLY_S_ID" : "Wetland G",
@@ -12471,6 +12471,41 @@
 			"geometry" : {
 				"type" : "MultiPolygon",
 				"coordinates" : [
+					[
+						[
+							[ -122.42972595, 45.52721408 ],
+							[ -122.42974834, 45.52725362 ],
+							[ -122.42977874, 45.52732161 ],
+							[ -122.42986922, 45.52733429 ],
+							[ -122.42994586, 45.52735585 ],
+							[ -122.42994144, 45.52736063 ],
+							[ -122.42990694, 45.5273955 ],
+							[ -122.42988955, 45.52741948 ],
+							[ -122.42986801, 45.52747924 ],
+							[ -122.42996115, 45.5275828 ],
+							[ -122.42997842, 45.52758477 ],
+							[ -122.42997466, 45.52761882 ],
+							[ -122.42996454, 45.52764783 ],
+							[ -122.42998152, 45.52765781 ],
+							[ -122.43002549, 45.52767805 ],
+							[ -122.43011773, 45.52766894 ],
+							[ -122.43008584, 45.527635 ],
+							[ -122.43001828, 45.52754136 ],
+							[ -122.43000896, 45.52752853 ],
+							[ -122.42995143, 45.52744459 ],
+							[ -122.42997812, 45.52741862 ],
+							[ -122.4300001, 45.52739942 ],
+							[ -122.42997457, 45.52737006 ],
+							[ -122.42996145, 45.52734851 ],
+							[ -122.42993315, 45.52731731 ],
+							[ -122.42988235, 45.52731147 ],
+							[ -122.42982907, 45.52727288 ],
+							[ -122.42982538, 45.52727021 ],
+							[ -122.42979206, 45.52724608 ],
+							[ -122.42973833, 45.52720953 ],
+							[ -122.42972595, 45.52721408 ]
+						]
+					],
 					[
 						[
 							[ -122.42841274, 45.52763446 ],
@@ -12574,48 +12609,13 @@
 							[ -122.42841378, 45.52759855 ],
 							[ -122.42841274, 45.52763446 ]
 						]
-					],
-					[
-						[
-							[ -122.42972595, 45.52721408 ],
-							[ -122.42974834, 45.52725362 ],
-							[ -122.42977874, 45.52732161 ],
-							[ -122.42986922, 45.52733429 ],
-							[ -122.42994586, 45.52735585 ],
-							[ -122.42994144, 45.52736063 ],
-							[ -122.42990694, 45.5273955 ],
-							[ -122.42988955, 45.52741948 ],
-							[ -122.42986801, 45.52747924 ],
-							[ -122.42996115, 45.5275828 ],
-							[ -122.42997842, 45.52758477 ],
-							[ -122.42997466, 45.52761882 ],
-							[ -122.42996454, 45.52764783 ],
-							[ -122.42998152, 45.52765781 ],
-							[ -122.43002549, 45.52767805 ],
-							[ -122.43011773, 45.52766894 ],
-							[ -122.43008584, 45.527635 ],
-							[ -122.43001828, 45.52754136 ],
-							[ -122.43000896, 45.52752853 ],
-							[ -122.42995143, 45.52744459 ],
-							[ -122.42997812, 45.52741862 ],
-							[ -122.4300001, 45.52739942 ],
-							[ -122.42997457, 45.52737006 ],
-							[ -122.42996145, 45.52734851 ],
-							[ -122.42993315, 45.52731731 ],
-							[ -122.42988235, 45.52731147 ],
-							[ -122.42982907, 45.52727288 ],
-							[ -122.42982538, 45.52727021 ],
-							[ -122.42979206, 45.52724608 ],
-							[ -122.42973833, 45.52720953 ],
-							[ -122.42972595, 45.52721408 ]
-						]
 					]
 				]
 			},
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "GVBP",
-				"FMEArea" : "10188",
+				"FMEArea" : "10189",
 				"DSL_JD_NUM" : "WD#11-0203",
 				"Acreage" : 0.23390181000000002,
 				"POLY_S_ID" : "Creek system",
@@ -13854,7 +13854,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2942",
+				"FMEArea" : "2943",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.06756136,
 				"POLY_S_ID" : "Salmon Creek",
@@ -13923,7 +13923,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "27397",
+				"FMEArea" : "27398",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.6289638,
 				"POLY_S_ID" : "Salmon Creek",
@@ -14013,7 +14013,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "RG",
-				"FMEArea" : "127263",
+				"FMEArea" : "127264",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.92157713,
 				"POLY_S_ID" : "",
@@ -14196,7 +14196,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "2959",
+				"FMEArea" : "2960",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.06794475,
 				"POLY_S_ID" : "Ditch 1",
@@ -14250,7 +14250,7 @@
 			"properties" : {
 				"COWARDIN" : " ",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "7828",
+				"FMEArea" : "7829",
 				"DSL_JD_NUM" : " ",
 				"Acreage" : 0.17972241,
 				"POLY_S_ID" : "Ditch 1",
@@ -14470,7 +14470,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "9300",
+				"FMEArea" : "9301",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.21351194,
 				"POLY_S_ID" : "A",
@@ -14650,7 +14650,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "34616",
+				"FMEArea" : "34617",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.79469384,
 				"POLY_S_ID" : "E",
@@ -14768,7 +14768,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "7311",
+				"FMEArea" : "7312",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.16785753,
 				"POLY_S_ID" : "G",
@@ -14918,7 +14918,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "722",
+				"FMEArea" : "723",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.01659488,
 				"POLY_S_ID" : "wetland C",
@@ -14961,7 +14961,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "253",
+				"FMEArea" : "254",
 				"DSL_JD_NUM" : "WD2014-0388",
 				"Acreage" : 0.00582228,
 				"POLY_S_ID" : "wetland A east",
@@ -15219,7 +15219,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "8618",
+				"FMEArea" : "8619",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.19786203,
 				"POLY_S_ID" : "Wetland B1",
@@ -15262,7 +15262,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "640",
+				"FMEArea" : "641",
 				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.01471513,
 				"POLY_S_ID" : "Wetland FH1",
@@ -15399,7 +15399,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1002",
+				"FMEArea" : "1003",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.02302554,
 				"POLY_S_ID" : "Wetland R5",
@@ -15445,7 +15445,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1413",
+				"FMEArea" : "1414",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.0324504,
 				"POLY_S_ID" : "Wetland R4",
@@ -15490,7 +15490,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1605",
+				"FMEArea" : "1606",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.03685887,
 				"POLY_S_ID" : "Wetland A11",
@@ -15535,7 +15535,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "416",
+				"FMEArea" : "417",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 0.00957044,
 				"POLY_S_ID" : "Wetland A12",
@@ -15595,7 +15595,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "93934",
+				"FMEArea" : "93935",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 2.1564480599999998,
 				"POLY_S_ID" : "Wetland R3",
@@ -15723,7 +15723,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "1651",
+				"FMEArea" : "1652",
 				"DSL_JD_NUM" : "2016-0152",
 				"Acreage" : 0.03792102,
 				"POLY_S_ID" : "wetland 2",
@@ -16117,7 +16117,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "4668",
+				"FMEArea" : "4669",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.10718127000000001,
 				"POLY_S_ID" : "M",
@@ -16517,7 +16517,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO",
 				"facility_cd" : "HIO",
-				"FMEArea" : "191",
+				"FMEArea" : "192",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.00439824,
 				"POLY_S_ID" : "D",
@@ -16783,7 +16783,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM (farmed)",
 				"facility_cd" : "HIO",
-				"FMEArea" : "56345",
+				"FMEArea" : "56346",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 1.29352289,
 				"POLY_S_ID" : "G",
@@ -16946,7 +16946,7 @@
 			"properties" : {
 				"COWARDIN" : "PFO/PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1192",
+				"FMEArea" : "1193",
 				"DSL_JD_NUM" : "2016-0232",
 				"Acreage" : 0.02737923,
 				"POLY_S_ID" : "B",
@@ -17275,7 +17275,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "148700",
+				"FMEArea" : "148701",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 3.41370323,
 				"POLY_S_ID" : "Wetland C",
@@ -17415,7 +17415,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "97055",
+				"FMEArea" : "97056",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 2.22809192,
 				"POLY_S_ID" : "Wetland E",
@@ -17520,7 +17520,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "5739",
+				"FMEArea" : "5740",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.13176938,
 				"POLY_S_ID" : "Wetland I",
@@ -17603,7 +17603,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "219573",
+				"FMEArea" : "219574",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 5.04072529,
 				"POLY_S_ID" : "Wetland J",
@@ -17708,7 +17708,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "33618",
+				"FMEArea" : "33619",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.77178247,
 				"POLY_S_ID" : "Wetland F",
@@ -17772,7 +17772,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "64867",
+				"FMEArea" : "64868",
 				"DSL_JD_NUM" : "2015-0329",
 				"Acreage" : 1.48915637,
 				"POLY_S_ID" : "Wetland A1",
@@ -17819,7 +17819,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "560",
+				"FMEArea" : "561",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.0128775,
 				"POLY_S_ID" : "Wetland A",
@@ -17868,7 +17868,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PIC",
-				"FMEArea" : "2039",
+				"FMEArea" : "2040",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.046831620000000004,
 				"POLY_S_ID" : "Wetland 3B",
@@ -17958,7 +17958,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "CAS",
-				"FMEArea" : "10811",
+				"FMEArea" : "10812",
 				"DSL_JD_NUM" : "WD2017-0336",
 				"Acreage" : 0.24819818000000002,
 				"POLY_S_ID" : "Wetland 6A",
@@ -18083,7 +18083,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "19818",
+				"FMEArea" : "19819",
 				"DSL_JD_NUM" : "YES",
 				"Acreage" : 0.45497865,
 				"POLY_S_ID" : "Wetland J",
@@ -18113,6 +18113,14 @@
 			"geometry" : {
 				"type" : "MultiPolygon",
 				"coordinates" : [
+					[
+						[
+							[ -122.39038288, 45.55554948 ],
+							[ -122.39038355, 45.55555012 ],
+							[ -122.39038343, 45.5555499 ],
+							[ -122.39038288, 45.55554948 ]
+						]
+					],
 					[
 						[
 							[ -122.39061924, 45.55590346 ],
@@ -18162,14 +18170,6 @@
 							[ -122.39065662, 45.55574405 ],
 							[ -122.39061675, 45.5558016 ],
 							[ -122.39061924, 45.55590346 ]
-						]
-					],
-					[
-						[
-							[ -122.39038288, 45.55554948 ],
-							[ -122.39038355, 45.55555012 ],
-							[ -122.39038343, 45.5555499 ],
-							[ -122.39038288, 45.55554948 ]
 						]
 					]
 				]
@@ -18305,7 +18305,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "36541",
+				"FMEArea" : "36542",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.8388861400000001,
 				"POLY_S_ID" : "Wetland D ",
@@ -18420,7 +18420,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "1850",
+				"FMEArea" : "1851",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.04248476,
 				"POLY_S_ID" : "Wetland C",
@@ -18472,7 +18472,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "2990",
+				"FMEArea" : "2991",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.06865887,
 				"POLY_S_ID" : "Wetland A ",
@@ -18613,7 +18613,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "5032",
+				"FMEArea" : "5033",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.11554107,
 				"POLY_S_ID" : "Ditch 2",
@@ -18672,7 +18672,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "6578",
+				"FMEArea" : "6579",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.15103007000000002,
 				"POLY_S_ID" : "Salmon Creek ",
@@ -18772,7 +18772,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "4965",
+				"FMEArea" : "4966",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.11399452,
 				"POLY_S_ID" : "Ditch 5 ",
@@ -18824,7 +18824,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "8812",
+				"FMEArea" : "8813",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.20231729,
 				"POLY_S_ID" : "Ditch 6 ",
@@ -18870,7 +18870,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "275",
+				"FMEArea" : "276",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.00632888,
 				"POLY_S_ID" : "Ditch 6",
@@ -19070,7 +19070,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TTD",
-				"FMEArea" : "1668",
+				"FMEArea" : "1669",
 				"DSL_JD_NUM" : "WD 2018-0321",
 				"Acreage" : 0.03830686,
 				"POLY_S_ID" : "Ditch 1",
@@ -19219,7 +19219,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "15785",
+				"FMEArea" : "15786",
 				"DSL_JD_NUM" : "WD 2017-0447",
 				"Acreage" : 0.36239132,
 				"POLY_S_ID" : "Wetland G",
@@ -19411,7 +19411,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "4560",
+				"FMEArea" : "4561",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.10470396,
 				"POLY_S_ID" : "",
@@ -19669,7 +19669,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "78752",
+				"FMEArea" : "78753",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 1.80791807,
 				"POLY_S_ID" : "",
@@ -20077,6 +20077,35 @@
 						[ -122.41280833, 45.56058731 ]
 					],
 					[
+						[ -122.41478921, 45.56034298 ],
+						[ -122.41476669, 45.56034602 ],
+						[ -122.41470874, 45.56035383 ],
+						[ -122.41461459, 45.56035861 ],
+						[ -122.41458093, 45.56035919 ],
+						[ -122.41456505, 45.56035473 ],
+						[ -122.41456658, 45.5603342 ],
+						[ -122.41458612, 45.56031493 ],
+						[ -122.41460588, 45.56030197 ],
+						[ -122.4146153, 45.56027563 ],
+						[ -122.41461574, 45.56027441 ],
+						[ -122.41463991, 45.56026493 ],
+						[ -122.41467946, 45.56024736 ],
+						[ -122.41472447, 45.56022813 ],
+						[ -122.41481336, 45.56019272 ],
+						[ -122.41485281, 45.56017718 ],
+						[ -122.41489017, 45.56016436 ],
+						[ -122.41489627, 45.56016555 ],
+						[ -122.41491336, 45.56016889 ],
+						[ -122.41497534, 45.56020726 ],
+						[ -122.41502385, 45.56024586 ],
+						[ -122.41504487, 45.56026915 ],
+						[ -122.41504132, 45.56029603 ],
+						[ -122.41501926, 45.56030746 ],
+						[ -122.41495451, 45.56031804 ],
+						[ -122.41486731, 45.56032901 ],
+						[ -122.41478921, 45.56034298 ]
+					],
+					[
 						[ -122.41263014, 45.5605696 ],
 						[ -122.41252117, 45.56057148 ],
 						[ -122.4124207, 45.56056664 ],
@@ -20110,35 +20139,6 @@
 						[ -122.41270698, 45.56053982 ],
 						[ -122.41267031, 45.56056015 ],
 						[ -122.41263014, 45.5605696 ]
-					],
-					[
-						[ -122.41478921, 45.56034298 ],
-						[ -122.41476669, 45.56034602 ],
-						[ -122.41470874, 45.56035383 ],
-						[ -122.41461459, 45.56035861 ],
-						[ -122.41458093, 45.56035919 ],
-						[ -122.41456505, 45.56035473 ],
-						[ -122.41456658, 45.5603342 ],
-						[ -122.41458612, 45.56031493 ],
-						[ -122.41460588, 45.56030197 ],
-						[ -122.4146153, 45.56027563 ],
-						[ -122.41461574, 45.56027441 ],
-						[ -122.41463991, 45.56026493 ],
-						[ -122.41467946, 45.56024736 ],
-						[ -122.41472447, 45.56022813 ],
-						[ -122.41481336, 45.56019272 ],
-						[ -122.41485281, 45.56017718 ],
-						[ -122.41489017, 45.56016436 ],
-						[ -122.41489627, 45.56016555 ],
-						[ -122.41491336, 45.56016889 ],
-						[ -122.41497534, 45.56020726 ],
-						[ -122.41502385, 45.56024586 ],
-						[ -122.41504487, 45.56026915 ],
-						[ -122.41504132, 45.56029603 ],
-						[ -122.41501926, 45.56030746 ],
-						[ -122.41495451, 45.56031804 ],
-						[ -122.41486731, 45.56032901 ],
-						[ -122.41478921, 45.56034298 ]
 					]
 				]
 			},
@@ -20853,6 +20853,12 @@
 						[ -122.41724549, 45.55593238 ]
 					],
 					[
+						[ -122.42487506, 45.55584346 ],
+						[ -122.42487318, 45.55584245 ],
+						[ -122.42487339, 45.55584236 ],
+						[ -122.42487506, 45.55584346 ]
+					],
+					[
 						[ -122.42708196, 45.55582408 ],
 						[ -122.42714055, 45.55583094 ],
 						[ -122.42717413, 45.55583869 ],
@@ -20879,12 +20885,6 @@
 						[ -122.42704027, 45.55581701 ],
 						[ -122.42707924, 45.55581474 ],
 						[ -122.42708196, 45.55582408 ]
-					],
-					[
-						[ -122.42487506, 45.55584346 ],
-						[ -122.42487318, 45.55584245 ],
-						[ -122.42487339, 45.55584236 ],
-						[ -122.42487506, 45.55584346 ]
 					]
 				]
 			},
@@ -21260,7 +21260,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1893",
+				"FMEArea" : "1894",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.043476970000000004,
 				"POLY_S_ID" : "",
@@ -22101,7 +22101,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "4560",
+				"FMEArea" : "4561",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.10470396,
 				"POLY_S_ID" : "",
@@ -22143,7 +22143,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "330",
+				"FMEArea" : "331",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.00759792,
 				"POLY_S_ID" : "",
@@ -22553,7 +22553,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1088452",
+				"FMEArea" : "1088453",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 24.98743766,
 				"POLY_S_ID" : "",
@@ -23005,7 +23005,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "25775",
+				"FMEArea" : "25776",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.59173178,
 				"POLY_S_ID" : "",
@@ -23189,7 +23189,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "1181",
+				"FMEArea" : "1182",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.02712852,
 				"POLY_S_ID" : "",
@@ -24399,7 +24399,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "21394",
+				"FMEArea" : "21395",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.49115857,
 				"POLY_S_ID" : "",
@@ -24573,7 +24573,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "41363",
+				"FMEArea" : "41364",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.94957875,
 				"POLY_S_ID" : "",
@@ -24732,7 +24732,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "19001",
+				"FMEArea" : "19002",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.4362159,
 				"POLY_S_ID" : "",
@@ -25189,7 +25189,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "181",
+				"FMEArea" : "182",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.00417243,
 				"POLY_S_ID" : "",
@@ -25567,7 +25567,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "100245",
+				"FMEArea" : "100246",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 2.30133024,
 				"POLY_S_ID" : "",
@@ -26356,7 +26356,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "TRIP",
-				"FMEArea" : "152",
+				"FMEArea" : "153",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.00350132,
 				"POLY_S_ID" : "",
@@ -26674,7 +26674,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3606",
+				"FMEArea" : "3607",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08279583,
 				"POLY_S_ID" : "",
@@ -26721,7 +26721,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3503",
+				"FMEArea" : "3504",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.08043117,
 				"POLY_S_ID" : "",
@@ -26940,7 +26940,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "37308",
+				"FMEArea" : "37309",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.85648744,
 				"POLY_S_ID" : "",
@@ -27001,7 +27001,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "38689",
+				"FMEArea" : "38690",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.88818987,
 				"POLY_S_ID" : "D",
@@ -27044,7 +27044,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "607",
+				"FMEArea" : "608",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.013949699999999999,
 				"POLY_S_ID" : "L",
@@ -27134,7 +27134,7 @@
 			"properties" : {
 				"COWARDIN" : "",
 				"facility_cd" : "HIO",
-				"FMEArea" : "773",
+				"FMEArea" : "774",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.01776117,
 				"POLY_S_ID" : "N",
@@ -27179,7 +27179,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "1743",
+				"FMEArea" : "1744",
 				"DSL_JD_NUM" : "WD20200114",
 				"Acreage" : 0.040029010000000004,
 				"POLY_S_ID" : "A3",
@@ -27308,7 +27308,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "5649",
+				"FMEArea" : "5650",
 				"DSL_JD_NUM" : "WD20200329",
 				"Acreage" : 0.13,
 				"POLY_S_ID" : "A",
@@ -27400,7 +27400,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "174",
+				"FMEArea" : "175",
 				"DSL_JD_NUM" : "WD20200329",
 				"Acreage" : 0.004,
 				"POLY_S_ID" : "B",
@@ -27461,7 +27461,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "6942",
+				"FMEArea" : "6943",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.16,
 				"POLY_S_ID" : "B",
@@ -27521,7 +27521,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "PDX",
-				"FMEArea" : "3288",
+				"FMEArea" : "3289",
 				"DSL_JD_NUM" : "",
 				"Acreage" : 0.075,
 				"POLY_S_ID" : "A",
@@ -27653,7 +27653,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "16122",
+				"FMEArea" : "16123",
 				"DSL_JD_NUM" : "WD20220508",
 				"Acreage" : "",
 				"POLY_S_ID" : "E",
@@ -27819,7 +27819,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "6621",
+				"FMEArea" : "6622",
 				"DSL_JD_NUM" : "WD20220508",
 				"Acreage" : "",
 				"POLY_S_ID" : "DITCH2",
@@ -27904,7 +27904,7 @@
 			"properties" : {
 				"COWARDIN" : "PEM",
 				"facility_cd" : "HIO",
-				"FMEArea" : "3973",
+				"FMEArea" : "3974",
 				"DSL_JD_NUM" : "WD20220508",
 				"Acreage" : "",
 				"POLY_S_ID" : "DITCH1",
