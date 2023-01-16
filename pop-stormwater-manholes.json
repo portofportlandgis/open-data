@@ -17481,11 +17481,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.95621807, 45.54435096 ]
+				"coordinates" : [ -122.95621831, 45.54435078 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "198.12",
+				"lid_elevation_rg" : "198.13",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -17496,9 +17496,9 @@
 				"diameter_cd_resolved" : "120",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2018-12-14",
+				"lid_survey_quality_date" : "2022-10-31",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2018-12-14",
+				"loc_survey_quality_date" : "2022-10-31",
 				"confined_space_id" : ""
 			}
 		},
@@ -45731,31 +45731,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59072247, 45.58665756 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "21.91",
-				"lid_elevation_rg" : "24.72",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2016-05-23",
-				"flow_survey_quality_rev_date" : "2006-04-11",
-				"loc_survey_quality_date" : "2016-05-23",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.56326016, 45.57702964 ]
 			},
 			"properties" : {
@@ -53906,56 +53881,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59004396, 45.5870234 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-11-04",
-				"confined_space_id" : "STSMH8410"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58976399, 45.5869441 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "27.44",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-27",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-27",
-				"confined_space_id" : "STSMH8411"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.59109383, 45.5876312 ]
 			},
 			"properties" : {
@@ -53975,31 +53900,6 @@
 				"flow_survey_quality_rev_date" : "2009-11-04",
 				"loc_survey_quality_date" : "2009-11-04",
 				"confined_space_id" : "STSMH8404"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59126729, 45.58744903 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "22.32",
-				"lid_elevation_rg" : "26.98",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2015-06-11",
-				"flow_survey_quality_rev_date" : "2009-11-04",
-				"loc_survey_quality_date" : "2015-06-11",
-				"confined_space_id" : "STSMH8405"
 			}
 		},
 		{
@@ -54056,31 +53956,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5911352, 45.58709005 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "22.11",
-				"lid_elevation_rg" : "26.04",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2015-06-11",
-				"flow_survey_quality_rev_date" : "2009-11-04",
-				"loc_survey_quality_date" : "2015-06-11",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.57844583, 45.58335651 ]
 			},
 			"properties" : {
@@ -54099,31 +53974,6 @@
 				"lid_survey_quality_date" : "2019-11-14",
 				"flow_survey_quality_rev_date" : "2008-11-01",
 				"loc_survey_quality_date" : "2019-11-14",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59085304, 45.58708944 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "21.73",
-				"lid_elevation_rg" : "26.33",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2009-11-04",
-				"flow_survey_quality_rev_date" : "2009-11-04",
-				"loc_survey_quality_date" : "2009-11-04",
 				"confined_space_id" : ""
 			}
 		},
@@ -56350,31 +56200,6 @@
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2009-11-09",
 				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58983169, 45.58686024 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "26.52",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2012-02-27",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2012-02-27",
-				"confined_space_id" : "STSMH8429"
 			}
 		},
 		{
@@ -62731,31 +62556,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59036765, 45.58704124 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "25.64",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2014-07-14",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2014-07-14",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.58720658, 45.58688835 ]
 			},
 			"properties" : {
@@ -66561,31 +66361,6 @@
 			"properties" : {
 				"flow_elevation_rg" : "12.95",
 				"lid_elevation_rg" : "27",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
-				"lid_survey_quality_date" : "2018-08-03",
-				"flow_survey_quality_rev_date" : "2018-08-03",
-				"loc_survey_quality_date" : "2018-08-03",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59143547, 45.58748688 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "12.61",
-				"lid_elevation_rg" : "26.92",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
