@@ -183,7 +183,7 @@
 			"properties" : {
 				"basin_id" : "F",
 				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"FMEArea" : 1395407,
+				"FMEArea" : 1395408,
 				"subbasin_id" : ""
 			}
 		},
@@ -213,7 +213,7 @@
 			"properties" : {
 				"basin_id" : "H",
 				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"FMEArea" : 1885339,
+				"FMEArea" : 1885340,
 				"subbasin_id" : ""
 			}
 		},
@@ -245,7 +245,7 @@
 			"properties" : {
 				"basin_id" : "I",
 				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"FMEArea" : 1462479,
+				"FMEArea" : 1462480,
 				"subbasin_id" : ""
 			}
 		},
@@ -322,7 +322,7 @@
 			"properties" : {
 				"basin_id" : "6",
 				"facility_cd_resolved" : "Hillsboro Airport",
-				"FMEArea" : 49833,
+				"FMEArea" : 49834,
 				"subbasin_id" : ""
 			}
 		},
@@ -419,7 +419,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 1658168,
+				"FMEArea" : 1658169,
 				"subbasin_id" : ""
 			}
 		},
@@ -592,7 +592,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Mulino Airport",
-				"FMEArea" : 3789949,
+				"FMEArea" : 3789950,
 				"subbasin_id" : ""
 			}
 		},
@@ -642,7 +642,7 @@
 			"properties" : {
 				"basin_id" : "A",
 				"facility_cd_resolved" : "Mulino Airport",
-				"FMEArea" : 3303981,
+				"FMEArea" : 3303982,
 				"subbasin_id" : ""
 			}
 		},
@@ -665,7 +665,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Not Applicable",
-				"FMEArea" : 149821,
+				"FMEArea" : 149822,
 				"subbasin_id" : ""
 			}
 		},
@@ -731,7 +731,7 @@
 			"properties" : {
 				"basin_id" : "S",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 459799,
+				"FMEArea" : 459800,
 				"subbasin_id" : ""
 			}
 		},
@@ -785,7 +785,7 @@
 			"properties" : {
 				"basin_id" : "R",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 308463,
+				"FMEArea" : 308464,
 				"subbasin_id" : ""
 			}
 		},
@@ -935,7 +935,7 @@
 			"properties" : {
 				"basin_id" : "P",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 27381,
+				"FMEArea" : 27382,
 				"subbasin_id" : ""
 			}
 		},
@@ -1088,7 +1088,7 @@
 			"properties" : {
 				"basin_id" : "N",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 178206,
+				"FMEArea" : 178207,
 				"subbasin_id" : ""
 			}
 		},
@@ -1257,7 +1257,7 @@
 			"properties" : {
 				"basin_id" : "V",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 124589,
+				"FMEArea" : 124590,
 				"subbasin_id" : ""
 			}
 		},
@@ -1387,7 +1387,7 @@
 			"properties" : {
 				"basin_id" : "K",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 157411,
+				"FMEArea" : 157412,
 				"subbasin_id" : ""
 			}
 		},
@@ -1431,7 +1431,7 @@
 			"properties" : {
 				"basin_id" : "U",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 229428,
+				"FMEArea" : 229429,
 				"subbasin_id" : ""
 			}
 		},
@@ -1556,7 +1556,7 @@
 			"properties" : {
 				"basin_id" : "J",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 167727,
+				"FMEArea" : 167728,
 				"subbasin_id" : ""
 			}
 		},
@@ -1858,7 +1858,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Terminal 4",
-				"FMEArea" : 957134,
+				"FMEArea" : 957135,
 				"subbasin_id" : ""
 			}
 		},
@@ -2181,7 +2181,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Terminal 2",
-				"FMEArea" : 1467879,
+				"FMEArea" : 1467880,
 				"subbasin_id" : ""
 			}
 		},
@@ -2224,7 +2224,7 @@
 			"properties" : {
 				"basin_id" : "A",
 				"facility_cd_resolved" : "Terminal 2",
-				"FMEArea" : 778948,
+				"FMEArea" : 778949,
 				"subbasin_id" : ""
 			}
 		},
@@ -2292,7 +2292,7 @@
 			"properties" : {
 				"basin_id" : "Q",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 1297755,
+				"FMEArea" : 1297756,
 				"subbasin_id" : ""
 			}
 		},
@@ -2507,7 +2507,7 @@
 			"properties" : {
 				"basin_id" : "P",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 3625773,
+				"FMEArea" : 3625774,
 				"subbasin_id" : ""
 			}
 		},
@@ -2707,7 +2707,7 @@
 			"properties" : {
 				"basin_id" : "J",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 594220,
+				"FMEArea" : 594221,
 				"subbasin_id" : ""
 			}
 		},
@@ -3099,7 +3099,7 @@
 			"properties" : {
 				"basin_id" : "G",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 637162,
+				"FMEArea" : 637163,
 				"subbasin_id" : ""
 			}
 		},
@@ -3126,7 +3126,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 682203,
+				"FMEArea" : 682204,
 				"subbasin_id" : ""
 			}
 		},
@@ -3187,7 +3187,7 @@
 			"properties" : {
 				"basin_id" : "F",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 839723,
+				"FMEArea" : 839724,
 				"subbasin_id" : ""
 			}
 		},
@@ -3210,7 +3210,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Not Applicable",
-				"FMEArea" : 161014,
+				"FMEArea" : 161015,
 				"subbasin_id" : "RG-S"
 			}
 		},
@@ -3283,7 +3283,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 55997,
+				"FMEArea" : 55998,
 				"subbasin_id" : ""
 			}
 		},
@@ -3526,7 +3526,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 851188,
+				"FMEArea" : 851189,
 				"subbasin_id" : "RG-N"
 			}
 		},
@@ -3593,7 +3593,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 1090012,
+				"FMEArea" : 1090013,
 				"subbasin_id" : "RG-U"
 			}
 		},
@@ -3649,7 +3649,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 346033,
+				"FMEArea" : 346034,
 				"subbasin_id" : "RG-Q"
 			}
 		},
@@ -4003,7 +4003,7 @@
 			"properties" : {
 				"basin_id" : "T",
 				"facility_cd_resolved" : "Terminal 6",
-				"FMEArea" : 2676856,
+				"FMEArea" : 2676857,
 				"subbasin_id" : ""
 			}
 		},
@@ -4077,7 +4077,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 4632799,
+				"FMEArea" : 4632800,
 				"subbasin_id" : "RG-L"
 			}
 		},
@@ -4168,7 +4168,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 680672,
+				"FMEArea" : 680673,
 				"subbasin_id" : "RG-K"
 			}
 		},
@@ -4830,7 +4830,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Terminal 5",
-				"FMEArea" : 5434405,
+				"FMEArea" : 5434406,
 				"subbasin_id" : "RG-1"
 			}
 		},
@@ -4883,7 +4883,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Terminal 5",
-				"FMEArea" : 840234,
+				"FMEArea" : 840235,
 				"subbasin_id" : "RG-1"
 			}
 		},
@@ -5024,7 +5024,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 6311781,
+				"FMEArea" : 6311782,
 				"subbasin_id" : "RG-H"
 			}
 		},
@@ -5080,7 +5080,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 2349565,
+				"FMEArea" : 2349566,
 				"subbasin_id" : "RG-G"
 			}
 		},
@@ -5205,7 +5205,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 4115612,
+				"FMEArea" : 4115613,
 				"subbasin_id" : "RG-E"
 			}
 		},
@@ -5338,7 +5338,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 5603851,
+				"FMEArea" : 5603852,
 				"subbasin_id" : "RG-D"
 			}
 		},
@@ -5436,7 +5436,7 @@
 			"properties" : {
 				"basin_id" : "RG",
 				"facility_cd_resolved" : "Rivergate Industrial District",
-				"FMEArea" : 1926186,
+				"FMEArea" : 1926187,
 				"subbasin_id" : "RG-C"
 			}
 		},
@@ -5708,7 +5708,7 @@
 			"properties" : {
 				"basin_id" : "11",
 				"facility_cd_resolved" : "Portland International Center",
-				"FMEArea" : 718550,
+				"FMEArea" : 718551,
 				"subbasin_id" : ""
 			}
 		},
@@ -5740,7 +5740,7 @@
 			"properties" : {
 				"basin_id" : "12",
 				"facility_cd_resolved" : "Portland International Center",
-				"FMEArea" : 398287,
+				"FMEArea" : 398288,
 				"subbasin_id" : ""
 			}
 		},
@@ -5889,7 +5889,7 @@
 			"properties" : {
 				"basin_id" : "7",
 				"facility_cd_resolved" : "Hillsboro Airport",
-				"FMEArea" : 6802231,
+				"FMEArea" : 6802232,
 				"subbasin_id" : ""
 			}
 		},
@@ -5931,7 +5931,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 52548,
+				"FMEArea" : 52549,
 				"subbasin_id" : "C7"
 			}
 		},
@@ -6100,7 +6100,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 2237436,
+				"FMEArea" : 2237437,
 				"subbasin_id" : "C2"
 			}
 		},
@@ -6143,7 +6143,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 905292,
+				"FMEArea" : 905293,
 				"subbasin_id" : "C1"
 			}
 		},
@@ -6166,7 +6166,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 311375,
+				"FMEArea" : 311376,
 				"subbasin_id" : "B2"
 			}
 		},
@@ -6219,7 +6219,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 281718,
+				"FMEArea" : 281719,
 				"subbasin_id" : "B3"
 			}
 		},
@@ -6321,7 +6321,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 346890,
+				"FMEArea" : 346891,
 				"subbasin_id" : "C5"
 			}
 		},
@@ -6399,7 +6399,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 2306483,
+				"FMEArea" : 2306484,
 				"subbasin_id" : "C4"
 			}
 		},
@@ -6487,7 +6487,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
-				"FMEArea" : 3078874,
+				"FMEArea" : 3078875,
 				"subbasin_id" : "C9"
 			}
 		},
@@ -6616,7 +6616,7 @@
 			"properties" : {
 				"basin_id" : "1",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 876400,
+				"FMEArea" : 876401,
 				"subbasin_id" : "1E"
 			}
 		},
@@ -6678,7 +6678,7 @@
 			"properties" : {
 				"basin_id" : "2",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 10554768,
+				"FMEArea" : 10554769,
 				"subbasin_id" : "2W"
 			}
 		},
@@ -6708,7 +6708,7 @@
 			"properties" : {
 				"basin_id" : "3",
 				"facility_cd_resolved" : "Airtrans Center",
-				"FMEArea" : 586026,
+				"FMEArea" : 586027,
 				"subbasin_id" : ""
 			}
 		},
@@ -6768,100 +6768,6 @@
 				"facility_cd_resolved" : "Airtrans Center",
 				"FMEArea" : 2226132,
 				"subbasin_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.60477154, 45.57988661 ],
-						[ -122.60508732, 45.5795198 ],
-						[ -122.60429024, 45.57915258 ],
-						[ -122.60400269, 45.57917212 ],
-						[ -122.60374946, 45.57947683 ],
-						[ -122.60373542, 45.58074408 ],
-						[ -122.60347907, 45.58078211 ],
-						[ -122.60323462, 45.58102652 ],
-						[ -122.60259445, 45.58079709 ],
-						[ -122.60230949, 45.58111548 ],
-						[ -122.6033504, 45.58151918 ],
-						[ -122.6014994, 45.58378304 ],
-						[ -122.60095039, 45.58434428 ],
-						[ -122.59957168, 45.58432705 ],
-						[ -122.59931438, 45.58420072 ],
-						[ -122.59868385, 45.58375139 ],
-						[ -122.59795229, 45.58345871 ],
-						[ -122.59748838, 45.58330069 ],
-						[ -122.59369758, 45.58185642 ],
-						[ -122.59220265, 45.58374932 ],
-						[ -122.59325811, 45.58415808 ],
-						[ -122.59270089, 45.58488206 ],
-						[ -122.59142284, 45.584956 ],
-						[ -122.59131205, 45.58510286 ],
-						[ -122.59204493, 45.5854208 ],
-						[ -122.59247991, 45.58569006 ],
-						[ -122.59302988, 45.58607185 ],
-						[ -122.59332627, 45.5862562 ],
-						[ -122.59373258, 45.58649417 ],
-						[ -122.59241426, 45.58705122 ],
-						[ -122.59218099, 45.58681672 ],
-						[ -122.59165621, 45.58615604 ],
-						[ -122.5911128, 45.58677131 ],
-						[ -122.5911123, 45.58693501 ],
-						[ -122.59134963, 45.58738927 ],
-						[ -122.5902915, 45.58872613 ],
-						[ -122.59079381, 45.58892212 ],
-						[ -122.59062864, 45.58912935 ],
-						[ -122.59009316, 45.58909113 ],
-						[ -122.59153368, 45.58965388 ],
-						[ -122.59196363, 45.58974509 ],
-						[ -122.59325684, 45.59011962 ],
-						[ -122.59673981, 45.59147797 ],
-						[ -122.59719553, 45.59090244 ],
-						[ -122.59790989, 45.59102516 ],
-						[ -122.59829489, 45.5905532 ],
-						[ -122.59946223, 45.5910066 ],
-						[ -122.600008, 45.59102486 ],
-						[ -122.60093689, 45.59137516 ],
-						[ -122.60184096, 45.59137608 ],
-						[ -122.60424658, 45.58968743 ],
-						[ -122.60501928, 45.58874128 ],
-						[ -122.60371872, 45.58823444 ],
-						[ -122.60392387, 45.58797095 ],
-						[ -122.60570286, 45.58866358 ],
-						[ -122.60653711, 45.58807878 ],
-						[ -122.60598396, 45.58786344 ],
-						[ -122.60635307, 45.58739534 ],
-						[ -122.60454664, 45.58669807 ],
-						[ -122.60435032, 45.58612276 ],
-						[ -122.60434248, 45.58409643 ],
-						[ -122.6050969, 45.58410027 ],
-						[ -122.60572497, 45.58410246 ],
-						[ -122.60572206, 45.5838415 ],
-						[ -122.60527041, 45.58356798 ],
-						[ -122.6052689, 45.58302088 ],
-						[ -122.6053562, 45.58302073 ],
-						[ -122.60535513, 45.58255683 ],
-						[ -122.60513153, 45.58255648 ],
-						[ -122.60513097, 45.58235875 ],
-						[ -122.60504128, 45.58235887 ],
-						[ -122.60504071, 45.58215787 ],
-						[ -122.60397649, 45.58216305 ],
-						[ -122.60397571, 45.58191601 ],
-						[ -122.60428127, 45.58152703 ],
-						[ -122.6043819, 45.58122488 ],
-						[ -122.60452847, 45.58087984 ],
-						[ -122.60477154, 45.57988661 ]
-					]
-				]
-			},
-			"properties" : {
-				"basin_id" : "6",
-				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 9741374,
-				"subbasin_id" : "6G"
 			}
 		},
 		{
@@ -6987,7 +6893,7 @@
 			"properties" : {
 				"basin_id" : "8",
 				"facility_cd_resolved" : "Portland International Center",
-				"FMEArea" : 11207452,
+				"FMEArea" : 11207453,
 				"subbasin_id" : "8B"
 			}
 		},
@@ -7146,7 +7052,7 @@
 			"properties" : {
 				"basin_id" : "7",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 196604,
+				"FMEArea" : 196605,
 				"subbasin_id" : "7C"
 			}
 		},
@@ -7205,7 +7111,7 @@
 			"properties" : {
 				"basin_id" : "7",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 165559,
+				"FMEArea" : 165560,
 				"subbasin_id" : "7B"
 			}
 		},
@@ -7358,7 +7264,7 @@
 			"properties" : {
 				"basin_id" : "1",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 25713088,
+				"FMEArea" : 25713089,
 				"subbasin_id" : "1N"
 			}
 		},
@@ -7547,7 +7453,7 @@
 			"properties" : {
 				"basin_id" : "6",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 175803,
+				"FMEArea" : 175804,
 				"subbasin_id" : "6J"
 			}
 		},
@@ -7641,7 +7547,7 @@
 			"properties" : {
 				"basin_id" : "2",
 				"facility_cd_resolved" : "Hillsboro Airport",
-				"FMEArea" : 11684955,
+				"FMEArea" : 11684956,
 				"subbasin_id" : ""
 			}
 		},
@@ -7756,7 +7662,7 @@
 			"properties" : {
 				"basin_id" : "C",
 				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"FMEArea" : 65091,
+				"FMEArea" : 65092,
 				"subbasin_id" : ""
 			}
 		},
@@ -7891,7 +7797,7 @@
 			"properties" : {
 				"basin_id" : "B",
 				"facility_cd_resolved" : "Not Applicable",
-				"FMEArea" : 45257,
+				"FMEArea" : 45258,
 				"subbasin_id" : ""
 			}
 		},
@@ -8359,7 +8265,7 @@
 			"properties" : {
 				"basin_id" : "5",
 				"facility_cd_resolved" : "Airtrans Center",
-				"FMEArea" : 2116155,
+				"FMEArea" : 2116156,
 				"subbasin_id" : ""
 			}
 		},
@@ -8729,7 +8635,7 @@
 			"properties" : {
 				"basin_id" : "8",
 				"facility_cd_resolved" : "Portland International Airport",
-				"FMEArea" : 7808277,
+				"FMEArea" : 7808278,
 				"subbasin_id" : "8A"
 			}
 		},
