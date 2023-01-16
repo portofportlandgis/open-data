@@ -762,20 +762,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.58490337, 45.58541814 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_misc_point_type_cd_resolved" : "Flow Arrow",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.58472961, 45.58513936 ]
 			},
 			"properties" : {
