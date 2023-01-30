@@ -32481,11 +32481,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60026059, 45.58723412 ]
+				"coordinates" : [ -122.60026067, 45.58723406 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "14.61",
-				"lid_elevation_rg" : "22.85",
+				"lid_elevation_rg" : "22.59",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -32496,9 +32496,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2011-11-30",
+				"lid_survey_quality_date" : "2022-12-14",
 				"flow_survey_quality_rev_date" : "2009-11-08",
-				"loc_survey_quality_date" : "2011-11-30",
+				"loc_survey_quality_date" : "2022-12-14",
 				"confined_space_id" : ""
 			}
 		},
@@ -34524,31 +34524,6 @@
 				"lid_survey_quality_date" : "2006-07-01",
 				"flow_survey_quality_rev_date" : "2006-07-01",
 				"loc_survey_quality_date" : "2006-07-01",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.94751477, 45.53688163 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "194.08",
-				"lid_elevation_rg" : "199.54",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Surveyed",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2021-04-19",
-				"flow_survey_quality_rev_date" : "2021-04-19",
-				"loc_survey_quality_date" : "2021-04-19",
 				"confined_space_id" : ""
 			}
 		},
@@ -60856,11 +60831,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.60146313, 45.58791827 ]
+				"coordinates" : [ -122.60146325, 45.5879184 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "13.4",
-				"lid_elevation_rg" : "22.23",
+				"lid_elevation_rg" : "22.2",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "Port of Portland",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -60871,9 +60846,9 @@
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2016-04-22",
+				"lid_survey_quality_date" : "2022-12-14",
 				"flow_survey_quality_rev_date" : "2016-04-22",
-				"loc_survey_quality_date" : "2016-04-22",
+				"loc_survey_quality_date" : "2022-12-14",
 				"confined_space_id" : ""
 			}
 		},
