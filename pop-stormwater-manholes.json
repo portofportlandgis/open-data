@@ -13531,31 +13531,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59159195, 45.59104722 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "16.24",
-				"lid_elevation_rg" : "26.58",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
-				"lid_survey_quality_date" : "2019-10-31",
-				"flow_survey_quality_rev_date" : "2019-10-31",
-				"loc_survey_quality_date" : "2019-10-31",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.5972633, 45.58399348 ]
 			},
 			"properties" : {
@@ -44681,31 +44656,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59241042, 45.59185362 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "17.81",
-				"lid_elevation_rg" : "27.08",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Confined Space",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2017-12-20",
-				"flow_survey_quality_rev_date" : "2008-01-21",
-				"loc_survey_quality_date" : "2017-12-20",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.59153926, 45.59161093 ]
 			},
 			"properties" : {
@@ -70074,6 +70024,56 @@
 				"lid_survey_quality_date" : "2022-05-18",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2022-05-18",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59159094, 45.59104775 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "16.24",
+				"lid_elevation_rg" : "26.54",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2023-01-31",
+				"flow_survey_quality_rev_date" : "2019-10-31",
+				"loc_survey_quality_date" : "2023-01-31",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59241045, 45.59185362 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "17.81",
+				"lid_elevation_rg" : "27.06",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2023-01-31",
+				"flow_survey_quality_rev_date" : "2008-01-21",
+				"loc_survey_quality_date" : "2023-01-31",
 				"confined_space_id" : ""
 			}
 		}
