@@ -24805,48 +24805,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.94215894, 45.5419412 ],
-					[ -122.94215406, 45.54194527 ],
-					[ -122.94214861, 45.54194172 ],
-					[ -122.94215326, 45.54193777 ],
-					[ -122.94215894, 45.5419412 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.9422792, 45.54183192 ],
-					[ -122.94228385, 45.54182796 ],
-					[ -122.94228974, 45.54183114 ],
-					[ -122.94228478, 45.5418352 ],
-					[ -122.9422792, 45.54183192 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.94320933, 45.54131216 ],
 					[ -122.94320322, 45.54130877 ],
 					[ -122.94320851, 45.54130459 ],
@@ -24873,49 +24831,6 @@
 					[ -122.94420781, 45.54045644 ],
 					[ -122.9442134, 45.54045994 ],
 					[ -122.94420862, 45.54046389 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.94440767, 45.54002257 ],
-					[ -122.94440284, 45.54002666 ],
-					[ -122.94440599, 45.54002862 ],
-					[ -122.94440849, 45.54003018 ],
-					[ -122.94441367, 45.54002624 ],
-					[ -122.94440767, 45.54002257 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.94453444, 45.53991507 ],
-					[ -122.94454032, 45.53991853 ],
-					[ -122.94454516, 45.53991436 ],
-					[ -122.94453918, 45.53991116 ],
-					[ -122.94453444, 45.53991507 ]
 				]
 			},
 			"properties" : {
@@ -25105,29 +25020,6 @@
 					[ -122.94485101, 45.54034928 ],
 					[ -122.94485086, 45.54034392 ],
 					[ -122.94485837, 45.54034359 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.94140364, 45.54118209 ],
-					[ -122.94140206, 45.54118334 ],
-					[ -122.94139636, 45.54118815 ],
-					[ -122.94140563, 45.54119398 ],
-					[ -122.94141168, 45.54118914 ],
-					[ -122.94141317, 45.54118796 ],
-					[ -122.94140364, 45.54118209 ]
 				]
 			},
 			"properties" : {
@@ -48358,6 +48250,304 @@
 				"subtype_resolved" : "STS Misc Line",
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94586347, 45.53857407 ],
+					[ -122.94585898, 45.53857031 ],
+					[ -122.94585382, 45.53857407 ],
+					[ -122.94585911, 45.53857769 ],
+					[ -122.94586347, 45.53857407 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94499377, 45.53931306 ],
+					[ -122.94498794, 45.5393098 ],
+					[ -122.94498343, 45.53931333 ],
+					[ -122.94498891, 45.53931675 ],
+					[ -122.94499377, 45.53931306 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94453926, 45.53991122 ],
+					[ -122.9445347, 45.53991502 ],
+					[ -122.94454032, 45.53991801 ],
+					[ -122.94454495, 45.53991444 ],
+					[ -122.94453926, 45.53991122 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94440886, 45.54002993 ],
+					[ -122.94441332, 45.54002628 ],
+					[ -122.94440806, 45.54002287 ],
+					[ -122.94440299, 45.54002661 ],
+					[ -122.94440886, 45.54002993 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94419613, 45.53999847 ],
+					[ -122.9441895, 45.54000384 ],
+					[ -122.94418005, 45.53999834 ],
+					[ -122.94418672, 45.53999294 ],
+					[ -122.94419613, 45.53999847 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94412278, 45.54005367 ],
+					[ -122.94411837, 45.54005752 ],
+					[ -122.94411271, 45.54005468 ],
+					[ -122.94411729, 45.54005077 ],
+					[ -122.94412278, 45.54005367 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94228986, 45.54183114 ],
+					[ -122.94228416, 45.54182779 ],
+					[ -122.94227967, 45.54183157 ],
+					[ -122.94228497, 45.54183524 ],
+					[ -122.94228986, 45.54183114 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94215899, 45.54194144 ],
+					[ -122.94215357, 45.54193793 ],
+					[ -122.94214862, 45.54194188 ],
+					[ -122.94215431, 45.54194548 ],
+					[ -122.94215899, 45.54194144 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.94140387, 45.54119299 ],
+					[ -122.94140542, 45.54119389 ],
+					[ -122.94141202, 45.54118875 ],
+					[ -122.9414127, 45.541188 ],
+					[ -122.94140419, 45.54118223 ],
+					[ -122.94140244, 45.54118348 ],
+					[ -122.94139622, 45.541188 ],
+					[ -122.94139728, 45.54118871 ],
+					[ -122.94140387, 45.54119299 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.95252326, 45.54097585 ],
+					[ -122.95251413, 45.54098069 ],
+					[ -122.95252079, 45.54098671 ],
+					[ -122.95252997, 45.54098229 ],
+					[ -122.95252326, 45.54097585 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.95343934, 45.54103464 ],
+					[ -122.95344814, 45.54103203 ],
+					[ -122.95344328, 45.54102433 ],
+					[ -122.95343457, 45.54102702 ],
+					[ -122.95343934, 45.54103464 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.95284519, 45.54036427 ],
+					[ -122.95285128, 45.54036993 ],
+					[ -122.95286175, 45.54036498 ],
+					[ -122.95285647, 45.54035965 ],
+					[ -122.95284519, 45.54036427 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.95397543, 45.54141151 ],
+					[ -122.95397102, 45.54140478 ],
+					[ -122.95395988, 45.54140877 ],
+					[ -122.9539635, 45.5414152 ],
+					[ -122.95397543, 45.54141151 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74503727, 45.6345113 ],
+					[ -122.74502765, 45.63451752 ],
+					[ -122.74502057, 45.63451222 ],
+					[ -122.74502996, 45.63450549 ],
+					[ -122.74503727, 45.6345113 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
