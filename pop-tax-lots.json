@@ -59414,6 +59414,71 @@
 				"Shape.STArea()" : 1065.99853515625,
 				"FMEAcres" : 0
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -122.58555405, 45.20950477 ],
+						[ -122.58587385, 45.20923731 ],
+						[ -122.5865019, 45.20959945 ],
+						[ -122.58693832, 45.20923444 ],
+						[ -122.58705861, 45.20606581 ],
+						[ -122.58428536, 45.20605687 ],
+						[ -122.58428493, 45.20620773 ],
+						[ -122.5842821, 45.20720815 ],
+						[ -122.58428167, 45.20735913 ],
+						[ -122.5842778, 45.20872682 ],
+						[ -122.58441817, 45.20885739 ],
+						[ -122.58471399, 45.20907224 ],
+						[ -122.58488301, 45.20917595 ],
+						[ -122.58513357, 45.20931487 ],
+						[ -122.58533512, 45.20940463 ],
+						[ -122.58548902, 45.20948191 ],
+						[ -122.58555405, 45.20950477 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 764,
+				"GISDB.PORT.taxlot_port.AREA" : "",
+				"TLID" : "42E20  00801",
+				"PRIMACCNUM" : "1032992",
+				"ALTACCNUM" : " ",
+				"OWNERSORT" : "PORT",
+				"OWNER1" : "PORT OF PORTLAND",
+				"OWNER2" : " ",
+				"OWNERADDR" : "PO BOX 3529",
+				"OWNERADDR2" : " ",
+				"OWNERCITY" : "PORTLAND",
+				"OWNERSTATE" : "OR",
+				"OWNERZIP" : "97208",
+				"SITEADDR" : "NO SITUS",
+				"SITECITY" : "ADDRESS",
+				"SITEZIP" : "97038",
+				"LANDVAL" : 717859,
+				"BLDGVAL" : 0,
+				"TOTALVAL" : 717859,
+				"BLDGSQFT" : 0,
+				"A_T_ACRES" : 18.3,
+				"YEARBUILT" : 0,
+				"PROP_CODE" : "400",
+				"LANDUSE" : "VAC",
+				"TAXCODE" : "035013",
+				"SALEDATE" : "2026-04-12",
+				"SALEPRICE" : 46000,
+				"COUNTY" : "C",
+				"X_COORD" : 7664638,
+				"Y_COORD" : 568744,
+				"JURIS_CITY" : "UNINCORPORATED",
+				"GIS_ACRES" : 18.93540991,
+				"STATECLASS" : "400",
+				"ORTAXLOT" : "0304.00S02.00E2000--000000801",
+				"Shape.STArea()" : 824826.456298828,
+				"FMEAcres" : 19
+			}
 		}
 	]
 }
