@@ -1326,36 +1326,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.5916777, 45.58754954 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Vault",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.58950147, 45.58676146 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Vault",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.6290132, 45.59475809 ]
 			},
 			"properties" : {
@@ -1575,6 +1545,51 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm",
 				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59170739, 45.58756065 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.58955753, 45.58677596 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : "Valve"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59150013, 45.58741825 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm",
+				"vault_use_cd_resolved" : ""
 			}
 		}
 	]
