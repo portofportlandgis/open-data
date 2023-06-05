@@ -53231,31 +53231,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59655241, 45.58870664 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "19",
-				"lid_elevation_rg" : "26.98",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "Surveyed",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Measure Down",
-				"lid_survey_quality_date" : "2015-04-21",
-				"flow_survey_quality_rev_date" : "2015-04-27",
-				"loc_survey_quality_date" : "2015-04-21",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.59006569, 45.59090659 ]
 			},
 			"properties" : {
@@ -69949,6 +69924,31 @@
 				"lid_survey_quality_date" : "2023-02-17",
 				"flow_survey_quality_rev_date" : "2008-01-16",
 				"loc_survey_quality_date" : "2023-02-17",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59655189, 45.58870694 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "19",
+				"lid_elevation_rg" : "26.89",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
+				"lid_survey_quality_date" : "2023-05-16",
+				"flow_survey_quality_rev_date" : "2015-04-27",
+				"loc_survey_quality_date" : "2023-05-16",
 				"confined_space_id" : ""
 			}
 		},
