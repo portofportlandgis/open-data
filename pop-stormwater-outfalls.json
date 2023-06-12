@@ -2736,6 +2736,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.71755036, 45.56150098 ]
+			},
+			"properties" : {
+				"diameter" : 18,
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "WR-399",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-03-06",
+				"IE" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.70777586, 45.56091469 ]
 			},
 			"properties" : {
@@ -4322,6 +4348,58 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.7106014, 45.55779181 ]
+			},
+			"properties" : {
+				"diameter" : "",
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "WR-163",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2005-03-06",
+				"IE" : "24.95"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.71893785, 45.56216828 ]
+			},
+			"properties" : {
+				"diameter" : "",
+				"basin_being_drained" : "",
+				"permit_associated_with" : "",
+				"tenant" : "",
+				"tenant_contact_name" : "",
+				"tenant_contact_phone" : "",
+				"outfall_id" : "WR-158",
+				"subtype_resolved" : "STS Outfall",
+				"owner_cd_resolved" : "City of Portland",
+				"loc_survey_quality_cd_resolved" : "Field Observed",
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"lifecycle_status_cd_resolved" : "Active",
+				"dry_season_inspection_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"water_discharged_to_cd_resolved" : "",
+				"loc_survey_quality_date" : "2009-03-02",
+				"IE" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.77948962, 45.60530038 ]
 			},
 			"properties" : {
@@ -4887,84 +4965,6 @@
 				"sewer_type_cd_resolved" : "Storm",
 				"water_discharged_to_cd_resolved" : "",
 				"loc_survey_quality_date" : "1999-11-30",
-				"IE" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.71755036, 45.56150098 ]
-			},
-			"properties" : {
-				"diameter" : 18,
-				"basin_being_drained" : "",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "WR-399",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "",
-				"loc_survey_quality_date" : "2005-03-06",
-				"IE" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.7106014, 45.55779181 ]
-			},
-			"properties" : {
-				"diameter" : "",
-				"basin_being_drained" : "",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "WR-163",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "",
-				"loc_survey_quality_date" : "2005-03-06",
-				"IE" : "24.95"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.71893785, 45.56216828 ]
-			},
-			"properties" : {
-				"diameter" : "",
-				"basin_being_drained" : "",
-				"permit_associated_with" : "",
-				"tenant" : "",
-				"tenant_contact_name" : "",
-				"tenant_contact_phone" : "",
-				"outfall_id" : "WR-158",
-				"subtype_resolved" : "STS Outfall",
-				"owner_cd_resolved" : "City of Portland",
-				"loc_survey_quality_cd_resolved" : "Field Observed",
-				"facility_cd_resolved" : "Swan Island Industrial Park",
-				"lifecycle_status_cd_resolved" : "Active",
-				"dry_season_inspection_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"water_discharged_to_cd_resolved" : "",
-				"loc_survey_quality_date" : "2009-03-02",
 				"IE" : ""
 			}
 		},
