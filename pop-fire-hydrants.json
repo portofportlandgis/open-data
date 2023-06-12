@@ -1849,6 +1849,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.7450046, 45.63436748 ]
+			},
+			"properties" : {
+				"elevation_rg" : "",
+				"monument_id" : "FH1337",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Yes",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2023-02-06"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.74580769, 45.6349581 ]
 			},
 			"properties" : {
@@ -16080,6 +16099,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.5969229, 45.58932757 ]
+			},
+			"properties" : {
+				"elevation_rg" : "0",
+				"monument_id" : "FH009",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2023-05-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.5951254, 45.58862751 ]
 			},
 			"properties" : {
@@ -16568,6 +16606,44 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2002-09-23"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.596472, 45.58874534 ]
+			},
+			"properties" : {
+				"elevation_rg" : "0",
+				"monument_id" : "FH007",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2023-05-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59733405, 45.58908154 ]
+			},
+			"properties" : {
+				"elevation_rg" : "0",
+				"monument_id" : "FH006",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "No",
+				"water_net_type_cd_resolved" : "Fire Hydrant",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2023-05-16"
 			}
 		},
 		{
@@ -19690,6 +19766,25 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.59706792, 45.58898725 ]
+			},
+			"properties" : {
+				"elevation_rg" : "",
+				"monument_id" : "",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"is_potable_cd_resolved" : "Unknown",
+				"water_net_type_cd_resolved" : "Fire Department Connection",
+				"water_use_cd_resolved" : "Fire",
+				"loc_survey_quality_date" : "2023-05-16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.59839453, 45.58948933 ]
 			},
 			"properties" : {
@@ -20824,101 +20919,6 @@
 				"water_net_type_cd_resolved" : "Fire Hydrant",
 				"water_use_cd_resolved" : "Fire",
 				"loc_survey_quality_date" : "2022-06-14"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.7450046, 45.63436748 ]
-			},
-			"properties" : {
-				"elevation_rg" : "",
-				"monument_id" : "FH1337",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Yes",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2023-02-06"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.5969229, 45.58932757 ]
-			},
-			"properties" : {
-				"elevation_rg" : "0",
-				"monument_id" : "FH009",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "No",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2023-05-16"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.596472, 45.58874534 ]
-			},
-			"properties" : {
-				"elevation_rg" : "0",
-				"monument_id" : "FH007",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "No",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2023-05-16"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59733405, 45.58908154 ]
-			},
-			"properties" : {
-				"elevation_rg" : "0",
-				"monument_id" : "FH006",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "No",
-				"water_net_type_cd_resolved" : "Fire Hydrant",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2023-05-16"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59706792, 45.58898725 ]
-			},
-			"properties" : {
-				"elevation_rg" : "",
-				"monument_id" : "",
-				"owner_cd_resolved" : "Port of Portland",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"is_potable_cd_resolved" : "Unknown",
-				"water_net_type_cd_resolved" : "Fire Department Connection",
-				"water_use_cd_resolved" : "Fire",
-				"loc_survey_quality_date" : "2023-05-16"
 			}
 		}
 	]
