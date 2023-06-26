@@ -8259,7 +8259,7 @@
 				"coordinates" : [ -122.94119019, 45.54133584 ]
 			},
 			"properties" : {
-				"flow_elevation_rg" : "200.64",
+				"flow_elevation_rg" : "200.83",
 				"lid_elevation_rg" : "206.55",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
@@ -8270,9 +8270,9 @@
 				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "48",
 				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"flow_survey_quality_cd_resolved" : "Measure Down",
 				"lid_survey_quality_date" : "2023-03-02",
-				"flow_survey_quality_rev_date" : "2006-08-02",
+				"flow_survey_quality_rev_date" : "2023-03-09",
 				"loc_survey_quality_date" : "2023-03-02",
 				"confined_space_id" : ""
 			}
