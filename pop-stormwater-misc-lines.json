@@ -16416,27 +16416,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.60011974, 45.58604299 ],
-					[ -122.60010947, 45.58603796 ],
-					[ -122.6001161, 45.58603076 ],
-					[ -122.60012666, 45.58603569 ],
-					[ -122.60011974, 45.58604299 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.60027801, 45.58618887 ],
 					[ -122.60028343, 45.58618161 ],
 					[ -122.60027041, 45.58617687 ],
@@ -48528,6 +48507,48 @@
 				"subtype_resolved" : "STS Misc Line",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.60031968, 45.58752136 ],
+					[ -122.6003067, 45.58751562 ],
+					[ -122.60031328, 45.58750795 ],
+					[ -122.60032627, 45.58751354 ],
+					[ -122.60031968, 45.58752136 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.60011994, 45.58604272 ],
+					[ -122.60010935, 45.58603788 ],
+					[ -122.60011615, 45.58603068 ],
+					[ -122.6001269, 45.58603548 ],
+					[ -122.60011994, 45.58604272 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
