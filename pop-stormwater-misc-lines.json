@@ -26233,27 +26233,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.58156694, 45.58402431 ],
-					[ -122.58155971, 45.58402165 ],
-					[ -122.58156259, 45.58401686 ],
-					[ -122.58157039, 45.58402051 ],
-					[ -122.58156694, 45.58402431 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.58017658, 45.58345892 ],
 					[ -122.58017026, 45.58345666 ],
 					[ -122.5801642, 45.5834649 ],
