@@ -1294,7 +1294,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74549507, 45.63793705 ]
+				"coordinates" : [ -122.7454946, 45.6379372 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -13446,7 +13446,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7454753, 45.63662388 ]
+				"coordinates" : [ -122.74547408, 45.63662523 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42636,7 +42636,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7447329, 45.63756426 ]
+				"coordinates" : [ -122.74473168, 45.63756613 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42650,7 +42650,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74480835, 45.63743062 ]
+				"coordinates" : [ -122.74480843, 45.6374312 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42664,7 +42664,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74528905, 45.63799232 ]
+				"coordinates" : [ -122.74528892, 45.63799264 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42678,7 +42678,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74541835, 45.63806813 ]
+				"coordinates" : [ -122.74541678, 45.63807005 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42692,7 +42692,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74589335, 45.63844654 ]
+				"coordinates" : [ -122.74589289, 45.63844692 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42706,7 +42706,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74618881, 45.6384468 ]
+				"coordinates" : [ -122.74618781, 45.63844889 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42720,7 +42720,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74611275, 45.6385826 ]
+				"coordinates" : [ -122.74611258, 45.63858442 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42734,7 +42734,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74658853, 45.63893005 ]
+				"coordinates" : [ -122.74658771, 45.63893166 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42762,7 +42762,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74680879, 45.63909427 ]
+				"coordinates" : [ -122.74680861, 45.63909457 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -42860,7 +42860,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74543575, 45.63789511 ]
+				"coordinates" : [ -122.74543571, 45.63789527 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
