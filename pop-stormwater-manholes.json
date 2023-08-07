@@ -26081,7 +26081,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74473038, 45.63607496 ]
+				"coordinates" : [ -122.74472762, 45.63607967 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
@@ -26096,9 +26096,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-02-12",
+				"lid_survey_quality_date" : "2023-07-27",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-02-12",
+				"loc_survey_quality_date" : "2023-07-27",
 				"confined_space_id" : ""
 			}
 		},
@@ -26106,24 +26106,24 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.7446874, 45.63572566 ]
+				"coordinates" : [ -122.74469108, 45.63572984 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
+				"lid_elevation_rg" : "32.99",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
 				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
+				"lid_survey_quality_date" : "2023-07-27",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-02-12",
+				"loc_survey_quality_date" : "2023-07-27",
 				"confined_space_id" : ""
 			}
 		},
@@ -26206,11 +26206,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74699557, 45.63723298 ]
+				"coordinates" : [ -122.74699603, 45.63723287 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "34.79",
+				"lid_elevation_rg" : "33.32",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -26221,9 +26221,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2001-02-12",
+				"lid_survey_quality_date" : "2023-07-27",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-02-12",
+				"loc_survey_quality_date" : "2023-07-27",
 				"confined_space_id" : ""
 			}
 		},
@@ -26306,36 +26306,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74656609, 45.63885098 ]
+				"coordinates" : [ -122.74656898, 45.63884923 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "0",
-				"subtype_resolved" : "STS Manhole",
-				"owner_cd_resolved" : "",
-				"loc_survey_quality_cd_resolved" : "Surveyed",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"confined_space_cd_resolved" : "Not Evaluated",
-				"lid_survey_quality_cd_resolved" : "",
-				"diameter_cd_resolved" : "",
-				"sewer_type_cd_resolved" : "Storm",
-				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "1999-11-30",
-				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2001-02-12",
-				"confined_space_id" : ""
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.74596095, 45.63840057 ]
-			},
-			"properties" : {
-				"flow_elevation_rg" : "",
-				"lid_elevation_rg" : "28.76",
+				"lid_elevation_rg" : "28.84",
 				"subtype_resolved" : "STS Manhole",
 				"owner_cd_resolved" : "",
 				"loc_survey_quality_cd_resolved" : "Surveyed",
@@ -26346,9 +26321,9 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2009-10-29",
+				"lid_survey_quality_date" : "2023-07-27",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-10-29",
+				"loc_survey_quality_date" : "2023-07-27",
 				"confined_space_id" : ""
 			}
 		},
@@ -26356,7 +26331,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74535142, 45.63794903 ]
+				"coordinates" : [ -122.74596088, 45.6384008 ]
 			},
 			"properties" : {
 				"flow_elevation_rg" : "",
@@ -26371,9 +26346,34 @@
 				"diameter_cd_resolved" : "",
 				"sewer_type_cd_resolved" : "Storm",
 				"flow_survey_quality_cd_resolved" : "",
-				"lid_survey_quality_date" : "2009-10-29",
+				"lid_survey_quality_date" : "2023-07-27",
 				"flow_survey_quality_rev_date" : "",
-				"loc_survey_quality_date" : "2009-10-29",
+				"loc_survey_quality_date" : "2023-07-27",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74535138, 45.63794919 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "",
+				"lid_elevation_rg" : "28.72",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Evaluated",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "",
+				"lid_survey_quality_date" : "2023-07-27",
+				"flow_survey_quality_rev_date" : "",
+				"loc_survey_quality_date" : "2023-07-27",
 				"confined_space_id" : ""
 			}
 		},
