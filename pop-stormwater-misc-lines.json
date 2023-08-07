@@ -3510,237 +3510,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.74767485, 45.63777206 ],
-					[ -122.74768592, 45.63777986 ],
-					[ -122.74769203, 45.63777586 ],
-					[ -122.74768116, 45.63776805 ],
-					[ -122.74767485, 45.63777206 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74753073, 45.63766527 ],
-					[ -122.74754106, 45.63767306 ],
-					[ -122.7475472, 45.63766901 ],
-					[ -122.74753669, 45.6376613 ],
-					[ -122.74753073, 45.63766527 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74738931, 45.63756255 ],
-					[ -122.74739861, 45.63756985 ],
-					[ -122.74740538, 45.63756599 ],
-					[ -122.74739534, 45.6375583 ],
-					[ -122.74738931, 45.63756255 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74725312, 45.63745376 ],
-					[ -122.74724769, 45.63745831 ],
-					[ -122.7472581, 45.63746564 ],
-					[ -122.74726395, 45.63746137 ],
-					[ -122.74725312, 45.63745376 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74710864, 45.63734798 ],
-					[ -122.74710343, 45.63735217 ],
-					[ -122.74711327, 45.63735967 ],
-					[ -122.74711928, 45.63735575 ],
-					[ -122.74710864, 45.63734798 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74696688, 45.63724357 ],
-					[ -122.74696073, 45.63724718 ],
-					[ -122.74697022, 45.63725557 ],
-					[ -122.74697683, 45.63725167 ],
-					[ -122.74696688, 45.63724357 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74682396, 45.63713894 ],
-					[ -122.74681813, 45.63714347 ],
-					[ -122.74682833, 45.63715063 ],
-					[ -122.74683449, 45.6371466 ],
-					[ -122.74682396, 45.63713894 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74667988, 45.63703238 ],
-					[ -122.74667448, 45.63703705 ],
-					[ -122.74668399, 45.63704414 ],
-					[ -122.74669029, 45.63704052 ],
-					[ -122.74667988, 45.63703238 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.7465361, 45.63692666 ],
-					[ -122.74652927, 45.63693067 ],
-					[ -122.74654007, 45.63693855 ],
-					[ -122.74654634, 45.63693459 ],
-					[ -122.7465361, 45.63692666 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74639217, 45.63682046 ],
-					[ -122.74638694, 45.63682471 ],
-					[ -122.74639686, 45.63683222 ],
-					[ -122.74640267, 45.6368281 ],
-					[ -122.74639217, 45.63682046 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74625074, 45.63671706 ],
-					[ -122.74624562, 45.6367211 ],
-					[ -122.74625478, 45.63672864 ],
-					[ -122.7462613, 45.63672496 ],
-					[ -122.74625074, 45.63671706 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.74736294, 45.63930036 ],
 					[ -122.7473558, 45.63929515 ],
 					[ -122.74736514, 45.63928846 ],
@@ -4098,153 +3867,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.74496035, 45.63774744 ],
-					[ -122.7449507, 45.63775389 ],
-					[ -122.74494334, 45.63774832 ],
-					[ -122.74495294, 45.63774205 ],
-					[ -122.74496035, 45.63774744 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74518799, 45.63791498 ],
-					[ -122.74517809, 45.63792127 ],
-					[ -122.74517078, 45.637916 ],
-					[ -122.74518053, 45.63790935 ],
-					[ -122.74518799, 45.63791498 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74542097, 45.63808626 ],
-					[ -122.74541109, 45.63809271 ],
-					[ -122.74540347, 45.63808724 ],
-					[ -122.74541343, 45.63808063 ],
-					[ -122.74542097, 45.63808626 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74565123, 45.63825594 ],
-					[ -122.74564158, 45.63826243 ],
-					[ -122.74563419, 45.63825688 ],
-					[ -122.74564391, 45.63825044 ],
-					[ -122.74565123, 45.63825594 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74588131, 45.63842523 ],
-					[ -122.74587124, 45.63843176 ],
-					[ -122.74586416, 45.63842627 ],
-					[ -122.74587369, 45.63841998 ],
-					[ -122.74588131, 45.63842523 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74611602, 45.63859803 ],
-					[ -122.74610582, 45.63860453 ],
-					[ -122.74609828, 45.63859899 ],
-					[ -122.74610823, 45.63859258 ],
-					[ -122.74611602, 45.63859803 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74634747, 45.63876873 ],
-					[ -122.74633774, 45.63877507 ],
-					[ -122.7463304, 45.63876987 ],
-					[ -122.74634033, 45.63876333 ],
-					[ -122.74634747, 45.63876873 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.74666503, 45.63878551 ],
 					[ -122.7466748, 45.63877897 ],
 					[ -122.74668214, 45.63878466 ],
@@ -4271,342 +3893,6 @@
 					[ -122.74656673, 45.63869957 ],
 					[ -122.74655705, 45.63870601 ],
 					[ -122.74654965, 45.63870042 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.7464349, 45.63861581 ],
-					[ -122.74644453, 45.63860936 ],
-					[ -122.74645185, 45.63861461 ],
-					[ -122.74644247, 45.63862112 ],
-					[ -122.7464349, 45.63861581 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.7463196, 45.6385307 ],
-					[ -122.74632949, 45.63852452 ],
-					[ -122.74633681, 45.63852994 ],
-					[ -122.74632683, 45.63853653 ],
-					[ -122.7463196, 45.6385307 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74620635, 45.63844775 ],
-					[ -122.74621624, 45.63844111 ],
-					[ -122.74622392, 45.63844659 ],
-					[ -122.74621426, 45.63845313 ],
-					[ -122.74620635, 45.63844775 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74608677, 45.6383595 ],
-					[ -122.74609629, 45.63835271 ],
-					[ -122.74610368, 45.63835829 ],
-					[ -122.74609402, 45.63836496 ],
-					[ -122.74608677, 45.6383595 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74585535, 45.63818885 ],
-					[ -122.74586526, 45.63818219 ],
-					[ -122.74587262, 45.63818775 ],
-					[ -122.74586292, 45.63819443 ],
-					[ -122.74585535, 45.63818885 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74573968, 45.6381036 ],
-					[ -122.74574976, 45.63809714 ],
-					[ -122.74575626, 45.63810306 ],
-					[ -122.74574724, 45.63810923 ],
-					[ -122.74573968, 45.6381036 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74562515, 45.63801924 ],
-					[ -122.74563505, 45.63801276 ],
-					[ -122.74564246, 45.63801833 ],
-					[ -122.7456326, 45.63802488 ],
-					[ -122.74562515, 45.63801924 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74551205, 45.63793646 ],
-					[ -122.74552243, 45.63792984 ],
-					[ -122.7455295, 45.63793545 ],
-					[ -122.74551981, 45.63794191 ],
-					[ -122.74551205, 45.63793646 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74539353, 45.63784886 ],
-					[ -122.7454031, 45.63784237 ],
-					[ -122.74541101, 45.63784779 ],
-					[ -122.74540103, 45.63785444 ],
-					[ -122.74539353, 45.63784886 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74528613, 45.63776998 ],
-					[ -122.74527875, 45.63776455 ],
-					[ -122.74528848, 45.63775786 ],
-					[ -122.74529607, 45.637763 ],
-					[ -122.74528613, 45.63776998 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74504711, 45.63759364 ],
-					[ -122.74505449, 45.6375991 ],
-					[ -122.74506474, 45.63759274 ],
-					[ -122.74505767, 45.63758764 ],
-					[ -122.74504711, 45.63759364 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74472507, 45.63757349 ],
-					[ -122.74471594, 45.63757995 ],
-					[ -122.74472236, 45.63758519 ],
-					[ -122.74473213, 45.63757873 ],
-					[ -122.74472507, 45.63757349 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.7449381, 45.63749999 ],
-					[ -122.74492854, 45.6375067 ],
-					[ -122.74493607, 45.63751209 ],
-					[ -122.7449458, 45.63750555 ],
-					[ -122.7449381, 45.63749999 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74656713, 45.63893071 ],
-					[ -122.74655785, 45.63893698 ],
-					[ -122.74656466, 45.63894252 ],
-					[ -122.74657443, 45.63893608 ],
-					[ -122.74656713, 45.63893071 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74700982, 45.63903949 ],
-					[ -122.74701709, 45.63904469 ],
-					[ -122.74702731, 45.63903861 ],
-					[ -122.74702014, 45.63903343 ],
-					[ -122.74700982, 45.63903949 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74680148, 45.639117 ],
-					[ -122.74681135, 45.63911029 ],
-					[ -122.74680387, 45.63910512 ],
-					[ -122.74679456, 45.63911142 ],
-					[ -122.74680148, 45.639117 ]
 				]
 			},
 			"properties" : {
@@ -46194,69 +45480,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.74810818, 45.63808245 ],
-					[ -122.74810223, 45.63808668 ],
-					[ -122.74811244, 45.63809458 ],
-					[ -122.74811872, 45.63809058 ],
-					[ -122.74810818, 45.63808245 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74822655, 45.63817165 ],
-					[ -122.74822066, 45.63817554 ],
-					[ -122.74823112, 45.63818335 ],
-					[ -122.7482371, 45.63817967 ],
-					[ -122.74822655, 45.63817165 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
-					[ -122.74796612, 45.63797769 ],
-					[ -122.74796072, 45.637982 ],
-					[ -122.74796989, 45.63798958 ],
-					[ -122.747977, 45.63798553 ],
-					[ -122.74796612, 45.63797769 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "CONCRETE EDGE",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Terminal 6",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.746904, 45.63896179 ],
 					[ -122.74691387, 45.63895548 ],
 					[ -122.74690675, 45.63895003 ],
@@ -48528,6 +47751,844 @@
 				"subtype_resolved" : "STS Misc Line",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74702761, 45.63903873 ],
+					[ -122.74701997, 45.63903329 ],
+					[ -122.7470096, 45.63903964 ],
+					[ -122.7470161, 45.63904449 ],
+					[ -122.7470189, 45.63904414 ],
+					[ -122.74702761, 45.63903873 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74644217, 45.63862119 ],
+					[ -122.74645171, 45.63861489 ],
+					[ -122.74644453, 45.63860924 ],
+					[ -122.74643451, 45.63861595 ],
+					[ -122.74644217, 45.63862119 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.7463264, 45.63853608 ],
+					[ -122.74633623, 45.63852978 ],
+					[ -122.7463299, 45.6385248 ],
+					[ -122.74632795, 45.63852503 ],
+					[ -122.74631917, 45.63853081 ],
+					[ -122.7463264, 45.63853608 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74621392, 45.63845305 ],
+					[ -122.74622365, 45.63844664 ],
+					[ -122.74621639, 45.63844141 ],
+					[ -122.7462074, 45.63844698 ],
+					[ -122.74620717, 45.63844851 ],
+					[ -122.74621392, 45.63845305 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74610838, 45.63859287 ],
+					[ -122.74609848, 45.63859905 ],
+					[ -122.74610479, 45.63860405 ],
+					[ -122.74610651, 45.63860367 ],
+					[ -122.74611495, 45.63859829 ],
+					[ -122.74611474, 45.6385974 ],
+					[ -122.74610838, 45.63859287 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74633997, 45.63876345 ],
+					[ -122.74633056, 45.63876975 ],
+					[ -122.74633668, 45.63877474 ],
+					[ -122.74633765, 45.63877458 ],
+					[ -122.74634677, 45.6387693 ],
+					[ -122.74634689, 45.63876856 ],
+					[ -122.74633997, 45.63876345 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74656678, 45.63893121 ],
+					[ -122.74655777, 45.63893736 ],
+					[ -122.74656412, 45.63894247 ],
+					[ -122.74656629, 45.63894192 ],
+					[ -122.74657444, 45.6389363 ],
+					[ -122.74656678, 45.63893121 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74680382, 45.63910538 ],
+					[ -122.74679458, 45.63911181 ],
+					[ -122.74680117, 45.63911683 ],
+					[ -122.74681117, 45.63911023 ],
+					[ -122.74680382, 45.63910538 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74483005, 45.63742391 ],
+					[ -122.74482279, 45.63742867 ],
+					[ -122.74482965, 45.63743371 ],
+					[ -122.74483719, 45.63742938 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74493803, 45.6375004 ],
+					[ -122.74492848, 45.63750689 ],
+					[ -122.74493598, 45.63751249 ],
+					[ -122.74494566, 45.63750552 ],
+					[ -122.74493803, 45.6375004 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74505699, 45.63758744 ],
+					[ -122.74504722, 45.63759395 ],
+					[ -122.7450545, 45.63759938 ],
+					[ -122.7450645, 45.63759291 ],
+					[ -122.74505699, 45.63758744 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74528861, 45.63775789 ],
+					[ -122.74528014, 45.63776395 ],
+					[ -122.74527864, 45.63776471 ],
+					[ -122.74528625, 45.63776994 ],
+					[ -122.74529614, 45.63776348 ],
+					[ -122.74528861, 45.63775789 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74540337, 45.63784267 ],
+					[ -122.7453935, 45.63784923 ],
+					[ -122.74540103, 45.63785477 ],
+					[ -122.74541077, 45.637848 ],
+					[ -122.74540337, 45.63784267 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74552079, 45.63793101 ],
+					[ -122.74551239, 45.63793685 ],
+					[ -122.74551933, 45.63794228 ],
+					[ -122.74552917, 45.63793584 ],
+					[ -122.74552325, 45.63793087 ],
+					[ -122.74552079, 45.63793101 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74563501, 45.63801303 ],
+					[ -122.74562526, 45.63801953 ],
+					[ -122.74563233, 45.63802495 ],
+					[ -122.74564253, 45.63801855 ],
+					[ -122.74563501, 45.63801303 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74574999, 45.63809756 ],
+					[ -122.74574072, 45.6381036 ],
+					[ -122.74574726, 45.63810944 ],
+					[ -122.74575695, 45.63810286 ],
+					[ -122.74574999, 45.63809756 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74586509, 45.63818246 ],
+					[ -122.74585562, 45.63818906 ],
+					[ -122.74586253, 45.63819449 ],
+					[ -122.74587265, 45.63818792 ],
+					[ -122.74586509, 45.63818246 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74609652, 45.63835304 ],
+					[ -122.74608682, 45.63835969 ],
+					[ -122.7460939, 45.63836533 ],
+					[ -122.74610392, 45.6383585 ],
+					[ -122.74609652, 45.63835304 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74587396, 45.63842049 ],
+					[ -122.74586482, 45.63842692 ],
+					[ -122.74587113, 45.63843186 ],
+					[ -122.74588115, 45.63842564 ],
+					[ -122.74587396, 45.63842049 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74564142, 45.63826249 ],
+					[ -122.74565075, 45.6382561 ],
+					[ -122.745644, 45.63825077 ],
+					[ -122.74563425, 45.63825726 ],
+					[ -122.74564142, 45.63826249 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74541103, 45.63809262 ],
+					[ -122.74542032, 45.63808649 ],
+					[ -122.7454133, 45.63808104 ],
+					[ -122.74540421, 45.63808719 ],
+					[ -122.74541103, 45.63809262 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74517803, 45.63792121 ],
+					[ -122.74518742, 45.63791539 ],
+					[ -122.7451808, 45.63791004 ],
+					[ -122.74517947, 45.63791048 ],
+					[ -122.74517085, 45.63791616 ],
+					[ -122.74517803, 45.63792121 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74495034, 45.63775378 ],
+					[ -122.74496034, 45.63774751 ],
+					[ -122.74495455, 45.6377434 ],
+					[ -122.74494327, 45.63774885 ],
+					[ -122.74495034, 45.63775378 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74472245, 45.63758553 ],
+					[ -122.74473209, 45.63757943 ],
+					[ -122.74472504, 45.63757374 ],
+					[ -122.74471542, 45.63758038 ],
+					[ -122.74472245, 45.63758553 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74639243, 45.6368206 ],
+					[ -122.7463871, 45.63682439 ],
+					[ -122.74639713, 45.63683197 ],
+					[ -122.74640286, 45.63682856 ],
+					[ -122.74639243, 45.6368206 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74653633, 45.63692688 ],
+					[ -122.74653184, 45.63692987 ],
+					[ -122.74653192, 45.63693259 ],
+					[ -122.74654001, 45.63693871 ],
+					[ -122.7465464, 45.63693489 ],
+					[ -122.74653633, 45.63692688 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74667969, 45.63703232 ],
+					[ -122.7466751, 45.6370359 ],
+					[ -122.74667484, 45.63703774 ],
+					[ -122.74668316, 45.63704437 ],
+					[ -122.74668581, 45.63704326 ],
+					[ -122.74669044, 45.63704054 ],
+					[ -122.74667969, 45.63703232 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74682404, 45.63713891 ],
+					[ -122.7468181, 45.63714311 ],
+					[ -122.74682864, 45.63715092 ],
+					[ -122.74683441, 45.63714685 ],
+					[ -122.74682404, 45.63713891 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74696673, 45.63724384 ],
+					[ -122.74696141, 45.63724697 ],
+					[ -122.74696077, 45.63724779 ],
+					[ -122.74697006, 45.63725572 ],
+					[ -122.74697678, 45.6372517 ],
+					[ -122.74696673, 45.63724384 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74710858, 45.63734798 ],
+					[ -122.74710352, 45.63735252 ],
+					[ -122.74711314, 45.6373599 ],
+					[ -122.74711909, 45.63735572 ],
+					[ -122.74710858, 45.63734798 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.7472533, 45.6374543 ],
+					[ -122.74724796, 45.63745812 ],
+					[ -122.74724819, 45.63745884 ],
+					[ -122.74725715, 45.63746527 ],
+					[ -122.74725946, 45.63746451 ],
+					[ -122.7472641, 45.63746154 ],
+					[ -122.7472533, 45.6374543 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74739545, 45.63755855 ],
+					[ -122.74739165, 45.6375604 ],
+					[ -122.74738959, 45.63756257 ],
+					[ -122.74739918, 45.63757004 ],
+					[ -122.74740523, 45.63756612 ],
+					[ -122.74739545, 45.63755855 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74753663, 45.63766153 ],
+					[ -122.74753121, 45.63766506 ],
+					[ -122.74753183, 45.63766629 ],
+					[ -122.74754132, 45.63767317 ],
+					[ -122.74754651, 45.63766967 ],
+					[ -122.74753663, 45.63766153 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74768111, 45.63776828 ],
+					[ -122.74767545, 45.63777303 ],
+					[ -122.7476861, 45.63778049 ],
+					[ -122.74769241, 45.63777594 ],
+					[ -122.74768111, 45.63776828 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74782325, 45.63787277 ],
+					[ -122.74781777, 45.63787672 ],
+					[ -122.74782781, 45.63788477 ],
+					[ -122.74783382, 45.63788046 ],
+					[ -122.74782325, 45.63787277 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74796649, 45.63797778 ],
+					[ -122.74796111, 45.63798089 ],
+					[ -122.74796047, 45.63798268 ],
+					[ -122.74796997, 45.63798984 ],
+					[ -122.74797641, 45.63798562 ],
+					[ -122.74796649, 45.63797778 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74810825, 45.6380825 ],
+					[ -122.74810194, 45.63808681 ],
+					[ -122.7481123, 45.63809472 ],
+					[ -122.74811873, 45.63809035 ],
+					[ -122.74810825, 45.6380825 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74822663, 45.63817167 ],
+					[ -122.74822054, 45.63817566 ],
+					[ -122.7482303, 45.63818345 ],
+					[ -122.74823659, 45.63817954 ],
+					[ -122.74822663, 45.63817167 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.74625084, 45.63671719 ],
+					[ -122.74624524, 45.63672117 ],
+					[ -122.7462551, 45.63672904 ],
+					[ -122.74626144, 45.63672515 ],
+					[ -122.74625084, 45.63671719 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : " ",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
