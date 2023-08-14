@@ -42031,6 +42031,31 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ -122.60161554, 45.58776347 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "15.53",
+				"lid_elevation_rg" : "22.88",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Surveyed",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Not Confined",
+				"lid_survey_quality_cd_resolved" : "Surveyed",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2022-12-14",
+				"flow_survey_quality_rev_date" : "2001-07-17",
+				"loc_survey_quality_date" : "2022-12-14",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ -122.60925897, 45.57816072 ]
 			},
 			"properties" : {
@@ -70099,6 +70124,56 @@
 				"lid_survey_quality_date" : "2022-12-23",
 				"flow_survey_quality_rev_date" : "",
 				"loc_survey_quality_date" : "2022-12-23",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96018785, 45.54876965 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "186.62",
+				"lid_elevation_rg" : "193.77",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"lid_survey_quality_date" : "2023-02-16",
+				"flow_survey_quality_rev_date" : "2023-02-16",
+				"loc_survey_quality_date" : "2023-02-16",
+				"confined_space_id" : ""
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95851026, 45.54997763 ]
+			},
+			"properties" : {
+				"flow_elevation_rg" : "190.03",
+				"lid_elevation_rg" : "195.18",
+				"subtype_resolved" : "STS Manhole",
+				"owner_cd_resolved" : "Port of Portland",
+				"loc_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"confined_space_cd_resolved" : "Confined Space",
+				"lid_survey_quality_cd_resolved" : "Drawing or Record Drawing",
+				"diameter_cd_resolved" : "48",
+				"sewer_type_cd_resolved" : "Storm",
+				"flow_survey_quality_cd_resolved" : "Surveyed",
+				"lid_survey_quality_date" : "2023-02-16",
+				"flow_survey_quality_rev_date" : "2002-12-07",
+				"loc_survey_quality_date" : "2023-02-16",
 				"confined_space_id" : ""
 			}
 		}
