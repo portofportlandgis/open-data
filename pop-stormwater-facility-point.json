@@ -11,7 +11,8 @@
 			"properties" : {
 				"install_date" : "20080101",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -23,7 +24,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -35,7 +37,8 @@
 			"properties" : {
 				"install_date" : "20170522",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -47,7 +50,8 @@
 			"properties" : {
 				"install_date" : "20170522",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -59,7 +63,8 @@
 			"properties" : {
 				"install_date" : "20170522",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -71,7 +76,8 @@
 			"properties" : {
 				"install_date" : "20170522",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -83,7 +89,8 @@
 			"properties" : {
 				"install_date" : "20150813",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -95,7 +102,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -107,7 +115,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -119,7 +128,8 @@
 			"properties" : {
 				"install_date" : "20070727",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -131,7 +141,8 @@
 			"properties" : {
 				"install_date" : "20010710",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -143,7 +154,8 @@
 			"properties" : {
 				"install_date" : "20010815",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -155,7 +167,8 @@
 			"properties" : {
 				"install_date" : "19970101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -167,7 +180,8 @@
 			"properties" : {
 				"install_date" : "19870101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -179,7 +193,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Wet/Dry Basin",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -191,7 +206,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -203,7 +219,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -215,7 +232,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -227,7 +245,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -239,7 +258,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -251,7 +271,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -263,7 +284,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -275,7 +297,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -287,7 +310,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -299,7 +323,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -311,7 +336,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -323,7 +349,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -335,7 +362,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -347,7 +375,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -359,7 +388,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -371,7 +401,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -383,7 +414,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -395,7 +427,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -407,7 +440,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -419,7 +453,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -431,7 +466,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -443,7 +479,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -455,7 +492,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -467,7 +505,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -479,7 +518,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -491,7 +531,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -503,7 +544,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -515,7 +557,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -527,7 +570,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -539,7 +583,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -551,7 +596,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -563,7 +609,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -575,7 +622,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -587,7 +635,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -599,7 +648,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -611,7 +661,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -623,7 +674,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -635,7 +687,8 @@
 			"properties" : {
 				"install_date" : "20170501",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -647,7 +700,8 @@
 			"properties" : {
 				"install_date" : "20170501",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -659,7 +713,8 @@
 			"properties" : {
 				"install_date" : "20170501",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -671,7 +726,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -683,7 +739,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -695,7 +752,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -707,7 +765,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -719,7 +778,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -731,7 +791,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -743,7 +804,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -755,7 +817,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -767,7 +830,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -779,7 +843,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -791,7 +856,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -803,7 +869,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -815,7 +882,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -827,7 +895,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -839,7 +908,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -851,7 +921,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -863,7 +934,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -875,7 +947,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -887,7 +960,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -899,7 +973,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -911,7 +986,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -923,7 +999,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -935,7 +1012,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -947,7 +1025,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -959,7 +1038,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -971,7 +1051,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -983,7 +1064,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -995,7 +1077,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1007,7 +1090,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1019,7 +1103,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1031,7 +1116,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1043,7 +1129,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1055,7 +1142,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1067,7 +1155,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Wet/Dry Basin",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1079,7 +1168,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1091,7 +1181,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1103,7 +1194,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1115,7 +1207,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1127,7 +1220,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1139,7 +1233,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1151,7 +1246,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1163,7 +1259,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1175,7 +1272,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1187,7 +1285,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1199,7 +1298,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1211,7 +1311,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1223,7 +1324,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1235,7 +1337,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1247,7 +1350,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1259,7 +1363,8 @@
 			"properties" : {
 				"install_date" : "20150401",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1271,7 +1376,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1283,7 +1389,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1295,7 +1402,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1307,7 +1415,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1319,7 +1428,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1331,7 +1441,8 @@
 			"properties" : {
 				"install_date" : "20050101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1343,7 +1454,8 @@
 			"properties" : {
 				"install_date" : "20050101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1355,7 +1467,8 @@
 			"properties" : {
 				"install_date" : "20050101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1367,7 +1480,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1379,7 +1493,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1391,7 +1506,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Swan Island Industrial Park"
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1403,7 +1519,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Swan Island Industrial Park"
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1415,7 +1532,8 @@
 			"properties" : {
 				"install_date" : "20070601",
 				"subtype_resolved" : "Wet/Dry Basin",
-				"facility_cd_resolved" : "Swan Island Industrial Park"
+				"facility_cd_resolved" : "Swan Island Industrial Park",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1427,7 +1545,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1439,7 +1558,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1451,7 +1571,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1463,7 +1584,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1475,7 +1597,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1487,7 +1610,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1499,7 +1623,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1511,7 +1636,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Wet/Dry Basin",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1523,7 +1649,8 @@
 			"properties" : {
 				"install_date" : "19990101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1535,7 +1662,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1547,7 +1675,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1559,7 +1688,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1571,7 +1701,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1583,7 +1714,8 @@
 			"properties" : {
 				"install_date" : "19980101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1595,7 +1727,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1607,7 +1740,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1619,7 +1753,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1631,7 +1766,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1643,7 +1779,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1655,7 +1792,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1667,7 +1805,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1679,7 +1818,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1691,7 +1831,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1703,7 +1844,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1715,7 +1857,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Not Applicable"
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1727,7 +1870,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1739,7 +1883,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1751,7 +1896,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1763,7 +1909,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1775,7 +1922,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1787,7 +1935,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1799,7 +1948,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1811,7 +1961,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1823,7 +1974,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1835,7 +1987,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1847,7 +2000,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1859,7 +2013,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1871,7 +2026,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1883,7 +2039,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1895,7 +2052,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -1907,7 +2065,8 @@
 			"properties" : {
 				"install_date" : "20180901",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1919,7 +2078,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -1931,7 +2091,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1943,7 +2104,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1955,7 +2117,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1967,7 +2130,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1979,7 +2143,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -1991,7 +2156,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2003,7 +2169,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2015,7 +2182,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2027,7 +2195,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2039,7 +2208,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2051,7 +2221,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2063,7 +2234,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2075,7 +2247,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2087,7 +2260,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2099,7 +2273,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2111,7 +2286,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Subsurface SW Filter",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2123,7 +2299,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2135,7 +2312,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2147,7 +2325,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2159,7 +2338,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2171,7 +2351,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2183,7 +2364,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2195,7 +2377,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2207,7 +2390,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2219,7 +2403,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2231,7 +2416,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2243,7 +2429,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2255,7 +2442,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2267,7 +2455,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Other",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2279,7 +2468,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2291,7 +2481,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2303,7 +2494,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2315,7 +2507,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2327,7 +2520,8 @@
 			"properties" : {
 				"install_date" : "20190101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2339,7 +2533,8 @@
 			"properties" : {
 				"install_date" : "20190101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2351,7 +2546,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2363,7 +2559,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2375,7 +2572,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2387,7 +2585,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2399,7 +2598,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2411,7 +2611,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2423,7 +2624,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2435,7 +2637,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2447,7 +2650,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2459,7 +2663,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Washington Co."
 			}
 		},
 		{
@@ -2471,7 +2676,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2483,7 +2689,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2495,7 +2702,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2507,7 +2715,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2519,7 +2728,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2531,7 +2741,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2543,7 +2754,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2555,7 +2767,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2567,7 +2780,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2579,7 +2793,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2591,7 +2806,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2603,7 +2819,8 @@
 			"properties" : {
 				"install_date" : "19960101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2615,7 +2832,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2627,7 +2845,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2639,7 +2858,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2651,7 +2871,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2663,7 +2884,8 @@
 			"properties" : {
 				"install_date" : "20150101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -2675,7 +2897,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Washington Co."
 			}
 		},
 		{
@@ -2687,7 +2910,8 @@
 			"properties" : {
 				"install_date" : "20040101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -2699,7 +2923,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2711,7 +2936,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2723,7 +2949,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2735,7 +2962,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2747,7 +2975,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2759,7 +2988,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2771,7 +3001,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2783,7 +3014,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2795,7 +3027,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2807,7 +3040,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2819,7 +3053,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2831,7 +3066,8 @@
 			"properties" : {
 				"install_date" : "20120101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2843,7 +3079,8 @@
 			"properties" : {
 				"install_date" : "20120101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2855,7 +3092,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2867,7 +3105,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2879,7 +3118,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2891,7 +3131,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2903,7 +3144,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2915,7 +3157,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2927,7 +3170,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2939,7 +3183,8 @@
 			"properties" : {
 				"install_date" : "20190101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2951,7 +3196,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2963,7 +3209,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2975,7 +3222,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2987,7 +3235,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -2999,7 +3248,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3011,7 +3261,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3023,7 +3274,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3035,7 +3287,8 @@
 			"properties" : {
 				"install_date" : "20140101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3047,7 +3300,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3059,7 +3313,8 @@
 			"properties" : {
 				"install_date" : "20180801",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3071,7 +3326,8 @@
 			"properties" : {
 				"install_date" : "20060101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3083,7 +3339,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3095,7 +3352,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3107,7 +3365,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3119,7 +3378,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3131,7 +3391,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3143,7 +3404,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3155,7 +3417,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3167,7 +3430,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3179,7 +3443,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3191,7 +3456,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3203,7 +3469,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3215,7 +3482,8 @@
 			"properties" : {
 				"install_date" : "20160101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : "Tenant"
 			}
 		},
 		{
@@ -3227,7 +3495,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3239,7 +3508,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3251,7 +3521,8 @@
 			"properties" : {
 				"install_date" : "20120101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3263,7 +3534,8 @@
 			"properties" : {
 				"install_date" : "20120101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3275,7 +3547,8 @@
 			"properties" : {
 				"install_date" : "20120101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3287,7 +3560,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3299,7 +3573,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3311,7 +3586,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3323,7 +3599,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3335,7 +3612,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3343,7 +3621,8 @@
 			"geometry" : null,
 			"properties" : {
 				"install_date" : "",
-				"facility_cd_resolved" : "Not Applicable"
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3355,7 +3634,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Center"
+				"facility_cd_resolved" : "Portland International Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3367,7 +3647,8 @@
 			"properties" : {
 				"install_date" : "20080101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3379,7 +3660,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3391,7 +3673,8 @@
 			"properties" : {
 				"install_date" : "20080101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3403,7 +3686,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3415,7 +3699,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3427,7 +3712,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3439,7 +3725,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3451,7 +3738,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3463,7 +3751,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3475,7 +3764,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3487,7 +3777,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3499,7 +3790,8 @@
 			"properties" : {
 				"install_date" : "20090101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Cascade Station"
+				"facility_cd_resolved" : "Cascade Station",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3511,7 +3803,8 @@
 			"properties" : {
 				"install_date" : "20170101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3523,7 +3816,8 @@
 			"properties" : {
 				"install_date" : "20170101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3535,7 +3829,8 @@
 			"properties" : {
 				"install_date" : "20170101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3547,7 +3842,8 @@
 			"properties" : {
 				"install_date" : "20080101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -3559,7 +3855,8 @@
 			"properties" : {
 				"install_date" : "20170101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3571,7 +3868,8 @@
 			"properties" : {
 				"install_date" : "20170101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3583,7 +3881,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3595,7 +3894,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3607,7 +3907,8 @@
 			"properties" : {
 				"install_date" : "20110101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3619,7 +3920,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3631,7 +3933,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 5"
+				"facility_cd_resolved" : "Terminal 5",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3643,7 +3946,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3655,7 +3959,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3667,7 +3972,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3679,7 +3985,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3691,7 +3998,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3703,7 +4011,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3715,7 +4024,8 @@
 			"properties" : {
 				"install_date" : "20050101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3727,7 +4037,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3739,7 +4050,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3751,7 +4063,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 4"
+				"facility_cd_resolved" : "Terminal 4",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3763,7 +4076,8 @@
 			"properties" : {
 				"install_date" : "20050101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3775,7 +4089,8 @@
 			"properties" : {
 				"install_date" : "20030101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3787,7 +4102,8 @@
 			"properties" : {
 				"install_date" : "20030101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3799,7 +4115,8 @@
 			"properties" : {
 				"install_date" : "20030101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Rivergate Industrial District"
+				"facility_cd_resolved" : "Rivergate Industrial District",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3811,7 +4128,8 @@
 			"properties" : {
 				"install_date" : "20100101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3823,7 +4141,8 @@
 			"properties" : {
 				"install_date" : "20100101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3835,7 +4154,8 @@
 			"properties" : {
 				"install_date" : "20100101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3847,7 +4167,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Terminal 6"
+				"facility_cd_resolved" : "Terminal 6",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3859,7 +4180,8 @@
 			"properties" : {
 				"install_date" : "20000101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3871,7 +4193,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3883,7 +4206,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Airtrans Center"
+				"facility_cd_resolved" : "Airtrans Center",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3895,7 +4219,8 @@
 			"properties" : {
 				"install_date" : "19810101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3907,7 +4232,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3919,7 +4245,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3931,7 +4258,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3943,7 +4271,8 @@
 			"properties" : {
 				"install_date" : "20020101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3955,7 +4284,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3967,7 +4297,8 @@
 			"properties" : {
 				"install_date" : "20070101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3979,7 +4310,8 @@
 			"properties" : {
 				"install_date" : "19880101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -3991,7 +4323,8 @@
 			"properties" : {
 				"install_date" : "19960101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4003,7 +4336,8 @@
 			"properties" : {
 				"install_date" : "19930101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4015,7 +4349,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4027,7 +4362,8 @@
 			"properties" : {
 				"install_date" : "19940101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4039,7 +4375,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4051,7 +4388,8 @@
 			"properties" : {
 				"install_date" : "",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4063,7 +4401,8 @@
 			"properties" : {
 				"install_date" : "19820101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland International Airport"
+				"facility_cd_resolved" : "Portland International Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4075,7 +4414,8 @@
 			"properties" : {
 				"install_date" : "20030101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Portland Troutdale Airport"
+				"facility_cd_resolved" : "Portland Troutdale Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4087,7 +4427,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Vegetated Stormwater Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : "Port of Portland"
 			}
 		},
 		{
@@ -4099,7 +4440,8 @@
 			"properties" : {
 				"install_date" : "20010101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Hillsboro Airport"
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4111,7 +4453,8 @@
 			"properties" : {
 				"install_date" : "20180101",
 				"subtype_resolved" : "Manufactured SW Facility",
-				"facility_cd_resolved" : "Not Applicable"
+				"facility_cd_resolved" : "Not Applicable",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4123,7 +4466,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : ""
 			}
 		},
 		{
@@ -4135,7 +4479,8 @@
 			"properties" : {
 				"install_date" : "20130101",
 				"subtype_resolved" : "Building BMP",
-				"facility_cd_resolved" : ""
+				"facility_cd_resolved" : "",
+				"owner_resolved" : ""
 			}
 		}
 	]
