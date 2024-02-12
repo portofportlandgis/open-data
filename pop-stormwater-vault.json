@@ -13,8 +13,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -28,8 +27,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Mulino Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -43,8 +41,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Mulino Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Trap"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -58,8 +55,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -73,8 +69,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -88,8 +83,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -103,8 +97,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -118,8 +111,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -133,8 +125,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 2",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -148,8 +139,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -163,8 +153,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -178,8 +167,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -193,8 +181,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -208,8 +195,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -223,8 +209,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -238,8 +223,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Sump Drainage Box"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -253,8 +237,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Sump Drainage Box"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -268,8 +251,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -283,8 +265,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -298,8 +279,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -313,8 +293,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -328,8 +307,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -343,8 +321,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -358,8 +335,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -373,8 +349,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -388,8 +363,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -403,8 +377,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -418,8 +391,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -433,8 +405,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -448,8 +419,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -463,8 +433,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -478,8 +447,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -493,8 +461,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -508,8 +475,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -523,8 +489,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -538,8 +503,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -553,8 +517,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -568,8 +531,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -583,8 +545,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -598,8 +559,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -613,8 +573,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -628,8 +587,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -643,8 +601,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -658,8 +615,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -673,8 +629,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -688,8 +643,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -703,8 +657,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Meter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -718,8 +671,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -733,8 +685,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -748,8 +699,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -763,8 +713,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -778,8 +727,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -793,8 +741,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland Troutdale Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -808,8 +755,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Cascade Station",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -823,8 +769,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -838,8 +783,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -853,8 +797,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -868,8 +811,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -883,8 +825,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -898,8 +839,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -913,8 +853,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -928,8 +867,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -943,8 +881,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -958,8 +895,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -973,8 +909,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -988,8 +923,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1003,8 +937,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1018,8 +951,7 @@
 				"owner_cd_resolved" : "",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1033,8 +965,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1048,8 +979,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1063,8 +993,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1078,8 +1007,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1093,8 +1021,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1108,8 +1035,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Meter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1123,8 +1049,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1138,8 +1063,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1153,8 +1077,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1168,8 +1091,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Portland International Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1183,8 +1105,7 @@
 				"owner_cd_resolved" : "Tenant",
 				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1198,8 +1119,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1213,8 +1133,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1228,8 +1147,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1243,8 +1161,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1258,8 +1175,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1273,8 +1189,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1288,8 +1203,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1303,8 +1217,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1318,8 +1231,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1333,8 +1245,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1348,8 +1259,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1363,8 +1273,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1378,8 +1287,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Meter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1393,8 +1301,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1408,8 +1315,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1423,8 +1329,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Not Applicable",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1438,8 +1343,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Oil Water Separator"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1453,8 +1357,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Cascade Station",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1468,23 +1371,21 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Cascade Station",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74734388, 45.63921065 ]
+				"coordinates" : [ -122.74734448, 45.63921052 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Vault",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1498,23 +1399,21 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Sump Drainage Box"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.74314265, 45.63544537 ]
+				"coordinates" : [ -122.74314236, 45.63544589 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Vault",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 6",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1528,8 +1427,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1543,8 +1441,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Rivergate Industrial District",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Storm Filter"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1558,8 +1455,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Airtrans Center",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1573,8 +1469,7 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 4",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : "Valve"
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		},
 		{
@@ -1588,8 +1483,35 @@
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
 				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm",
-				"vault_use_cd_resolved" : ""
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.7473896, 45.63923199 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.74737309, 45.63924319 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Vault",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 6",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
 			}
 		}
 	]
