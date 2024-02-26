@@ -54368,20 +54368,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.59922895, 45.59352608 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.60078763, 45.59230637 ]
 			},
 			"properties" : {
@@ -54481,20 +54467,6 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ -122.59954755, 45.59274277 ]
-			},
-			"properties" : {
-				"subtype_resolved" : "STS Cleanout",
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Portland International Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.59884455, 45.59326075 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
@@ -68369,6 +68341,34 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ -122.59036986, 45.59186542 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59922902, 45.59352611 ]
+			},
+			"properties" : {
+				"subtype_resolved" : "STS Cleanout",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.59884448, 45.59326083 ]
 			},
 			"properties" : {
 				"subtype_resolved" : "STS Cleanout",
