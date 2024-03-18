@@ -49566,6 +49566,27 @@
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.77559695, 45.6062632 ],
+					[ -122.77559356, 45.60626631 ],
+					[ -122.77558915, 45.60626459 ],
+					[ -122.77559196, 45.60626108 ],
+					[ -122.77559695, 45.6062632 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "EDGE OF GRATE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
 		}
 	]
 }
