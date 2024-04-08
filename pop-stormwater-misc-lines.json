@@ -1577,27 +1577,6 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ -122.60573998, 45.58538357 ],
-					[ -122.60573963, 45.58538858 ],
-					[ -122.60575256, 45.58538889 ],
-					[ -122.6057526, 45.58538366 ],
-					[ -122.60573998, 45.58538357 ]
-				]
-			},
-			"properties" : {
-				"sewer_misc_line_type" : "Concrete Edge",
-				"subtype_resolved" : "STS Misc Line",
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Airtrans Center",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "LineString",
-				"coordinates" : [
 					[ -122.59061179, 45.58910515 ],
 					[ -122.59060795, 45.58911025 ],
 					[ -122.59061863, 45.58911472 ],
@@ -49584,6 +49563,48 @@
 				"subtype_resolved" : "STS Misc Line",
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Terminal 4",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.39929887, 45.55076255 ],
+					[ -122.39929158, 45.55076239 ],
+					[ -122.39929136, 45.55075364 ],
+					[ -122.39929878, 45.55075354 ],
+					[ -122.39929887, 45.55076255 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland Troutdale Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ -122.39930281, 45.55054049 ],
+					[ -122.39931037, 45.55054063 ],
+					[ -122.3993103, 45.55054948 ],
+					[ -122.39930273, 45.55054957 ],
+					[ -122.39930281, 45.55054049 ]
+				]
+			},
+			"properties" : {
+				"sewer_misc_line_type" : "CONCRETE EDGE",
+				"subtype_resolved" : "STS Misc Line",
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Portland Troutdale Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
