@@ -44122,66 +44122,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ -122.752655, 45.63470478 ],
-						[ -122.75294289, 45.63486374 ],
-						[ -122.75297657, 45.63483348 ],
-						[ -122.75549515, 45.6362241 ],
-						[ -122.75548552, 45.63624183 ],
-						[ -122.75546334, 45.63628271 ],
-						[ -122.75536565, 45.63639344 ],
-						[ -122.75558094, 45.63620173 ],
-						[ -122.75506232, 45.63591512 ],
-						[ -122.75287307, 45.63470515 ],
-						[ -122.75268945, 45.63470484 ],
-						[ -122.752655, 45.63470478 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 575,
-				"GISDB.PORT.taxlot_port.AREA" : 19568.58496,
-				"TLID" : "2N1W24    -00400",
-				"PRIMACCNUM" : "R256355",
-				"ALTACCNUM" : "R708886200",
-				"OWNERSORT" : "PORT",
-				"OWNER1" : "PORT OF PORTLAND",
-				"OWNER2" : " ",
-				"OWNERADDR" : "PO BOX 3529",
-				"OWNERADDR2" : " ",
-				"OWNERCITY" : "PORTLAND",
-				"OWNERSTATE" : "OR",
-				"OWNERZIP" : "97208-3529",
-				"SITEADDR" : "7201 WI/ N MARINE DR",
-				"SITECITY" : "PORTLAND",
-				"SITEZIP" : "97203",
-				"LANDVAL" : 151460,
-				"BLDGVAL" : 197900,
-				"TOTALVAL" : 349360,
-				"BLDGSQFT" : 0,
-				"A_T_ACRES" : 0.45,
-				"YEARBUILT" : 0,
-				"PROP_CODE" : "200",
-				"LANDUSE" : "VAC",
-				"TAXCODE" : "393",
-				"SALEDATE" : " ",
-				"SALEPRICE" : 0,
-				"COUNTY" : "M",
-				"X_COORD" : 7625594,
-				"Y_COORD" : 725811,
-				"JURIS_CITY" : "PORTLAND",
-				"GIS_ACRES" : 0.44923288,
-				"STATECLASS" : "200",
-				"ORTAXLOT" : "2602.00N01.00W2400--000000400",
-				"Shape.STArea()" : 19568.5849609375,
-				"FMEAcres" : 0
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ -122.76004882, 45.63867063 ],
 						[ -122.75978303, 45.63892478 ],
 						[ -122.75962158, 45.63876092 ],
@@ -44311,61 +44251,6 @@
 				"ORTAXLOT" : "2602.00N01.00W2400--000001200",
 				"Shape.STArea()" : 5240058.67089844,
 				"FMEAcres" : 120
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.76160283, 45.6402005 ],
-						[ -122.76195134, 45.64042711 ],
-						[ -122.76479328, 45.64227489 ],
-						[ -122.76479638, 45.6422769 ],
-						[ -122.76488797, 45.64224199 ],
-						[ -122.76167583, 45.64015445 ],
-						[ -122.76160283, 45.6402005 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 577,
-				"GISDB.PORT.taxlot_port.AREA" : 28070.08398,
-				"TLID" : "2N1W24    -01300",
-				"PRIMACCNUM" : "R239369",
-				"ALTACCNUM" : "R649767120",
-				"OWNERSORT" : "PORT",
-				"OWNER1" : "PORT OF PORTLAND",
-				"OWNER2" : " ",
-				"OWNERADDR" : "PO BOX 3529",
-				"OWNERADDR2" : " ",
-				"OWNERCITY" : "PORTLAND",
-				"OWNERSTATE" : "OR",
-				"OWNERZIP" : "97208-3529",
-				"SITEADDR" : "N MARINE DR",
-				"SITECITY" : "PORTLAND",
-				"SITEZIP" : "97203",
-				"LANDVAL" : 130370,
-				"BLDGVAL" : 0,
-				"TOTALVAL" : 130370,
-				"BLDGSQFT" : 0,
-				"A_T_ACRES" : 0.64,
-				"YEARBUILT" : 0,
-				"PROP_CODE" : "200",
-				"LANDUSE" : "VAC",
-				"TAXCODE" : "393",
-				"SALEDATE" : " ",
-				"SALEPRICE" : 0,
-				"COUNTY" : "M",
-				"X_COORD" : 7623319,
-				"Y_COORD" : 727985,
-				"JURIS_CITY" : "PORTLAND",
-				"GIS_ACRES" : 0.6444004600000001,
-				"STATECLASS" : "200",
-				"ORTAXLOT" : "2602.00N01.00W2400--000001300",
-				"Shape.STArea()" : 28070.083984375,
-				"FMEAcres" : 1
 			}
 		},
 		{
@@ -45704,60 +45589,6 @@
 				"ORTAXLOT" : "2602.00N01.00W2500--000001800",
 				"Shape.STArea()" : 942481.942871094,
 				"FMEAcres" : 22
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ -122.752655, 45.63470478 ],
-						[ -122.75268945, 45.63470484 ],
-						[ -122.75287307, 45.63470515 ],
-						[ -122.75010955, 45.6331774 ],
-						[ -122.75002513, 45.63325256 ],
-						[ -122.752655, 45.63470478 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 594,
-				"GISDB.PORT.taxlot_port.AREA" : 30423.46582,
-				"TLID" : "2N1W25A   -00100",
-				"PRIMACCNUM" : "R256356",
-				"ALTACCNUM" : "R708886204",
-				"OWNERSORT" : "PORT",
-				"OWNER1" : "PORT OF PORTLAND",
-				"OWNER2" : " ",
-				"OWNERADDR" : "PO BOX 3529",
-				"OWNERADDR2" : " ",
-				"OWNERCITY" : "PORTLAND",
-				"OWNERSTATE" : "OR",
-				"OWNERZIP" : "97208-3529",
-				"SITEADDR" : "7201 WI/ N MARINE DR",
-				"SITECITY" : "PORTLAND",
-				"SITEZIP" : "97203",
-				"LANDVAL" : 261710,
-				"BLDGVAL" : 57380,
-				"TOTALVAL" : 319090,
-				"BLDGSQFT" : 0,
-				"A_T_ACRES" : 0.7000000000000001,
-				"YEARBUILT" : 0,
-				"PROP_CODE" : "200",
-				"LANDUSE" : "VAC",
-				"TAXCODE" : "201",
-				"SALEDATE" : " ",
-				"SALEPRICE" : 0,
-				"COUNTY" : "M",
-				"X_COORD" : 7626270,
-				"Y_COORD" : 725254,
-				"JURIS_CITY" : "PORTLAND",
-				"GIS_ACRES" : 0.69842667,
-				"STATECLASS" : "200",
-				"ORTAXLOT" : "2602.00N01.00W25A0--000000100",
-				"Shape.STArea()" : 30423.4658203125,
-				"FMEAcres" : 1
 			}
 		},
 		{
@@ -57774,6 +57605,80 @@
 				"ORTAXLOT" : "2601.00N02.00E0800--000000301",
 				"Shape.STArea()" : 4605577.29101563,
 				"FMEAcres" : 106
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ -122.76160283, 45.6402005 ],
+							[ -122.76195134, 45.64042711 ],
+							[ -122.76479328, 45.64227489 ],
+							[ -122.76479638, 45.6422769 ],
+							[ -122.76488797, 45.64224199 ],
+							[ -122.76167583, 45.64015445 ],
+							[ -122.76160283, 45.6402005 ]
+						]
+					],
+					[
+						[
+							[ -122.75549515, 45.6362241 ],
+							[ -122.75548552, 45.63624183 ],
+							[ -122.75546334, 45.63628271 ],
+							[ -122.75536565, 45.63639344 ],
+							[ -122.75558094, 45.63620173 ],
+							[ -122.75506232, 45.63591512 ],
+							[ -122.75287307, 45.63470515 ],
+							[ -122.75010955, 45.6331774 ],
+							[ -122.75002513, 45.63325256 ],
+							[ -122.752655, 45.63470478 ],
+							[ -122.75294289, 45.63486374 ],
+							[ -122.75297657, 45.63483348 ],
+							[ -122.75549515, 45.6362241 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 575,
+				"GISDB.PORT.taxlot_port.AREA" : 19568.58496,
+				"TLID" : "2N1W24    -00400",
+				"PRIMACCNUM" : "R256355",
+				"ALTACCNUM" : "R708886200",
+				"OWNERSORT" : "PORT",
+				"OWNER1" : "PORT OF PORTLAND",
+				"OWNER2" : " ",
+				"OWNERADDR" : "PO BOX 3529",
+				"OWNERADDR2" : " ",
+				"OWNERCITY" : "PORTLAND",
+				"OWNERSTATE" : "OR",
+				"OWNERZIP" : "97208-3529",
+				"SITEADDR" : "7201 WI/ N MARINE DR",
+				"SITECITY" : "PORTLAND",
+				"SITEZIP" : "97203",
+				"LANDVAL" : 151460,
+				"BLDGVAL" : 197900,
+				"TOTALVAL" : 349360,
+				"BLDGSQFT" : 0,
+				"A_T_ACRES" : 0.45,
+				"YEARBUILT" : 0,
+				"PROP_CODE" : "200",
+				"LANDUSE" : "VAC",
+				"TAXCODE" : "393",
+				"SALEDATE" : " ",
+				"SALEPRICE" : 0,
+				"COUNTY" : "M",
+				"X_COORD" : 7625594,
+				"Y_COORD" : 725811,
+				"JURIS_CITY" : "PORTLAND",
+				"GIS_ACRES" : 0.44923288,
+				"STATECLASS" : "200",
+				"ORTAXLOT" : "2602.00N01.00W2400--000000400",
+				"Shape.STArea()" : 78062.134765625,
+				"FMEAcres" : 2
 			}
 		}
 	]
