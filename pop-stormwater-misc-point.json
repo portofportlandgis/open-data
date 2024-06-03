@@ -11849,45 +11849,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ -122.959194, 45.55106261 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.96016186, 45.5508369 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.96085901, 45.55038813 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ -122.96135429, 45.54991754 ]
 			},
 			"properties" : {
@@ -12851,19 +12812,6 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [ -122.95939055, 45.54871267 ]
-			},
-			"properties" : {
-				"owner_cd_resolved" : "Port of Portland",
-				"facility_cd_resolved" : "Hillsboro Airport",
-				"lifecycle_status_cd_resolved" : "Active",
-				"sewer_type_cd_resolved" : "Storm"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ -122.95979443, 45.54854873 ]
 			},
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
@@ -14844,6 +14792,58 @@
 			"properties" : {
 				"owner_cd_resolved" : "Port of Portland",
 				"facility_cd_resolved" : "Portland International Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95866458, 45.55111527 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95989424, 45.5506572 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.96069959, 45.55023981 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "",
+				"facility_cd_resolved" : "Hillsboro Airport",
+				"lifecycle_status_cd_resolved" : "Active",
+				"sewer_type_cd_resolved" : "Storm"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.95986534, 45.54864046 ]
+			},
+			"properties" : {
+				"owner_cd_resolved" : "Port of Portland",
+				"facility_cd_resolved" : "Hillsboro Airport",
 				"lifecycle_status_cd_resolved" : "Active",
 				"sewer_type_cd_resolved" : "Storm"
 			}
